@@ -1,0 +1,12 @@
+file_prefix,format,body_type,local_body,race_type,race,seats,download_date,download_location
+kcdc_mayor,xml,DC,Kāpiti Coast District Council,MR,Mayor,1,2016-10-16,http://www.kapiticoast.govt.nz/contentassets/cffae2e76df247ff89d006334b332d9a/final-results/mayor-iteration.xml
+kcdc_ward_districtwide,xml,DC,Kāpiti Coast District Council,AL,Districtwide,5,2016-10-16,http://www.kapiticoast.govt.nz/contentassets/cffae2e76df247ff89d006334b332d9a/final-results/districtwide-iteration.xml
+kcdc_ward_paekakariki-raumati,xml,DC,Kāpiti Coast District Council,WD,Paekakariki-Raumati Ward,1,2016-10-16,http://www.kapiticoast.govt.nz/contentassets/cffae2e76df247ff89d006334b332d9a/final-results/paekakariki-raumati-ward-iteration.xml
+kcdc_ward_paraparaumu,xml,DC,Kāpiti Coast District Council,WD,Paraparaumu Ward,2,2016-10-16,http://www.kapiticoast.govt.nz/contentassets/cffae2e76df247ff89d006334b332d9a/final-results/paraparaumu-ward-iteration.xml
+kcdc_ward_waikanae,xml,DC,Kāpiti Coast District Council,WD,Waikanae Ward,1,2016-10-16,http://www.kapiticoast.govt.nz/contentassets/cffae2e76df247ff89d006334b332d9a/final-results/waikanae-ward-iteration.xml
+kcdc_cb_paraparaumu-raumati,xml,DC,Kāpiti Coast District Council,CB,Paraparaumu-Raumati Community Board,4,2016-10-16,http://www.kapiticoast.govt.nz/contentassets/cffae2e76df247ff89d006334b332d9a/final-results/paraparaumu-raumati-communityboard-iteration.xml
+kcdc_cb_waikanae,xml,DC,Kāpiti Coast District Council,CB,Waikanae Community Board,4,2016-10-16,http://www.kapiticoast.govt.nz/contentassets/cffae2e76df247ff89d006334b332d9a/final-results/waikanae-cb-iteration.xml
+hvdhb,tsv,HB,Hutt Valley District Health Board,HB,Hutt Valley District Health Board,7,2016-11-02,XXX
+ndhb,xml,HB,Northland District Health Board,HB,Northland District Health Board,7,2016-11-02,XXX
+whan-dhb,xlsx,HB,Whanganui District Health Board,HB,Whanganui District Health Board,7,2016-11-02,XXX
+
