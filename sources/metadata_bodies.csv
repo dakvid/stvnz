@@ -1,0 +1,26 @@
+body_code,body_name,body_type_code,class_code
+DCC,Dunedin City Council,TA,U
+KCDC,Kāpiti Coast District Council,TA,P
+MDC,Marlborough District Council,,
+PCC,Porirua City Council,TA,
+PNCC,Palmerston North City Council,TA,
+WCC,Wellington City Council,TA,U
+WRC,Wellington Regional Council,RC,
+ADHB,Auckland District Health Board,HB,
+BOPDHB,Bay of Plenty District Health Board,HB,
+CDHB,Canterbury District Health Board,HB,
+CCDHB,Capital and Coast District Health Board,HB,
+CMDHB,Counties Manukou District Health Board,HB,
+HBDHB,Hawkes Bay District Health Board,HB,
+HVDHB,Hutt Valley District Health Board,HB,
+LDHB,Lakes District Health Board,HB,
+NDHB,Northland District Health Board,HB,
+NMDHB,Nelson-Marlborough District Health Board,HB,
+SDHB,Southern District Health Board,HB,
+SCDHB,South Canterbury District Health Board,HB,
+TAIDHB,Tairawhiti District Health Board,HB,
+TARDHB,Taranaki District Health Board,HB,
+WAIKDHB,Waikato District Health Board,HB,
+WAITDHB,Waitemata District Health Board,HB,
+WCDHB,West Coast District Health Board,HB,
+WHDHB,Whanganui District Health Board,HB,

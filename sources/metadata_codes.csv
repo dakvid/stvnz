@@ -1,0 +1,17 @@
+class,code,description
+body_type,TA,Territorial Authority
+body_type,UA,Unitary Authority
+body_type,RC,Regional Council
+body_type,HB,District Health Board
+class,U,Urban
+class,P,Provincial
+class,R,Rural
+race,MR,Mayor
+race,AL,At Large
+race,WD,Ward
+race,CB,Community Board
+race,HB,District Health Board
+status,H,hopeful
+status,X,excluded
+status,E,elected
+status,W,withdrown
