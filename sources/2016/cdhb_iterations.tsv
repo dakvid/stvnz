@@ -1,0 +1,507 @@
+ITER	CANDIDATE	VOTES
+1	Buck Sally	17274.0
+1	Mene Chris	11446.0
+1	Kane Jo	10882.0
+1	Dickerson Andrew	9852.0
+1	Crighton Anna	9277.0
+1	Morrell David	9243.0
+1	Keown Aaron	9087.0
+1	Phipps Rochelle	7120.0
+1	Dugan Kelly	6718.0
+1	Wakefield Steve	5665.0
+1	Church Donald George	4605.0
+1	Burn John	3198.0
+1	De Lu Janet	2475.0
+1	Gargiulo Brian	2209.0
+1	Miller Grant	2170.0
+1	Bannan Jono	2014.0
+1	Roe Richard E	1921.0
+1	Taurua Gilbert	1305.0
+1	May Ken	917.0
+1	Kingi-Patterson Drucilla	761.0
+1	Hansen Tubby	757.0
+1	Singh Jack	721.0
+2	Buck Sally	14952.125015262
+2	Mene Chris	11656.761837216001
+2	Kane Jo	11118.031751372004
+2	Dickerson Andrew	9984.801463756
+2	Crighton Anna	9772.182785908
+2	Morrell David	9418.545254722001
+2	Keown Aaron	9298.568323837999
+2	Phipps Rochelle	7189.357849492
+2	Dugan Kelly	6806.310285109001
+2	Wakefield Steve	5704.786673352
+2	Church Donald George	4682.691544586001
+2	Burn John	3305.665964037
+2	De Lu Janet	2549.8688414089993
+2	Gargiulo Brian	2244.3509969310007
+2	Miller Grant	2195.2699141559997
+2	Bannan Jono	2101.638212924
+2	Roe Richard E	1945.329013097
+2	Taurua Gilbert	1319.5167591960003
+2	May Ken	935.549192306
+2	Kingi-Patterson Drucilla	780.490093365
+2	Hansen Tubby	773.93621906199985
+2	Singh Jack	741.4309944239999
+3	Buck Sally	15009.869075112001
+3	Mene Chris	11708.921074696
+3	Kane Jo	11151.110312184
+3	Dickerson Andrew	10003.019729976
+3	Crighton Anna	9818.784749760001
+3	Morrell David	9459.949774512002
+3	Keown Aaron	9336.03587288
+3	Phipps Rochelle	7249.827802184
+3	Dugan Kelly	6840.3811652800005
+3	Wakefield Steve	5724.440358447999
+3	Church Donald George	4701.682510648
+3	Burn John	3327.9139005520005
+3	De Lu Janet	2571.83856448
+3	Gargiulo Brian	2260.9713001840005
+3	Miller Grant	2220.0017935360006
+3	Bannan Jono	2134.0582953199996
+3	Roe Richard E	1974.001793536
+3	Taurua Gilbert	1353.980268944
+3	May Ken	955.8242151119998
+3	Kingi-Patterson Drucilla	805.1784751920001
+3	Hansen Tubby	787.7408070480001
+3	Singh Jack	0.0
+4	Buck Sally	14924.441496852003
+4	Mene Chris	11716.730162116004
+4	Kane Jo	11159.834642364001
+4	Dickerson Andrew	10007.925627996
+4	Crighton Anna	9837.089604959998
+4	Morrell David	9466.415521752
+4	Keown Aaron	9343.958135479996
+4	Phipps Rochelle	7252.401307363999
+4	Dugan Kelly	6843.62880088
+4	Wakefield Steve	5725.946080408
+4	Church Donald George	4704.541414108
+4	Burn John	3331.943921092
+4	De Lu Janet	2574.5941340800005
+4	Gargiulo Brian	2262.314640364
+4	Miller Grant	2220.946560256
+4	Bannan Jono	2137.3305342200006
+4	Roe Richard E	1974.946560256
+4	Taurua Gilbert	1354.5609068239999
+4	May Ken	956.508186852
+4	Kingi-Patterson Drucilla	805.911653532
+4	Hansen Tubby	788.385413508
+4	Singh Jack	0.0
+5	Buck Sally	14989.98485428
+5	Mene Chris	11763.035455820002
+5	Kane Jo	11192.866100779996
+5	Dickerson Andrew	10028.94547576
+5	Crighton Anna	9906.15900712
+5	Morrell David	9501.0087205
+5	Keown Aaron	9418.808509779998
+5	Phipps Rochelle	7269.2631042600005
+5	Dugan Kelly	6871.7764719199995
+5	Wakefield Steve	5757.7997892799995
+5	Church Donald George	4735.264988839999
+5	Burn John	3363.37828626
+5	De Lu Janet	2598.5976939800003
+5	Gargiulo Brian	2282.16711926
+5	Miller Grant	2251.076788
+5	Bannan Jono	2159.61877556
+5	Roe Richard E	1989.79602012
+5	Taurua Gilbert	1366.12684068
+5	May Ken	975.49605524
+5	Kingi-Patterson Drucilla	848.3383588799999
+5	Hansen Tubby	0.0
+5	Singh Jack	0.0
+6	Buck Sally	15006.153327632
+6	Mene Chris	11856.264545498001
+6	Kane Jo	11278.823277708001
+6	Dickerson Andrew	10061.206326672
+6	Crighton Anna	9992.159322486998
+6	Morrell David	9541.941768896004
+6	Keown Aaron	9473.77629194
+6	Phipps Rochelle	7319.32481786
+6	Dugan Kelly	6914.486206161001
+6	Wakefield Steve	5780.9795690030005
+6	Church Donald George	4746.432069851001
+6	Burn John	3389.273743437
+6	De Lu Janet	2640.157299646
+6	Gargiulo Brian	2303.902960438
+6	Miller Grant	2273.45965139
+6	Bannan Jono	2187.0663899969995
+6	Roe Richard E	2011.4443296769998
+6	Taurua Gilbert	1420.436158506
+6	May Ken	990.75689385
+6	Hansen Tubby	0.0
+6	Kingi-Patterson Drucilla	0.0
+6	Singh Jack	0.0
+7	Buck Sally	14975.748338424
+7	Mene Chris	11946.68950764
+7	Kane Jo	11345.320597912001
+7	Dickerson Andrew	10106.144359416003
+7	Crighton Anna	10059.655081272
+7	Morrell David	9616.452304487997
+7	Keown Aaron	9532.224878600002
+7	Phipps Rochelle	7396.357899856
+7	Dugan Kelly	6977.767069176
+7	Wakefield Steve	5808.040259592
+7	Church Donald George	4796.556240168001
+7	Burn John	3434.653356232001
+7	De Lu Janet	2673.160956296
+7	Miller Grant	2363.654670912
+7	Gargiulo Brian	2333.388382184
+7	Bannan Jono	2212.464711112
+7	Roe Richard E	2043.3523128479997
+7	Taurua Gilbert	1446.7115273840002
+7	Hansen Tubby	0.0
+7	Kingi-Patterson Drucilla	0.0
+7	May Ken	0.0
+7	Singh Jack	0.0
+8	Buck Sally	14984.774183718
+8	Mene Chris	12270.012001232002
+8	Kane Jo	11461.69572411
+8	Dickerson Andrew	10162.471749564
+8	Crighton Anna	10144.065237402
+8	Morrell David	9722.152005748
+8	Keown Aaron	9600.637622088
+8	Phipps Rochelle	7537.307377193999
+8	Dugan Kelly	7051.422081084001
+8	Wakefield Steve	5925.116204044001
+8	Church Donald George	4816.468749256
+8	Burn John	3456.821294468
+8	De Lu Janet	2728.0328013959997
+8	Miller Grant	2394.2527418659997
+8	Gargiulo Brian	2356.1395381300003
+8	Bannan Jono	2241.9528654419996
+8	Roe Richard E	2097.2527418659997
+8	Hansen Tubby	0.0
+8	Kingi-Patterson Drucilla	0.0
+8	May Ken	0.0
+8	Singh Jack	0.0
+8	Taurua Gilbert	0.0
+9	Buck Sally	15015.308599396
+9	Mene Chris	12435.452425222
+9	Kane Jo	11599.572620199999
+9	Dickerson Andrew	10299.731337732002
+9	Crighton Anna	10247.157474787999
+9	Morrell David	9887.876001485998
+9	Keown Aaron	9718.407620717999
+9	Phipps Rochelle	7975.855501002001
+9	Dugan Kelly	7210.592791172
+9	Wakefield Steve	6045.144663754001
+9	Church Donald George	4893.366702128
+9	Burn John	3505.7292712079998
+9	De Lu Janet	2825.299495372
+9	Miller Grant	2464.800446256
+9	Gargiulo Brian	2386.554021484
+9	Bannan Jono	2300.8005286340003
+9	Hansen Tubby	0.0
+9	Kingi-Patterson Drucilla	0.0
+9	May Ken	0.0
+9	Roe Richard E	0.0
+9	Singh Jack	0.0
+9	Taurua Gilbert	0.0
+10	Buck Sally	14851.456198583997
+10	Mene Chris	12451.063070388
+10	Kane Jo	11616.927930799999
+10	Dickerson Andrew	10309.358967927998
+10	Crighton Anna	10282.653652152003
+10	Morrell David	9900.819409443999
+10	Keown Aaron	9734.127878372003
+10	Phipps Rochelle	7981.509678508
+10	Dugan Kelly	7217.297421688
+10	Wakefield Steve	6048.460441516
+10	Church Donald George	4898.993476512
+10	Burn John	3513.7309828320003
+10	De Lu Janet	2831.0906884879996
+10	Miller Grant	2466.9196210239998
+10	Gargiulo Brian	2389.276064936
+10	Bannan Jono	2307.4046810359996
+10	Hansen Tubby	0.0
+10	Kingi-Patterson Drucilla	0.0
+10	May Ken	0.0
+10	Roe Richard E	0.0
+10	Singh Jack	0.0
+10	Taurua Gilbert	0.0
+11	Buck Sally	15323.67168186
+11	Mene Chris	12544.902317672
+11	Kane Jo	11728.601177838002
+11	Crighton Anna	10571.87747536
+11	Dickerson Andrew	10468.40486938
+11	Morrell David	9986.497875354
+11	Keown Aaron	9851.443672404
+11	Phipps Rochelle	8075.957285068
+11	Dugan Kelly	7421.524763298
+11	Wakefield Steve	6099.4135473199985
+11	Church Donald George	5016.703626198
+11	Burn John	3678.173759484
+11	De Lu Janet	2997.1713764680003
+11	Miller Grant	2506.1745239300003
+11	Gargiulo Brian	2434.429374308
+11	Bannan Jono	0.0
+11	Hansen Tubby	0.0
+11	Kingi-Patterson Drucilla	0.0
+11	May Ken	0.0
+11	Roe Richard E	0.0
+11	Singh Jack	0.0
+11	Taurua Gilbert	0.0
+12	Buck Sally	14838.118416930001
+12	Mene Chris	12590.755754036001
+12	Kane Jo	11780.199409719002
+12	Crighton Anna	10683.100913679997
+12	Dickerson Andrew	10499.09624269
+12	Morrell David	10024.822744077
+12	Keown Aaron	9898.293922602
+12	Phipps Rochelle	8093.3228313340005
+12	Dugan Kelly	7444.005538449001
+12	Wakefield Steve	6109.381685660001
+12	Church Donald George	5035.2496098990005
+12	Burn John	3704.563094142
+12	De Lu Janet	3017.1601170340005
+12	Miller Grant	2512.601349965
+12	Gargiulo Brian	2442.876059954
+12	Bannan Jono	0.0
+12	Hansen Tubby	0.0
+12	Kingi-Patterson Drucilla	0.0
+12	May Ken	0.0
+12	Roe Richard E	0.0
+12	Singh Jack	0.0
+12	Taurua Gilbert	0.0
+13	Buck Sally	15065.802427302002
+13	Mene Chris	12919.417446150002
+13	Kane Jo	12002.524520864
+13	Crighton Anna	10870.078286052001
+13	Dickerson Andrew	10639.28773142
+13	Morrell David	10246.061786922
+13	Keown Aaron	10151.963672426
+13	Phipps Rochelle	8213.839148458
+13	Dugan Kelly	7549.364619446001
+13	Wakefield Steve	6214.44103629
+13	Church Donald George	5123.151412382
+13	Burn John	3843.3014112180003
+13	De Lu Janet	3060.697638658
+13	Miller Grant	2577.433489618
+13	Bannan Jono	0.0
+13	Gargiulo Brian	0.0
+13	Hansen Tubby	0.0
+13	Kingi-Patterson Drucilla	0.0
+13	May Ken	0.0
+13	Roe Richard E	0.0
+13	Singh Jack	0.0
+13	Taurua Gilbert	0.0
+14	Buck Sally	14973.530973373
+14	Mene Chris	13243.983227426
+14	Kane Jo	12266.425159625998
+14	Crighton Anna	11082.266105519
+14	Dickerson Andrew	10823.654512013001
+14	Morrell David	10458.834861499001
+14	Keown Aaron	10382.108242849003
+14	Phipps Rochelle	8509.761891174001
+14	Dugan Kelly	7676.200904561001
+14	Wakefield Steve	6385.279218975999
+14	Church Donald George	5204.218294055001
+14	Burn John	3950.8230628630004
+14	De Lu Janet	3121.4944708340004
+14	Bannan Jono	0.0
+14	Gargiulo Brian	0.0
+14	Hansen Tubby	0.0
+14	Kingi-Patterson Drucilla	0.0
+14	May Ken	0.0
+14	Miller Grant	0.0
+14	Roe Richard E	0.0
+14	Singh Jack	0.0
+14	Taurua Gilbert	0.0
+15	Buck Sally	14985.797714852002
+15	Mene Chris	13512.360025941998
+15	Kane Jo	12579.714583830002
+15	Crighton Anna	11419.455940172
+15	Dickerson Andrew	11289.091349528
+15	Morrell David	10695.536401534002
+15	Keown Aaron	10551.745065634
+15	Phipps Rochelle	8828.231727320002
+15	Dugan Kelly	8221.055351727999
+15	Wakefield Steve	6439.096010114
+15	Church Donald George	5296.2935942799995
+15	Burn John	4023.2566451859993
+15	Bannan Jono	0.0
+15	De Lu Janet	0.0
+15	Gargiulo Brian	0.0
+15	Hansen Tubby	0.0
+15	Kingi-Patterson Drucilla	0.0
+15	May Ken	0.0
+15	Miller Grant	0.0
+15	Roe Richard E	0.0
+15	Singh Jack	0.0
+15	Taurua Gilbert	0.0
+16	Buck Sally	15095.06272512
+16	Mene Chris	13773.0287812
+16	Kane Jo	12851.772102800001
+16	Crighton Anna	12128.944412360002
+16	Dickerson Andrew	11875.817544399999
+16	Morrell David	11018.149698120002
+16	Keown Aaron	10809.62149676
+16	Phipps Rochelle	9069.34734288
+16	Dugan Kelly	8452.558579679997
+16	Wakefield Steve	6621.85168028
+16	Church Donald George	5924.006169760001
+16	Bannan Jono	0.0
+16	Burn John	0.0
+16	De Lu Janet	0.0
+16	Gargiulo Brian	0.0
+16	Hansen Tubby	0.0
+16	Kingi-Patterson Drucilla	0.0
+16	May Ken	0.0
+16	Miller Grant	0.0
+16	Roe Richard E	0.0
+16	Singh Jack	0.0
+16	Taurua Gilbert	0.0
+17	Buck Sally	15165.691096926
+17	Mene Chris	14214.440458666002
+17	Kane Jo	13375.771306722001
+17	Crighton Anna	13159.648988458
+17	Dickerson Andrew	12835.497643722
+17	Morrell David	11428.963166214
+17	Keown Aaron	11227.325549287998
+17	Phipps Rochelle	9419.976507026
+17	Dugan Kelly	8884.009120576
+17	Wakefield Steve	6907.430798823998
+17	Bannan Jono	0.0
+17	Burn John	0.0
+17	Church Donald George	0.0
+17	De Lu Janet	0.0
+17	Gargiulo Brian	0.0
+17	Hansen Tubby	0.0
+17	Kingi-Patterson Drucilla	0.0
+17	May Ken	0.0
+17	Miller Grant	0.0
+17	Roe Richard E	0.0
+17	Singh Jack	0.0
+17	Taurua Gilbert	0.0
+18	Mene Chris	15220.568723002
+18	Buck Sally	14943.939648496002
+18	Dickerson Andrew	13966.180453894001
+18	Crighton Anna	13942.577264832002
+18	Kane Jo	13899.891013311
+18	Morrell David	12195.814936096
+18	Keown Aaron	11929.831360959
+18	Phipps Rochelle	10855.510347889001
+18	Dugan Kelly	9155.533598145003
+18	Bannan Jono	0.0
+18	Burn John	0.0
+18	Church Donald George	0.0
+18	De Lu Janet	0.0
+18	Gargiulo Brian	0.0
+18	Hansen Tubby	0.0
+18	Kingi-Patterson Drucilla	0.0
+18	May Ken	0.0
+18	Miller Grant	0.0
+18	Roe Richard E	0.0
+18	Singh Jack	0.0
+18	Taurua Gilbert	0.0
+18	Wakefield Steve	0.0
+19	Mene Chris	15680.340781356002
+19	Buck Sally	15321.434802381002
+19	Dickerson Andrew	15112.749339648999
+19	Kane Jo	15093.203311427
+19	Crighton Anna	14868.449179839
+19	Keown Aaron	13352.241272415004
+19	Morrell David	13132.890567932001
+19	Phipps Rochelle	12241.105138461999
+19	Bannan Jono	0.0
+19	Burn John	0.0
+19	Church Donald George	0.0
+19	De Lu Janet	0.0
+19	Dugan Kelly	0.0
+19	Gargiulo Brian	0.0
+19	Hansen Tubby	0.0
+19	Kingi-Patterson Drucilla	0.0
+19	May Ken	0.0
+19	Miller Grant	0.0
+19	Roe Richard E	0.0
+19	Singh Jack	0.0
+19	Taurua Gilbert	0.0
+19	Wakefield Steve	0.0
+20	Crighton Anna	14999.766040526001
+20	Kane Jo	14839.213596220001
+20	Dickerson Andrew	14752.248765164002
+20	Mene Chris	14686.998375919
+20	Buck Sally	14679.627801722001
+20	Keown Aaron	13982.615927440998
+20	Morrell David	13689.679250963
+20	Phipps Rochelle	12707.731403646001
+20	Bannan Jono	0.0
+20	Burn John	0.0
+20	Church Donald George	0.0
+20	De Lu Janet	0.0
+20	Dugan Kelly	0.0
+20	Gargiulo Brian	0.0
+20	Hansen Tubby	0.0
+20	Kingi-Patterson Drucilla	0.0
+20	May Ken	0.0
+20	Miller Grant	0.0
+20	Roe Richard E	0.0
+20	Singh Jack	0.0
+20	Taurua Gilbert	0.0
+20	Wakefield Steve	0.0
+21	Crighton Anna	14588.025519796998
+21	Dickerson Andrew	14567.531833839
+21	Kane Jo	14567.072956058
+21	Mene Chris	14517.789291110003
+21	Buck Sally	14501.019801637
+21	Keown Aaron	14362.165975508999
+21	Morrell David	14005.666149490999
+21	Phipps Rochelle	12962.479675731
+21	Bannan Jono	0.0
+21	Burn John	0.0
+21	Church Donald George	0.0
+21	De Lu Janet	0.0
+21	Dugan Kelly	0.0
+21	Gargiulo Brian	0.0
+21	Hansen Tubby	0.0
+21	Kingi-Patterson Drucilla	0.0
+21	May Ken	0.0
+21	Miller Grant	0.0
+21	Roe Richard E	0.0
+21	Singh Jack	0.0
+21	Taurua Gilbert	0.0
+21	Wakefield Steve	0.0
+22	Keown Aaron	14483.028869569
+22	Crighton Anna	14453.125814211
+22	Kane Jo	14428.625892924
+22	Dickerson Andrew	14412.140187722001
+22	Mene Chris	14401.854803645998
+22	Buck Sally	14384.259669078
+22	Morrell David	14204.728076897001
+22	Phipps Rochelle	13130.891755202001
+22	Bannan Jono	0.0
+22	Burn John	0.0
+22	Church Donald George	0.0
+22	De Lu Janet	0.0
+22	Dugan Kelly	0.0
+22	Gargiulo Brian	0.0
+22	Hansen Tubby	0.0
+22	Kingi-Patterson Drucilla	0.0
+22	May Ken	0.0
+22	Miller Grant	0.0
+22	Roe Richard E	0.0
+22	Singh Jack	0.0
+22	Taurua Gilbert	0.0
+22	Wakefield Steve	0.0
+23	Crighton Anna	14378.479421091
+23	Keown Aaron	14373.844637957
+23	Kane Jo	14365.389470024
+23	Dickerson Andrew	14351.686111763998
+23	Morrell David	14350.872439102
+23	Mene Chris	14349.879668626998
+23	Buck Sally	14333.031906017
+23	Phipps Rochelle	13259.365778193
+23	Bannan Jono	0.0
+23	Burn John	0.0
+23	Church Donald George	0.0
+23	De Lu Janet	0.0
+23	Dugan Kelly	0.0
+23	Gargiulo Brian	0.0
+23	Hansen Tubby	0.0
+23	Kingi-Patterson Drucilla	0.0
+23	May Ken	0.0
+23	Miller Grant	0.0
+23	Roe Richard E	0.0
+23	Singh Jack	0.0
+23	Taurua Gilbert	0.0
+23	Wakefield Steve	0.0

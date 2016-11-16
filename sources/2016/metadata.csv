@@ -1,12 +1,13 @@
-file_prefix,format,body_type,local_body,race_type,race,seats,download_date,download_location
-kcdc_mayor,xml,DC,Kāpiti Coast District Council,MR,Mayor,1,2016-10-16,http://www.kapiticoast.govt.nz/contentassets/cffae2e76df247ff89d006334b332d9a/final-results/mayor-iteration.xml
-kcdc_ward_districtwide,xml,DC,Kāpiti Coast District Council,AL,Districtwide,5,2016-10-16,http://www.kapiticoast.govt.nz/contentassets/cffae2e76df247ff89d006334b332d9a/final-results/districtwide-iteration.xml
-kcdc_ward_paekakariki-raumati,xml,DC,Kāpiti Coast District Council,WD,Paekakariki-Raumati Ward,1,2016-10-16,http://www.kapiticoast.govt.nz/contentassets/cffae2e76df247ff89d006334b332d9a/final-results/paekakariki-raumati-ward-iteration.xml
-kcdc_ward_paraparaumu,xml,DC,Kāpiti Coast District Council,WD,Paraparaumu Ward,2,2016-10-16,http://www.kapiticoast.govt.nz/contentassets/cffae2e76df247ff89d006334b332d9a/final-results/paraparaumu-ward-iteration.xml
-kcdc_ward_waikanae,xml,DC,Kāpiti Coast District Council,WD,Waikanae Ward,1,2016-10-16,http://www.kapiticoast.govt.nz/contentassets/cffae2e76df247ff89d006334b332d9a/final-results/waikanae-ward-iteration.xml
-kcdc_cb_paraparaumu-raumati,xml,DC,Kāpiti Coast District Council,CB,Paraparaumu-Raumati Community Board,4,2016-10-16,http://www.kapiticoast.govt.nz/contentassets/cffae2e76df247ff89d006334b332d9a/final-results/paraparaumu-raumati-communityboard-iteration.xml
-kcdc_cb_waikanae,xml,DC,Kāpiti Coast District Council,CB,Waikanae Community Board,4,2016-10-16,http://www.kapiticoast.govt.nz/contentassets/cffae2e76df247ff89d006334b332d9a/final-results/waikanae-cb-iteration.xml
-hvdhb,tsv,HB,Hutt Valley District Health Board,HB,Hutt Valley District Health Board,7,2016-11-02,XXX
-ndhb,xml,HB,Northland District Health Board,HB,Northland District Health Board,7,2016-11-02,XXX
-whan-dhb,xlsx,HB,Whanganui District Health Board,HB,Whanganui District Health Board,7,2016-11-02,XXX
-
+file_prefix,format,local_body,race_type,race,seats,download_date,download_location
+kcdc_mayor,xml,KCDC,MR,Mayor,1,2016-10-16,http://www.kapiticoast.govt.nz/contentassets/cffae2e76df247ff89d006334b332d9a/final-results/mayor-iteration.xml
+kcdc_ward_districtwide,xml,KCDC,AL,Districtwide,5,2016-10-16,http://www.kapiticoast.govt.nz/contentassets/cffae2e76df247ff89d006334b332d9a/final-results/districtwide-iteration.xml
+kcdc_ward_paekakariki-raumati,xml,KCDC,WD,Paekakariki-Raumati Ward,1,2016-10-16,http://www.kapiticoast.govt.nz/contentassets/cffae2e76df247ff89d006334b332d9a/final-results/paekakariki-raumati-ward-iteration.xml
+kcdc_ward_paraparaumu,xml,KCDC,WD,Paraparaumu Ward,2,2016-10-16,http://www.kapiticoast.govt.nz/contentassets/cffae2e76df247ff89d006334b332d9a/final-results/paraparaumu-ward-iteration.xml
+kcdc_ward_waikanae,xml,KCDC,WD,Waikanae Ward,1,2016-10-16,http://www.kapiticoast.govt.nz/contentassets/cffae2e76df247ff89d006334b332d9a/final-results/waikanae-ward-iteration.xml
+kcdc_cb_paraparaumu-raumati,xml,KCDC,CB,Paraparaumu-Raumati Community Board,4,2016-10-16,http://www.kapiticoast.govt.nz/contentassets/cffae2e76df247ff89d006334b332d9a/final-results/paraparaumu-raumati-communityboard-iteration.xml
+kcdc_cb_waikanae,xml,KCDC,CB,Waikanae Community Board,4,2016-10-16,http://www.kapiticoast.govt.nz/contentassets/cffae2e76df247ff89d006334b332d9a/final-results/waikanae-cb-iteration.xml
+hvdhb,tsv,HVDHB,HB,Hutt Valley DHB,7,2016-11-02,https://fyi.org.nz/request/4853/response/15607/attach/5/Hutt%20Valley%20District%20Health%20Board%202016%20Triennial%20Elections%20Final%20STV%20Result%20Report.doc
+ndhb,xml,NDHB,HB,Northland DHB,7,2016-11-02,https://fyi.org.nz/request/4856/response/15614/attach/2/NDHB%20STV%20Result%20Election%20WhangareiDistrictCouncil%20Issue%20NorthlandDistric....xml
+whan-dhb,xlsx,WHDHB,HB,Whanganui DHB,7,2016-11-02,https://fyi.org.nz/request/4864/response/15598/attach/2/DHB%20STV%20Public%20report.xlsx
+wcdhb,tsv,WCDHB,HB,West Coast DHB,7,2016-11-16,https://fyi.org.nz/request/4833/response/15831/attach/6/WCDHB%20Appendix%202.pdf
+cdhb,tsv,CDHB,HB,Canterbury DHB,7,2016-11-16,https://fyi.org.nz/request/4833/response/15831/attach/7/CDHB%20Appendix%201.pdf
