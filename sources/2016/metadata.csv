@@ -1,13 +1,56 @@
-file_prefix,format,local_body,race_type,race,seats,download_date,download_location
-kcdc_mayor,xml,KCDC,MR,Mayor,1,2016-10-16,http://www.kapiticoast.govt.nz/contentassets/cffae2e76df247ff89d006334b332d9a/final-results/mayor-iteration.xml
-kcdc_ward_districtwide,xml,KCDC,AL,Districtwide,5,2016-10-16,http://www.kapiticoast.govt.nz/contentassets/cffae2e76df247ff89d006334b332d9a/final-results/districtwide-iteration.xml
-kcdc_ward_paekakariki-raumati,xml,KCDC,WD,Paekakariki-Raumati Ward,1,2016-10-16,http://www.kapiticoast.govt.nz/contentassets/cffae2e76df247ff89d006334b332d9a/final-results/paekakariki-raumati-ward-iteration.xml
-kcdc_ward_paraparaumu,xml,KCDC,WD,Paraparaumu Ward,2,2016-10-16,http://www.kapiticoast.govt.nz/contentassets/cffae2e76df247ff89d006334b332d9a/final-results/paraparaumu-ward-iteration.xml
-kcdc_ward_waikanae,xml,KCDC,WD,Waikanae Ward,1,2016-10-16,http://www.kapiticoast.govt.nz/contentassets/cffae2e76df247ff89d006334b332d9a/final-results/waikanae-ward-iteration.xml
-kcdc_cb_paraparaumu-raumati,xml,KCDC,CB,Paraparaumu-Raumati Community Board,4,2016-10-16,http://www.kapiticoast.govt.nz/contentassets/cffae2e76df247ff89d006334b332d9a/final-results/paraparaumu-raumati-communityboard-iteration.xml
-kcdc_cb_waikanae,xml,KCDC,CB,Waikanae Community Board,4,2016-10-16,http://www.kapiticoast.govt.nz/contentassets/cffae2e76df247ff89d006334b332d9a/final-results/waikanae-cb-iteration.xml
-hvdhb,tsv,HVDHB,HB,Hutt Valley DHB,7,2016-11-02,https://fyi.org.nz/request/4853/response/15607/attach/5/Hutt%20Valley%20District%20Health%20Board%202016%20Triennial%20Elections%20Final%20STV%20Result%20Report.doc
-ndhb,xml,NDHB,HB,Northland DHB,7,2016-11-02,https://fyi.org.nz/request/4856/response/15614/attach/2/NDHB%20STV%20Result%20Election%20WhangareiDistrictCouncil%20Issue%20NorthlandDistric....xml
-whan-dhb,xlsx,WHDHB,HB,Whanganui DHB,7,2016-11-02,https://fyi.org.nz/request/4864/response/15598/attach/2/DHB%20STV%20Public%20report.xlsx
-wcdhb,tsv,WCDHB,HB,West Coast DHB,7,2016-11-16,https://fyi.org.nz/request/4833/response/15831/attach/6/WCDHB%20Appendix%202.pdf
-cdhb,tsv,CDHB,HB,Canterbury DHB,7,2016-11-16,https://fyi.org.nz/request/4833/response/15831/attach/7/CDHB%20Appendix%201.pdf
+file_prefix,format,local_body,race_type,race,seats,candidates,iterations,download_date,download_location
+kcdc_mayor,xml,KCDC,MR,Mayor,1,,,2016-10-16,http://www.kapiticoast.govt.nz/contentassets/cffae2e76df247ff89d006334b332d9a/final-results/mayor-iteration.xml
+kcdc_ward_districtwide,xml,KCDC,AL,Districtwide,5,,,2016-10-16,http://www.kapiticoast.govt.nz/contentassets/cffae2e76df247ff89d006334b332d9a/final-results/districtwide-iteration.xml
+kcdc_ward_paekakariki-raumati,xml,KCDC,WD,Paekakariki-Raumati Ward,1,,,2016-10-16,http://www.kapiticoast.govt.nz/contentassets/cffae2e76df247ff89d006334b332d9a/final-results/paekakariki-raumati-ward-iteration.xml
+kcdc_ward_paraparaumu,xml,KCDC,WD,Paraparaumu Ward,2,,,2016-10-16,http://www.kapiticoast.govt.nz/contentassets/cffae2e76df247ff89d006334b332d9a/final-results/paraparaumu-ward-iteration.xml
+kcdc_ward_waikanae,xml,KCDC,WD,Waikanae Ward,1,,,2016-10-16,http://www.kapiticoast.govt.nz/contentassets/cffae2e76df247ff89d006334b332d9a/final-results/waikanae-ward-iteration.xml
+kcdc_cb_paraparaumu-raumati,xml,KCDC,CB,Paraparaumu-Raumati Community Board,4,,,2016-10-16,http://www.kapiticoast.govt.nz/contentassets/cffae2e76df247ff89d006334b332d9a/final-results/paraparaumu-raumati-communityboard-iteration.xml
+kcdc_cb_waikanae,xml,KCDC,CB,Waikanae Community Board,4,,,2016-10-16,http://www.kapiticoast.govt.nz/contentassets/cffae2e76df247ff89d006334b332d9a/final-results/waikanae-cb-iteration.xml
+hvdhb,tsv,HVDHB,HB,Hutt Valley DHB,7,,,2016-11-02,https://fyi.org.nz/request/4853/response/15607/attach/5/Hutt%20Valley%20District%20Health%20Board%202016%20Triennial%20Elections%20Final%20STV%20Result%20Report.doc
+ndhb,xml,NDHB,HB,Northland DHB,7,,,2016-11-02,https://fyi.org.nz/request/4856/response/15614/attach/2/NDHB%20STV%20Result%20Election%20WhangareiDistrictCouncil%20Issue%20NorthlandDistric....xml
+whan-dhb,xlsx,WHDHB,HB,Whanganui DHB,7,,,2016-11-02,https://fyi.org.nz/request/4864/response/15598/attach/2/DHB%20STV%20Public%20report.xlsx
+wcdhb,tsv,WCDHB,HB,West Coast DHB,7,,,2016-11-16,https://fyi.org.nz/request/4833/response/15831/attach/6/WCDHB%20Appendix%202.pdf
+cdhb,tsv,CDHB,HB,Canterbury DHB,7,,,2016-11-16,https://fyi.org.nz/request/4833/response/15831/attach/7/CDHB%20Appendix%201.pdf
+scdhb,tsv,SCDHB,HB,South Canterbury DHB,7,,,2016-10-24,https://www.timaru.govt.nz/__data/assets/pdf_file/0004/91912/South-Canterbury-District-Health-Board-2016-Triennial-Elections-Final-STV-Result-Report.pdf
+ldhb,tsv,LDHB,HB,Lakes DHB,7,,,2016-11-01,https://fyi.org.nz/request/4855/response/15586/attach/2/Lakes%20District%20Health%20Board%202016%20Triennial%20Elections%20Final%20STV%20Result%20Report.pdf
+adhb,xml,ADHB,HB,Auckland DHB,7,,,2016-10-27,https://fyi.org.nz/request/4829/response/15509/attach/4/ADHB%20STV%20Result%20Election%20AucklandCouncil%20Issue%20AucklandDistrictHealthBoard19%2010%202016114438a%20m%20N.xml
+cmdhb,xml,CMDHB,HB,Counties Manukau DHB,7,,,2016-10-27,https://fyi.org.nz/request/4829/response/15509/attach/5/CMDHB%20STV%20Result%20Election%20AucklandCouncil%20Issue%20CountiesManukauDistrictHealthBoard19%2010%202016114634a%20m%20N.xml
+wait-dhb,xml,WAITDHB,HB,Waitemata DHB,7,,,2016-10-27,https://fyi.org.nz/request/4829/response/15509/attach/6/WDHB%20STV%20Result%20Election%20AucklandCouncil%20Issue%20WaitemataDistrictHealthBoard19%2010%202016114257a%20m%20N.xml
+tardhb,xml,TARDHB,HB,Taranaki DHB,7,,,2016-10-31,https://fyi.org.nz/request/4860/response/15573/attach/4/TarDHB%20STV%20Result%20Election%20NewPlymouthDistrictCouncil%20Issue%20TaranakiDistrictHealthBoard19%2010%202016114904a%20m%20N.xml
+bopdhb,xml,BOPDHB,HB,Bay of Plenty DHB,7,,,2016-11-17,https://fyi.org.nz/request/4830/response/15847/attach/11/BoPDHB%20STV%20Result%20Election%20WesternBayofPlentyDistrictCouncil%20Issue%20BayofPlentyDistrictHealthBoard19%2010%202016115112a%20m%20N.xml
+kdc_mayor,xml,KDC,MR,Mayor,1,,,2016-10-28,https://fyi.org.nz/request/4827/response/15549/attach/5/KpDC%20STV%20Result%20Election%20KaiparaDistrictCouncil%20Issue%20Mayor17%2010%20201682711a%20m%20N.xml
+kdc_ward_dargaville,xml,KDC,WD,Dargaville Ward,2,,,2016-10-28,https://fyi.org.nz/request/4827/response/15549/attach/4/KpDC%20STV%20Result%20Election%20KaiparaDistrictCouncil%20Issue%20DargavilleWard17%2010%20201682818a%20m%20N.xml
+kdc_ward_otamatea,xml,KDC,WD,Otamatea Ward,4,,,2016-10-28,https://fyi.org.nz/request/4827/response/15549/attach/3/KpDC%20STV%20Result%20Election%20KaiparaDistrictCouncil%20Issue%20OtamateaWard17%2010%20201682853a%20m%20N.xml
+kdc_ward_west-coast-central,xml,KDC,WD,West Coast - Central Ward,3,,,2016-10-28,https://fyi.org.nz/request/4827/response/15549/attach/2/KpDC%20STV%20Result%20Election%20KaiparaDistrictCouncil%20Issue%20WestCoast%20CentralWard17%2010%20201682935a%20m%20N.xml
+ccdhb,tsv,CCDHB,HB,Capital & Coast DHB,7,,,2016-10-25,http://www.ccdhb.org.nz/about-us/2016-dhb-elections/capital-coast-district-health-board-2016-triennial-elections-final-stv-result-report.doc
+wcc_mayor,tsv,WCC,MR,Mayor,1,,,2016-10-23,http://wellington.govt.nz/~/media/your-council/elections/2016/files/commentary-iteration-textversion.rtf
+wcc_ward_northern,tsv,WCC,WD,Northern Ward,3,,,2016-10-23,http://wellington.govt.nz/~/media/your-council/elections/2016/files/commentary-iteration-textversion.rtf
+wcc_ward_onslow-western,tsv,WCC,WD,Onslow-Western Ward,3,,,2016-10-23,http://wellington.govt.nz/~/media/your-council/elections/2016/files/commentary-iteration-textversion.rtf
+wcc_ward_lambton,tsv,WCC,WD,Lambton Ward,3,,,2016-10-23,http://wellington.govt.nz/~/media/your-council/elections/2016/files/commentary-iteration-textversion.rtf
+wcc_ward_eastern,tsv,WCC,WD,Eastern Ward,3,,,2016-10-23,http://wellington.govt.nz/~/media/your-council/elections/2016/files/commentary-iteration-textversion.rtf
+wcc_ward_southern,tsv,WCC,WD,Southern Ward,2,,,2016-10-23,wcc-commentary-iteration-textversion.rtf
+wcc_cb_makara-ohariu,tsv,WCC,CB,Makara-Ohariu Community Board,6,,,2016-10-23,http://wellington.govt.nz/~/media/your-council/elections/2016/files/commentary-iteration-textversion.rtfn.rtf
+wair-dhb,tsv,WAIRDHB,HB,Wairarapa DHB,7,,,2016-11-18,https://fyi.org.nz/request/4862/response/15884/attach/2/Final%20response%20Word%20doc.docx
+waik-dhb,tsv,WAIKDHB,HB,Waikato DHB,7,,,2016-10-27,https://fyi.org.nz/request/4854/response/15518/attach/2/Waikato%20District%20Health%20Board%202016%20Triennial%20Elections%20Final%20STV%20Result%20Report.pdf
+nmdhb,tsv,NMDHB,HB,Nelson Marlborough DHB,7,,,2016-10-27,https://www.nmdhb.govt.nz/assets/Uploads/Nelson-Marlborough-District-Health-Board-2016-Triennial-Elections-Final-STV-Result-Report.pdf
+pcc_mayor,tsv,PCC,MR,Mayor,1,,,2016-10-16,http://www.pcc.govt.nz/DownloadFile/Council/Elections-2016/Porirua-City-Council-2016-Triennial-Elections---Final-STV-Result-Report
+pcc_ward_northern,tsv,PCC,WD,Northern Ward,4,,,2016-10-16,http://www.pcc.govt.nz/DownloadFile/Council/Elections-2016/Porirua-City-Council-2016-Triennial-Elections---Final-STV-Result-Report
+pcc_ward_western,tsv,PCC,WD,Western Ward,2,,,2016-10-16,http://www.pcc.govt.nz/DownloadFile/Council/Elections-2016/Porirua-City-Council-2016-Triennial-Elections---Final-STV-Result-Report
+pcc_ward_eastern,tsv,PCC,WD,Eastern Ward,4,,,2016-10-16,http://www.pcc.govt.nz/DownloadFile/Council/Elections-2016/Porirua-City-Council-2016-Triennial-Elections---Final-STV-Result-Report
+pcc_cb_pct1,tsv,PCC,CB,Porirua Community Trust - Ward 1,4,,,2016-10-16,http://www.pcc.govt.nz/DownloadFile/Council/Elections-2016/Porirua-City-Council-2016-Triennial-Elections---Final-STV-Result-Report
+pcc_cb_hmct,tsv,PCC,CB,Hutt Mana Charitable Trust,1,,,2016-10-16,http://www.pcc.govt.nz/DownloadFile/Council/Elections-2016/Porirua-City-Council-2016-Triennial-Elections---Final-STV-Result-Report
+taidhb,xml,TAIDHB,HB,Tairawhiti DHB,7,,,2016-11-22,https://fyi.org.nz/request/4861/response/15914/attach/2/TaiDHB%20STV%20Result%20Election%20GisborneDistrictCouncil%20Issue%20TairawhitiDistr....xml
+mdc_mayor,tsv,MDC,MR,Mayor,1,,,2016-10-26,https://fyi.org.nz/request/4828/response/15494/attach/4/Marlborough%20District%20Council%202016%20Triennial%20Elections%20Final%20STV%20Result....doc
+mdc_ward_marlborough-sounds,tsv,MDC,WD,Marlborough Sounds Ward,3,,,2016-10-26,https://fyi.org.nz/request/4828/response/15494/attach/4/Marlborough%20District%20Council%202016%20Triennial%20Elections%20Final%20STV%20Result....doc
+mdc_ward_wairau-awatere,tsv,MDC,WD,Wairau-Awatere Ward,3,,,2016-10-26,https://fyi.org.nz/request/4828/response/15494/attach/4/Marlborough%20District%20Council%202016%20Triennial%20Elections%20Final%20STV%20Result....doc
+mdc_ward_blenheim,tsv,MDC,WD,Blenheim Ward,7,,,2016-10-26,https://fyi.org.nz/request/4828/response/15494/attach/4/Marlborough%20District%20Council%202016%20Triennial%20Elections%20Final%20STV%20Result....doc
+dcc_mayor,tsv,DCC,MR,Mayor,1,,,2016-10-16,http://www.dunedin.govt.nz/__data/assets/pdf_file/0019/562510/Dunedin-City-Council-2016-Triennial-Elections-Final-STV-Result-Report.pdf
+dcc_at-large,tsv,DCC,AL,At Large,14,,,2016-10-16,http://www.dunedin.govt.nz/__data/assets/pdf_file/0019/562510/Dunedin-City-Council-2016-Triennial-Elections-Final-STV-Result-Report.pdf
+mcdhb,tsv,MCDHB,HB,MidCentral DHB,7,,,2016-10-24,Elections 2016 MidCenttral DHB Results iteration report from STV calculator.pdf
+pncc_mayor,tsv,PNCC,MR,Mayor,1,,,2016-10-16,pncc-iteration-report-2016.pdf
+pncc_council,tsv,PNCC,AL,Councillors,15,,,2016-10-16,
+wrc_ward_kapiti-coast,tsv,WRC,WD,Kapiti Coast constituency,1,,,2016-10-16,Kapiti-Coast-Final-Iteration-Report.pdf
+wrc_ward_lower-hutt,tsv,WRC,WD,Lower Hutt constituency,3,,,2016-10-16,Lower-Hutt-Regional-Constituency-Final-Result-Report.pdf
+wrc_ward_porirua-tawa,tsv,WRC,WD,Porirua-Tawa constituency,2,,,2016-10-16,Porirua-Tawa-Constituency-Final-Result-Report.pdf
+wrc_ward_wairarapa,tsv,WRC,WD,Wairarapa constituency,1,,,2016-10-16,Wairarapa-Constituency-Final-Result-Report.pdf
+wrc_ward_wellington,tsv,WRC,WD,Wellington constituency,5,,,2016-10-16,Wellington-Constituency-Final-Result-Report.pdf

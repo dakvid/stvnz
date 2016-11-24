@@ -90,7 +90,7 @@ extract_xml <- function(output, xelect) {
   has_attr(output, "elect_states")
   has_attr(output, "elect_iterations")
   has_attr(output, "elect_candidates")
-  assert_that(length(xelect) == 8)
+  assert_that(length(xelect) == 10)
   has_attr(xelect, "file_prefix")
   has_attr(xelect, "local_body")
   # check we have metadata for this local body
@@ -184,7 +184,7 @@ extract_tsv <- function(output, telect) {
   has_attr(output, "elect_states")
   has_attr(output, "elect_iterations")
   has_attr(output, "elect_candidates")
-  assert_that(length(telect) == 8)
+  assert_that(length(telect) == 10)
   has_attr(telect, "file_prefix")
   has_attr(telect, "local_body")
   # check we have metadata for this local body
@@ -302,7 +302,7 @@ extract_xlsx <- function(output, eelect, sheet_num = 1) {
   has_attr(output, "elect_states")
   has_attr(output, "elect_iterations")
   has_attr(output, "elect_candidates")
-  assert_that(length(eelect) == 8)
+  assert_that(length(eelect) == 10)
   has_attr(eelect, "file_prefix")
   has_attr(eelect, "local_body")
   # check we have metadata for this local body
