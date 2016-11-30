@@ -46,11 +46,12 @@ mdc_ward_wairau-awatere,tsv,MDC,WD,Wairau-Awatere Ward,3,,,2016-10-26,https://fy
 mdc_ward_blenheim,tsv,MDC,WD,Blenheim Ward,7,,,2016-10-26,https://fyi.org.nz/request/4828/response/15494/attach/4/Marlborough%20District%20Council%202016%20Triennial%20Elections%20Final%20STV%20Result....doc
 dcc_mayor,tsv,DCC,MR,Mayor,1,,,2016-10-16,http://www.dunedin.govt.nz/__data/assets/pdf_file/0019/562510/Dunedin-City-Council-2016-Triennial-Elections-Final-STV-Result-Report.pdf
 dcc_at-large,tsv,DCC,AL,At Large,14,,,2016-10-16,http://www.dunedin.govt.nz/__data/assets/pdf_file/0019/562510/Dunedin-City-Council-2016-Triennial-Elections-Final-STV-Result-Report.pdf
-mcdhb,tsv,MCDHB,HB,MidCentral DHB,7,,,2016-10-24,Elections 2016 MidCenttral DHB Results iteration report from STV calculator.pdf
-pncc_mayor,tsv,PNCC,MR,Mayor,1,,,2016-10-16,pncc-iteration-report-2016.pdf
-pncc_council,tsv,PNCC,AL,Councillors,15,,,2016-10-16,
-wrc_ward_kapiti-coast,tsv,WRC,WD,Kapiti Coast constituency,1,,,2016-10-16,Kapiti-Coast-Final-Iteration-Report.pdf
-wrc_ward_lower-hutt,tsv,WRC,WD,Lower Hutt constituency,3,,,2016-10-16,Lower-Hutt-Regional-Constituency-Final-Result-Report.pdf
-wrc_ward_porirua-tawa,tsv,WRC,WD,Porirua-Tawa constituency,2,,,2016-10-16,Porirua-Tawa-Constituency-Final-Result-Report.pdf
-wrc_ward_wairarapa,tsv,WRC,WD,Wairarapa constituency,1,,,2016-10-16,Wairarapa-Constituency-Final-Result-Report.pdf
-wrc_ward_wellington,tsv,WRC,WD,Wellington constituency,5,,,2016-10-16,Wellington-Constituency-Final-Result-Report.pdf
+mcdhb,tsv,MCDHB,HB,MidCentral DHB,7,,,2016-10-24,https://www.midcentraldhb.govt.nz/AboutMDHB/dhbelections/Documents/Elections%202016%20MidCenttral%20DHB%20Results%20iteration%20report%20from%20STV%20calculator.pdf
+pncc_mayor,tsv,PNCC,MR,Mayor,1,,,2016-10-16,http://www.pncc.govt.nz/media/3129550/iteration-report-2016.pdf
+pncc_council,tsv,PNCC,AL,Councillors,15,,,2016-10-16,http://www.pncc.govt.nz/media/3129550/iteration-report-2016.pdf
+wrc_ward_kapiti-coast,tsv,WRC,WD,Kapiti Coast constituency,1,,,2016-10-16,http://www.gw.govt.nz/assets/Elections-2016/Kapiti-Coast-Final-Iteration-Report.pdf
+wrc_ward_lower-hutt,tsv,WRC,WD,Lower Hutt constituency,3,,,2016-10-16,http://www.gw.govt.nz/assets/Elections-2016/Lower-Hutt-Regional-Constituency-Final-Result-Report.pdf
+wrc_ward_porirua-tawa,tsv,WRC,WD,Porirua-Tawa constituency,2,,,2016-10-16,http://www.gw.govt.nz/assets/Elections-2016/Porirua-Tawa-Constituency-Final-Result-Report.pdf
+wrc_ward_wairarapa,tsv,WRC,WD,Wairarapa constituency,1,,,2016-10-16,http://www.gw.govt.nz/assets/Elections-2016/Wairarapa-Constituency-Final-Result-Report.pdf
+wrc_ward_wellington,tsv,WRC,WD,Wellington constituency,5,,,2016-10-16,http://www.gw.govt.nz/assets/Elections-2016/Wellington-Constituency-Final-Result-Report.pdf
+hbdhb,tsv,HBDHB,HB,Hawke's Bay DHB,7,,,2016-11-30,https://fyi.org.nz/request/4852/response/16031/attach/4/OIA2016131%20David%20Friggens%20attachment.pdf
