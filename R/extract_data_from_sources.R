@@ -384,7 +384,7 @@ output_dfs <-
   reduce(extract_xml, .init = output_dfs)
 output_dfs <-
   metadata %>%
-  filter(format == "tsv") %>% filter(local_body != "CDHB") %>% 
+  filter(format == "tsv") %>% 
   transpose() %>%
   reduce(extract_tsv, .init = output_dfs)
 output_dfs <-
@@ -392,3 +392,25 @@ output_dfs <-
   filter(format == "xlsx") %>%
   transpose() %>%
   reduce(extract_xlsx, .init = output_dfs)
+
+data_prefix <- "data/2016/"
+
+output_dfs %>% 
+  extract2("elect_races") %>% 
+  arrange(body_code, race_id) %>% 
+  write_tsv(paste0(data_prefix, "elect_races.tsv"))
+
+output_dfs %>% 
+  extract2("elect_states") %>% 
+  arrange(body_code, race_id, iteration, candidate_id) %>% 
+  write_tsv(paste0(data_prefix, "elect_states.tsv"))
+
+output_dfs %>% 
+  extract2("elect_iterations") %>% 
+  arrange(body_code, race_id, iteration) %>% 
+  write_tsv(paste0(data_prefix, "elect_iterations.tsv"))
+
+output_dfs %>% 
+  extract2("elect_candidates") %>% 
+  arrange(body_code, race_id, candidate_id) %>% 
+  write_tsv(paste0(data_prefix, "elect_candidates.tsv"))
