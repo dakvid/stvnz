@@ -60,14 +60,14 @@ output_dfs <-
 
 get_new_race_id <- function(race_df, local_body_code) {
   if (0 == race_df %>% filter(body_code == local_body_code) %>% nrow()) {
-    new_race_id <- 1
+    new_race_id <- 1L
   } else {
     new_race_id <- 
       race_df %>% 
       filter(body_code == local_body_code) %>% 
       use_series(race_id) %>% 
       max() %>% 
-      add(1)
+      add(1L)
   }
   return(new_race_id)
 }
@@ -315,6 +315,7 @@ extract_xlsx <- function(output, eelect, sheet_num = 1) {
     rename(iteration = number,
            candidate_name = id,
            votes = `vote-count`) %>% 
+    mutate(iteration = as.integer(iteration)) %>% 
     left_join(ref_status)
   
   num_iterations <- my_results %>% use_series(iteration) %>% max()
