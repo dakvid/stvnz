@@ -1,0 +1,57 @@
+body_code	race_id	race	race_type_code	num_seats	num_iterations
+ADHB	1	Auckland DHB	HB	7	34
+BOPDHB	1	Bay of Plenty DHB	HB	7	28
+CCDHB	1	Capital & Coast DHB	HB	7	24
+CDHB	1	Canterbury DHB	HB	7	23
+CMDHB	1	Counties Manukau DHB	HB	7	30
+DCC	1	Mayor	MR	1	10
+DCC	2	At Large	AL	14	79
+HBDHB	1	Hawke's Bay DHB	HB	7	17
+HVDHB	1	Hutt Valley DHB	HB	7	21
+KCDC	1	Mayor	MR	1	5
+KCDC	2	Districtwide	AL	5	15
+KCDC	3	Paekakariki-Raumati Ward	WD	1	1
+KCDC	4	Paraparaumu Ward	WD	2	3
+KCDC	5	Waikanae Ward	WD	1	3
+KCDC	6	Paraparaumu-Raumati Community Board	CB	4	1
+KCDC	7	Waikanae Community Board	CB	4	11
+KDC	1	Mayor	MR	1	1
+KDC	2	Dargaville Ward	WD	2	2
+KDC	3	Otamatea Ward	WD	4	9
+KDC	4	West Coast - Central Ward	WD	3	3
+LDHB	1	Lakes DHB	HB	7	34
+MCDHB	1	MidCentral DHB	HB	7	18
+MDC	1	Mayor	MR	1	2
+MDC	2	Marlborough Sounds Ward	WD	3	5
+MDC	3	Wairau-Awatere Ward	WD	3	4
+MDC	4	Blenheim Ward	WD	7	17
+NDHB	1	Northland DHB	HB	7	24
+NMDHB	1	Nelson Marlborough DHB	HB	7	17
+PCC	1	Mayor	MR	1	5
+PCC	2	Northern Ward	WD	4	16
+PCC	3	Western Ward	WD	2	9
+PCC	4	Eastern Ward	WD	4	16
+PCC	5	Porirua Community Trust - Ward 1	CB	4	4
+PCC	6	Hutt Mana Charitable Trust	CB	1	2
+PNCC	1	Mayor	MR	1	1
+PNCC	2	Councillors	AL	15	61
+SCDHB	1	South Canterbury DHB	HB	7	30
+TAIDHB	1	Tairawhiti DHB	HB	7	18
+TARDHB	1	Taranaki DHB	HB	7	56
+WAIKDHB	1	Waikato DHB	HB	7	23
+WAIRDHB	1	Wairarapa DHB	HB	7	18
+WAITDHB	1	Waitemata DHB	HB	7	38
+WCC	1	Mayor	MR	1	7
+WCC	2	Northern Ward	WD	3	5
+WCC	3	Onslow-Western Ward	WD	3	6
+WCC	4	Lambton Ward	WD	3	9
+WCC	5	Eastern Ward	WD	3	5
+WCC	6	Southern Ward	WD	2	2
+WCC	7	Makara-Ohariu Community Board	CB	6	5
+WCDHB	1	West Coast DHB	HB	7	9
+WHDHB	1	Whanganui DHB	HB	7	25
+WRC	1	Kapiti Coast constituency	WD	1	2
+WRC	2	Lower Hutt constituency	WD	3	10
+WRC	3	Porirua-Tawa constituency	WD	2	2
+WRC	4	Wairarapa constituency	WD	1	4
+WRC	5	Wellington constituency	WD	5	14
