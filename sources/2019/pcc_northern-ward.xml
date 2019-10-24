@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--STV Election Output Data Container-->
+<!--Election ID: 4808552e-2a0c-4364-924c-50a1ebe8bc4d-->
+<!--Election Name: Porirua City Council-->
+<!--Input File Last Modified: 2019-10-17 21:46:18-->
+<!--No of Active Candidates: 8-->
+<!--Total No of Candidates: 9-->
+<!--No of Vacancies: 4-->
+<!--No of Voters: 8013-->
+<!--No of Invalid Votes: 1-->
+<!--No of Duplicated Vote Preferences: 39-->
+<!--File Created: 2019-10-17 22:04:12-->
+<output-container xmlns="http://schemas.dia.govt.nz/stv-calculator/output-container/1/20030106" xmlns:cand="http://schemas.dia.govt.nz/stv-calculator/list-of-candidates/1/20030106" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:iter="http://schemas.dia.govt.nz/stv-calculator/iterations/1/20030106" xmlns:opt="http://schemas.dia.govt.nz/stv-calculator/list-of-options/1/20030106" xmlns:type="http://schemas.dia.govt.nz/stv-calculator/types/20030106" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.dia.govt.nz/stv-calculator/output-container/1/20030106 output-container.xsd">
+	<iter:iterations>
+		<iter:iteration number="1" quota="1567.600000001" ntv="175.000000000" surplus="0.000000000">
+			<!--BAKER, excluded at iteration 1, reason: withdrawn-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="5307" status="excluded" voting-id="201" fullname="BAKER, Anita"/>
+			<!--CROMBIE-->
+			<iter:candidate vote-count="897.000000000" keep-value="1.000000000" surplus="0.000000000" random="3241" status="hopeful" voting-id="202" fullname="CROMBIE, Brett"/>
+			<!--INAYATULLAH-->
+			<iter:candidate vote-count="765.000000000" keep-value="1.000000000" surplus="0.000000000" random="3714" status="hopeful" voting-id="203" fullname="INAYATULLAH, Rabeea"/>
+			<!--LEGGETT-->
+			<iter:candidate vote-count="1220.000000000" keep-value="1.000000000" surplus="0.000000000" random="5836" status="hopeful" voting-id="204" fullname="LEGGETT, Ross"/>
+			<!--MACLEAN, excluded at iteration 1, reason: Candidate received the lowest vote count 616.000000000, less than the second lowest by more than total surplus (0.000000000), second lowest (3c7ab970-babf-45ea-a1b7-a320ef869a5e) received 617.000000000 votes-->
+			<iter:candidate vote-count="616.000000000" keep-value="0.000000000" surplus="0.000000000" random="8846" status="excluded" voting-id="205" fullname="MACLEAN, Iain"/>
+			<!--MURRELL-->
+			<iter:candidate vote-count="1265.000000000" keep-value="1.000000000" surplus="0.000000000" random="6869" status="hopeful" voting-id="206" fullname="MURRELL, Euon"/>
+			<!--TRLIN-->
+			<iter:candidate vote-count="1264.000000000" keep-value="1.000000000" surplus="0.000000000" random="1463" status="hopeful" voting-id="207" fullname="TRLIN, Josh"/>
+			<!--WADDLE-->
+			<iter:candidate vote-count="1194.000000000" keep-value="1.000000000" surplus="0.000000000" random="1156" status="hopeful" voting-id="208" fullname="WADDLE, Nathan"/>
+			<!--WAKEM-->
+			<iter:candidate vote-count="617.000000000" keep-value="1.000000000" surplus="0.000000000" random="5688" status="hopeful" voting-id="209" fullname="WAKEM, Beverley Anne"/>
+		</iter:iteration>
+		<iter:iteration number="2" quota="1551.200000001" ntv="257.000000000" surplus="0.000000000">
+			<!--BAKER, excluded at iteration 1, reason: withdrawn-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="4693" status="excluded" voting-id="201" fullname="BAKER, Anita"/>
+			<!--CROMBIE-->
+			<iter:candidate vote-count="949.000000000" keep-value="1.000000000" surplus="0.000000000" random="6759" status="hopeful" voting-id="202" fullname="CROMBIE, Brett"/>
+			<!--INAYATULLAH-->
+			<iter:candidate vote-count="848.000000000" keep-value="1.000000000" surplus="0.000000000" random="6286" status="hopeful" voting-id="203" fullname="INAYATULLAH, Rabeea"/>
+			<!--LEGGETT-->
+			<iter:candidate vote-count="1289.000000000" keep-value="1.000000000" surplus="0.000000000" random="4164" status="hopeful" voting-id="204" fullname="LEGGETT, Ross"/>
+			<!--MACLEAN, excluded at iteration 1, reason: Candidate received the lowest vote count 616.000000000, less than the second lowest by more than total surplus (0.000000000), second lowest (3c7ab970-babf-45ea-a1b7-a320ef869a5e) received 617.000000000 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="1154" status="excluded" voting-id="205" fullname="MACLEAN, Iain"/>
+			<!--MURRELL-->
+			<iter:candidate vote-count="1340.000000000" keep-value="1.000000000" surplus="0.000000000" random="3131" status="hopeful" voting-id="206" fullname="MURRELL, Euon"/>
+			<!--TRLIN-->
+			<iter:candidate vote-count="1387.000000000" keep-value="1.000000000" surplus="0.000000000" random="8537" status="hopeful" voting-id="207" fullname="TRLIN, Josh"/>
+			<!--WADDLE-->
+			<iter:candidate vote-count="1257.000000000" keep-value="1.000000000" surplus="0.000000000" random="8844" status="hopeful" voting-id="208" fullname="WADDLE, Nathan"/>
+			<!--WAKEM, excluded at iteration 2, reason: Candidate received the lowest vote count 686.000000000, less than the second lowest by more than total surplus (0.000000000), second lowest (041ea008-f7ac-41ed-be96-c2680bc6dec2) received 848.000000000 votes-->
+			<iter:candidate vote-count="686.000000000" keep-value="0.000000000" surplus="0.000000000" random="4312" status="excluded" voting-id="209" fullname="WAKEM, Beverley Anne"/>
+		</iter:iteration>
+		<iter:iteration number="3" quota="1537.600000001" ntv="325.000000000" surplus="0.000000000">
+			<!--BAKER, excluded at iteration 1, reason: withdrawn-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="5307" status="excluded" voting-id="201" fullname="BAKER, Anita"/>
+			<!--CROMBIE-->
+			<iter:candidate vote-count="1044.000000000" keep-value="1.000000000" surplus="0.000000000" random="3241" status="hopeful" voting-id="202" fullname="CROMBIE, Brett"/>
+			<!--INAYATULLAH, excluded at iteration 3, reason: Candidate received the lowest vote count 943.000000000, less than the second lowest by more than total surplus (0.000000000), second lowest (6d1c1da3-e632-4e89-ad17-841784855290) received 1044.000000000 votes-->
+			<iter:candidate vote-count="943.000000000" keep-value="0.000000000" surplus="0.000000000" random="3714" status="excluded" voting-id="203" fullname="INAYATULLAH, Rabeea"/>
+			<!--LEGGETT-->
+			<iter:candidate vote-count="1441.000000000" keep-value="1.000000000" surplus="0.000000000" random="5836" status="hopeful" voting-id="204" fullname="LEGGETT, Ross"/>
+			<!--MACLEAN, excluded at iteration 1, reason: Candidate received the lowest vote count 616.000000000, less than the second lowest by more than total surplus (0.000000000), second lowest (3c7ab970-babf-45ea-a1b7-a320ef869a5e) received 617.000000000 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="8846" status="excluded" voting-id="205" fullname="MACLEAN, Iain"/>
+			<!--MURRELL-->
+			<iter:candidate vote-count="1440.000000000" keep-value="1.000000000" surplus="0.000000000" random="6869" status="hopeful" voting-id="206" fullname="MURRELL, Euon"/>
+			<!--TRLIN-->
+			<iter:candidate vote-count="1466.000000000" keep-value="1.000000000" surplus="0.000000000" random="1463" status="hopeful" voting-id="207" fullname="TRLIN, Josh"/>
+			<!--WADDLE-->
+			<iter:candidate vote-count="1354.000000000" keep-value="1.000000000" surplus="0.000000000" random="1156" status="hopeful" voting-id="208" fullname="WADDLE, Nathan"/>
+			<!--WAKEM, excluded at iteration 2, reason: Candidate received the lowest vote count 686.000000000, less than the second lowest by more than total surplus (0.000000000), second lowest (041ea008-f7ac-41ed-be96-c2680bc6dec2) received 848.000000000 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="5688" status="excluded" voting-id="209" fullname="WAKEM, Beverley Anne"/>
+		</iter:iteration>
+		<iter:iteration number="4" quota="1515.600000001" ntv="435.000000000" surplus="366.199999997">
+			<!--BAKER, excluded at iteration 1, reason: withdrawn-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="4693" status="excluded" voting-id="201" fullname="BAKER, Anita"/>
+			<!--CROMBIE-->
+			<iter:candidate vote-count="1159.000000000" keep-value="1.000000000" surplus="0.000000000" random="6759" status="hopeful" voting-id="202" fullname="CROMBIE, Brett"/>
+			<!--INAYATULLAH, excluded at iteration 3, reason: Candidate received the lowest vote count 943.000000000, less than the second lowest by more than total surplus (0.000000000), second lowest (6d1c1da3-e632-4e89-ad17-841784855290) received 1044.000000000 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="6286" status="excluded" voting-id="203" fullname="INAYATULLAH, Rabeea"/>
+			<!--LEGGETT, elected at iteration 4, reason: Candidate received 1575.000000000 votes and quota was 1515.600000001-->
+			<iter:candidate vote-count="1575.000000000" keep-value="1.000000000" surplus="59.399999999" random="4164" status="elected" voting-id="204" fullname="LEGGETT, Ross"/>
+			<!--MACLEAN, excluded at iteration 1, reason: Candidate received the lowest vote count 616.000000000, less than the second lowest by more than total surplus (0.000000000), second lowest (3c7ab970-babf-45ea-a1b7-a320ef869a5e) received 617.000000000 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="1154" status="excluded" voting-id="205" fullname="MACLEAN, Iain"/>
+			<!--MURRELL-->
+			<iter:candidate vote-count="1506.000000000" keep-value="1.000000000" surplus="0.000000000" random="3131" status="hopeful" voting-id="206" fullname="MURRELL, Euon"/>
+			<!--TRLIN, elected at iteration 4, reason: Candidate received 1794.000000000 votes and quota was 1515.600000001-->
+			<iter:candidate vote-count="1794.000000000" keep-value="1.000000000" surplus="278.399999999" random="8537" status="elected" voting-id="207" fullname="TRLIN, Josh"/>
+			<!--WADDLE, elected at iteration 4, reason: Candidate received 1544.000000000 votes and quota was 1515.600000001-->
+			<iter:candidate vote-count="1544.000000000" keep-value="1.000000000" surplus="28.399999999" random="8844" status="elected" voting-id="208" fullname="WADDLE, Nathan"/>
+			<!--WAKEM, excluded at iteration 2, reason: Candidate received the lowest vote count 686.000000000, less than the second lowest by more than total surplus (0.000000000), second lowest (041ea008-f7ac-41ed-be96-c2680bc6dec2) received 848.000000000 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="4312" status="excluded" voting-id="209" fullname="WAKEM, Beverley Anne"/>
+		</iter:iteration>
+		<iter:iteration number="5" quota="1497.753627517" ntv="524.231862419" surplus="270.510296721">
+			<!--BAKER, excluded at iteration 1, reason: withdrawn-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="5307" status="excluded" voting-id="201" fullname="BAKER, Anita"/>
+			<!--CROMBIE, excluded at iteration 5, reason: All available seats were filled-->
+			<iter:candidate vote-count="1227.243330792" keep-value="0.000000000" surplus="0.000000000" random="3241" status="excluded" voting-id="202" fullname="CROMBIE, Brett"/>
+			<!--INAYATULLAH, excluded at iteration 3, reason: Candidate received the lowest vote count 943.000000000, less than the second lowest by more than total surplus (0.000000000), second lowest (6d1c1da3-e632-4e89-ad17-841784855290) received 1044.000000000 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="3714" status="excluded" voting-id="203" fullname="INAYATULLAH, Rabeea"/>
+			<!--LEGGETT, elected at iteration 4, reason: Candidate received 1575.000000000 votes and quota was 1515.600000001-->
+			<iter:candidate vote-count="1571.243147276" keep-value="0.962285715" surplus="73.489519759" random="5836" status="elected" voting-id="204" fullname="LEGGETT, Ross"/>
+			<!--MACLEAN, excluded at iteration 1, reason: Candidate received the lowest vote count 616.000000000, less than the second lowest by more than total surplus (0.000000000), second lowest (3c7ab970-babf-45ea-a1b7-a320ef869a5e) received 617.000000000 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="8846" status="excluded" voting-id="205" fullname="MACLEAN, Iain"/>
+			<!--MURRELL, elected at iteration 5, reason: Candidate received 1554.765728201 votes and quota was 1497.753627517-->
+			<iter:candidate vote-count="1554.765728201" keep-value="1.000000000" surplus="57.012100684" random="6869" status="elected" voting-id="206" fullname="MURRELL, Euon"/>
+			<!--TRLIN, elected at iteration 4, reason: Candidate received 1794.000000000 votes and quota was 1515.600000001-->
+			<iter:candidate vote-count="1529.917086029" keep-value="0.844816054" surplus="32.163458512" random="1463" status="elected" voting-id="207" fullname="TRLIN, Josh"/>
+			<!--WADDLE, elected at iteration 4, reason: Candidate received 1544.000000000 votes and quota was 1515.600000001-->
+			<iter:candidate vote-count="1605.598845283" keep-value="0.981606218" surplus="107.845217766" random="1156" status="elected" voting-id="208" fullname="WADDLE, Nathan"/>
+			<!--WAKEM, excluded at iteration 2, reason: Candidate received the lowest vote count 686.000000000, less than the second lowest by more than total surplus (0.000000000), second lowest (041ea008-f7ac-41ed-be96-c2680bc6dec2) received 848.000000000 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="5688" status="excluded" voting-id="209" fullname="WAKEM, Beverley Anne"/>
+		</iter:iteration>
+	</iter:iterations>
+</output-container>

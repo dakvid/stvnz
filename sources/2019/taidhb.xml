@@ -1,0 +1,1192 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--STV Election Output Data Container-->
+<!--Election ID: 9bd985a1-7996-4398-97b4-cc76a79fafc5-->
+<!--Election Name: Gisborne District Council-->
+<!--Input File Last Modified: 2019-10-18 12:01:04-->
+<!--No of Active Candidates: 20-->
+<!--Total No of Candidates: 20-->
+<!--No of Vacancies: 7-->
+<!--No of Voters: 14960-->
+<!--No of Invalid Votes: 33-->
+<!--No of Duplicated Vote Preferences: 163-->
+<!--File Created: 2019-10-18 12:02:54-->
+<output-container xmlns="http://schemas.dia.govt.nz/stv-calculator/output-container/1/20030106" xmlns:cand="http://schemas.dia.govt.nz/stv-calculator/list-of-candidates/1/20030106" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:iter="http://schemas.dia.govt.nz/stv-calculator/iterations/1/20030106" xmlns:opt="http://schemas.dia.govt.nz/stv-calculator/list-of-options/1/20030106" xmlns:type="http://schemas.dia.govt.nz/stv-calculator/types/20030106" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.dia.govt.nz/stv-calculator/output-container/1/20030106 output-container.xsd">
+	<iter:iterations>
+		<iter:iteration number="1" quota="1870.000000001" ntv="0.000000000" surplus="383.999999999">
+			<!--AKUHATA-BROWN, elected at iteration 1, reason: Candidate received 2254.000000000 votes and quota was 1870.000000001-->
+			<iter:candidate vote-count="2254.000000000" keep-value="1.000000000" surplus="383.999999999" random="8888" status="elected" voting-id="801" fullname="AKUHATA-BROWN, Meredith"/>
+			<!--BIBBY-->
+			<iter:candidate vote-count="753.000000000" keep-value="1.000000000" surplus="0.000000000" random="9627" status="hopeful" voting-id="802" fullname="BIBBY, Clive"/>
+			<!--CLARE-->
+			<iter:candidate vote-count="214.000000000" keep-value="1.000000000" surplus="0.000000000" random="9797" status="hopeful" voting-id="803" fullname="CLARE, Tracey"/>
+			<!--CRANSTON-->
+			<iter:candidate vote-count="981.000000000" keep-value="1.000000000" surplus="0.000000000" random="482" status="hopeful" voting-id="804" fullname="CRANSTON, Andy"/>
+			<!--FAULKNER-->
+			<iter:candidate vote-count="1633.000000000" keep-value="1.000000000" surplus="0.000000000" random="5464" status="hopeful" voting-id="805" fullname="FAULKNER, Sandra"/>
+			<!--GOULD-LARDELLI-->
+			<iter:candidate vote-count="689.000000000" keep-value="1.000000000" surplus="0.000000000" random="6042" status="hopeful" voting-id="806" fullname="GOULD-LARDELLI, Rose"/>
+			<!--LODEWYK-->
+			<iter:candidate vote-count="448.000000000" keep-value="1.000000000" surplus="0.000000000" random="8416" status="hopeful" voting-id="807" fullname="LODEWYK, Rachel"/>
+			<!--MACLEAN-->
+			<iter:candidate vote-count="531.000000000" keep-value="1.000000000" surplus="0.000000000" random="9998" status="hopeful" voting-id="808" fullname="MACLEAN, Malcolm"/>
+			<!--MCCARTNEY-->
+			<iter:candidate vote-count="446.000000000" keep-value="1.000000000" surplus="0.000000000" random="3405" status="hopeful" voting-id="809" fullname="MCCARTNEY, Nicola"/>
+			<!--MCKELLOW-->
+			<iter:candidate vote-count="541.000000000" keep-value="1.000000000" surplus="0.000000000" random="2184" status="hopeful" voting-id="810" fullname="MCKELLOW, Alistar"/>
+			<!--NGARANGIOUE-->
+			<iter:candidate vote-count="143.000000000" keep-value="1.000000000" surplus="0.000000000" random="3011" status="hopeful" voting-id="811" fullname="NGARANGIOUE, Angus"/>
+			<!--PAUL-->
+			<iter:candidate vote-count="44.000000000" keep-value="1.000000000" surplus="0.000000000" random="1800" status="hopeful" voting-id="812" fullname="PAUL, Pita"/>
+			<!--PHILIP-BARBARA-->
+			<iter:candidate vote-count="527.000000000" keep-value="1.000000000" surplus="0.000000000" random="7341" status="hopeful" voting-id="813" fullname="PHILIP-BARBARA, Glenis"/>
+			<!--PIHEMA-->
+			<iter:candidate vote-count="937.000000000" keep-value="1.000000000" surplus="0.000000000" random="797" status="hopeful" voting-id="814" fullname="PIHEMA, Hiki"/>
+			<!--RAUNA-->
+			<iter:candidate vote-count="264.000000000" keep-value="1.000000000" surplus="0.000000000" random="3092" status="hopeful" voting-id="815" fullname="RAUNA, Peeti Wainui"/>
+			<!--ROBERTSON-->
+			<iter:candidate vote-count="972.000000000" keep-value="1.000000000" surplus="0.000000000" random="7934" status="hopeful" voting-id="816" fullname="ROBERTSON, Heather"/>
+			<!--ROBINSON-->
+			<iter:candidate vote-count="1266.000000000" keep-value="1.000000000" surplus="0.000000000" random="4256" status="hopeful" voting-id="817" fullname="ROBINSON, Tony"/>
+			<!--TAKITIMU-->
+			<iter:candidate vote-count="262.000000000" keep-value="1.000000000" surplus="0.000000000" random="8592" status="hopeful" voting-id="818" fullname="TAKITIMU, Dayle"/>
+			<!--TUPARA-->
+			<iter:candidate vote-count="532.000000000" keep-value="1.000000000" surplus="0.000000000" random="6090" status="hopeful" voting-id="819" fullname="TUPARA, Nick"/>
+			<!--WHAREHINGA-->
+			<iter:candidate vote-count="1523.000000000" keep-value="1.000000000" surplus="0.000000000" random="4098" status="hopeful" voting-id="820" fullname="WHAREHINGA, Josh"/>
+		</iter:iteration>
+		<iter:iteration number="2" quota="1866.081632670" ntv="31.346938648" surplus="3.918368892">
+			<!--AKUHATA-BROWN, elected at iteration 1, reason: Candidate received 2254.000000000 votes and quota was 1870.000000001-->
+			<iter:candidate vote-count="1870.000001562" keep-value="0.829636203" surplus="3.918368892" random="1112" status="elected" voting-id="801" fullname="AKUHATA-BROWN, Meredith"/>
+			<!--BIBBY-->
+			<iter:candidate vote-count="767.821650339" keep-value="1.000000000" surplus="0.000000000" random="373" status="hopeful" voting-id="802" fullname="BIBBY, Clive"/>
+			<!--CLARE-->
+			<iter:candidate vote-count="220.303460489" keep-value="1.000000000" surplus="0.000000000" random="203" status="hopeful" voting-id="803" fullname="CLARE, Tracey"/>
+			<!--CRANSTON-->
+			<iter:candidate vote-count="1002.465838422" keep-value="1.000000000" surplus="0.000000000" random="9518" status="hopeful" voting-id="804" fullname="CRANSTON, Andy"/>
+			<!--FAULKNER-->
+			<iter:candidate vote-count="1647.480922745" keep-value="1.000000000" surplus="0.000000000" random="4536" status="hopeful" voting-id="805" fullname="FAULKNER, Sandra"/>
+			<!--GOULD-LARDELLI-->
+			<iter:candidate vote-count="711.488021204" keep-value="1.000000000" surplus="0.000000000" random="3958" status="hopeful" voting-id="806" fullname="GOULD-LARDELLI, Rose"/>
+			<!--LODEWYK-->
+			<iter:candidate vote-count="459.755101993" keep-value="1.000000000" surplus="0.000000000" random="1584" status="hopeful" voting-id="807" fullname="LODEWYK, Rachel"/>
+			<!--MACLEAN-->
+			<iter:candidate vote-count="538.496007068" keep-value="1.000000000" surplus="0.000000000" random="2" status="hopeful" voting-id="808" fullname="MACLEAN, Malcolm"/>
+			<!--MCCARTNEY-->
+			<iter:candidate vote-count="451.451641504" keep-value="1.000000000" surplus="0.000000000" random="6595" status="hopeful" voting-id="809" fullname="MCCARTNEY, Nicola"/>
+			<!--MCKELLOW-->
+			<iter:candidate vote-count="546.792369098" keep-value="1.000000000" surplus="0.000000000" random="7816" status="hopeful" voting-id="810" fullname="MCKELLOW, Alistar"/>
+			<!--NGARANGIOUE-->
+			<iter:candidate vote-count="149.984915677" keep-value="1.000000000" surplus="0.000000000" random="6989" status="hopeful" voting-id="811" fullname="NGARANGIOUE, Angus"/>
+			<!--PAUL, excluded at iteration 2, reason: Candidate received the lowest vote count 46.555456955, less than the second lowest by more than total surplus (3.918368892), second lowest (8a882078-4968-4919-888e-9916e0f81b80) received 149.984915677 votes-->
+			<iter:candidate vote-count="46.555456955" keep-value="0.000000000" surplus="0.000000000" random="8200" status="excluded" voting-id="812" fullname="PAUL, Pita"/>
+			<!--PHILIP-BARBARA-->
+			<iter:candidate vote-count="560.561668009" keep-value="1.000000000" surplus="0.000000000" random="2659" status="hopeful" voting-id="813" fullname="PHILIP-BARBARA, Glenis"/>
+			<!--PIHEMA-->
+			<iter:candidate vote-count="957.954747031" keep-value="1.000000000" surplus="0.000000000" random="9203" status="hopeful" voting-id="814" fullname="PIHEMA, Hiki"/>
+			<!--RAUNA-->
+			<iter:candidate vote-count="270.644188083" keep-value="1.000000000" surplus="0.000000000" random="6908" status="hopeful" voting-id="815" fullname="RAUNA, Peeti Wainui"/>
+			<!--ROBERTSON-->
+			<iter:candidate vote-count="979.836734662" keep-value="1.000000000" surplus="0.000000000" random="2066" status="hopeful" voting-id="816" fullname="ROBERTSON, Heather"/>
+			<!--ROBINSON-->
+			<iter:candidate vote-count="1282.354924512" keep-value="1.000000000" surplus="0.000000000" random="5744" status="hopeful" voting-id="817" fullname="ROBINSON, Tony"/>
+			<!--TAKITIMU-->
+			<iter:candidate vote-count="277.843833121" keep-value="1.000000000" surplus="0.000000000" random="1408" status="hopeful" voting-id="818" fullname="TAKITIMU, Dayle"/>
+			<!--TUPARA-->
+			<iter:candidate vote-count="563.858030039" keep-value="1.000000000" surplus="0.000000000" random="3910" status="hopeful" voting-id="819" fullname="TUPARA, Nick"/>
+			<!--WHAREHINGA-->
+			<iter:candidate vote-count="1623.003548839" keep-value="1.000000000" surplus="0.000000000" random="5902" status="hopeful" voting-id="820" fullname="WHAREHINGA, Josh"/>
+		</iter:iteration>
+		<iter:iteration number="3" quota="1865.645136556" ntv="34.838907555" surplus="5.403884664">
+			<!--AKUHATA-BROWN, elected at iteration 1, reason: Candidate received 2254.000000000 votes and quota was 1870.000000001-->
+			<iter:candidate vote-count="1871.049021220" keep-value="0.827897797" surplus="5.403884664" random="8888" status="elected" voting-id="801" fullname="AKUHATA-BROWN, Meredith"/>
+			<!--BIBBY-->
+			<iter:candidate vote-count="768.972891661" keep-value="1.000000000" surplus="0.000000000" random="9627" status="hopeful" voting-id="802" fullname="BIBBY, Clive"/>
+			<!--CLARE-->
+			<iter:candidate vote-count="220.367781511" keep-value="1.000000000" surplus="0.000000000" random="9797" status="hopeful" voting-id="803" fullname="CLARE, Tracey"/>
+			<!--CRANSTON-->
+			<iter:candidate vote-count="1003.684877578" keep-value="1.000000000" surplus="0.000000000" random="482" status="hopeful" voting-id="804" fullname="CRANSTON, Andy"/>
+			<!--FAULKNER-->
+			<iter:candidate vote-count="1647.800789458" keep-value="1.000000000" surplus="0.000000000" random="5464" status="hopeful" voting-id="805" fullname="FAULKNER, Sandra"/>
+			<!--GOULD-LARDELLI-->
+			<iter:candidate vote-count="717.889592999" keep-value="1.000000000" surplus="0.000000000" random="6042" status="hopeful" voting-id="806" fullname="GOULD-LARDELLI, Rose"/>
+			<!--LODEWYK-->
+			<iter:candidate vote-count="463.875052007" keep-value="1.000000000" surplus="0.000000000" random="8416" status="hopeful" voting-id="807" fullname="LODEWYK, Rachel"/>
+			<!--MACLEAN-->
+			<iter:candidate vote-count="538.572496932" keep-value="1.000000000" surplus="0.000000000" random="9998" status="hopeful" voting-id="808" fullname="MACLEAN, Malcolm"/>
+			<!--MCCARTNEY-->
+			<iter:candidate vote-count="452.507270496" keep-value="1.000000000" surplus="0.000000000" random="3405" status="hopeful" voting-id="809" fullname="MCCARTNEY, Nicola"/>
+			<!--MCKELLOW-->
+			<iter:candidate vote-count="547.023577105" keep-value="1.000000000" surplus="0.000000000" random="2184" status="hopeful" voting-id="810" fullname="MCKELLOW, Alistar"/>
+			<!--NGARANGIOUE, excluded at iteration 3, reason: Candidate received the lowest vote count 153.400394729, less than the second lowest by more than total surplus (5.403884664), second lowest (95a8f37f-2490-4acd-a4ce-38707dae6553) received 220.367781511 votes-->
+			<iter:candidate vote-count="153.400394729" keep-value="0.000000000" surplus="0.000000000" random="3011" status="excluded" voting-id="811" fullname="NGARANGIOUE, Angus"/>
+			<!--PAUL, excluded at iteration 2, reason: Candidate received the lowest vote count 46.555456955, less than the second lowest by more than total surplus (3.918368892), second lowest (8a882078-4968-4919-888e-9916e0f81b80) received 149.984915677 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="1800" status="excluded" voting-id="812" fullname="PAUL, Pita"/>
+			<!--PHILIP-BARBARA-->
+			<iter:candidate vote-count="562.420440600" keep-value="1.000000000" surplus="0.000000000" random="7341" status="hopeful" voting-id="813" fullname="PHILIP-BARBARA, Glenis"/>
+			<!--PIHEMA-->
+			<iter:candidate vote-count="964.340673172" keep-value="1.000000000" surplus="0.000000000" random="797" status="hopeful" voting-id="814" fullname="PIHEMA, Hiki"/>
+			<!--RAUNA-->
+			<iter:candidate vote-count="271.884088120" keep-value="1.000000000" surplus="0.000000000" random="3092" status="hopeful" voting-id="815" fullname="RAUNA, Peeti Wainui"/>
+			<!--ROBERTSON-->
+			<iter:candidate vote-count="980.916701338" keep-value="1.000000000" surplus="0.000000000" random="7934" status="hopeful" voting-id="816" fullname="ROBERTSON, Heather"/>
+			<!--ROBINSON-->
+			<iter:candidate vote-count="1282.693913691" keep-value="1.000000000" surplus="0.000000000" random="4256" status="hopeful" voting-id="817" fullname="ROBINSON, Tony"/>
+			<!--TAKITIMU-->
+			<iter:candidate vote-count="281.693913691" keep-value="1.000000000" surplus="0.000000000" random="8592" status="hopeful" voting-id="818" fullname="TAKITIMU, Dayle"/>
+			<!--TUPARA-->
+			<iter:candidate vote-count="567.355214164" keep-value="1.000000000" surplus="0.000000000" random="6090" status="hopeful" voting-id="819" fullname="TUPARA, Nick"/>
+			<!--WHAREHINGA-->
+			<iter:candidate vote-count="1628.712401973" keep-value="1.000000000" surplus="0.000000000" random="4098" status="hopeful" voting-id="820" fullname="WHAREHINGA, Josh"/>
+		</iter:iteration>
+		<iter:iteration number="4" quota="1864.068030729" ntv="47.455754172" surplus="18.912747409">
+			<!--AKUHATA-BROWN, elected at iteration 1, reason: Candidate received 2254.000000000 votes and quota was 1870.000000001-->
+			<iter:candidate vote-count="1882.980778138" keep-value="0.825506698" surplus="18.912747409" random="1112" status="elected" voting-id="801" fullname="AKUHATA-BROWN, Meredith"/>
+			<!--BIBBY-->
+			<iter:candidate vote-count="773.878890482" keep-value="1.000000000" surplus="0.000000000" random="373" status="hopeful" voting-id="802" fullname="BIBBY, Clive"/>
+			<!--CLARE, excluded at iteration 4, reason: Candidate received the lowest vote count 222.630745476, less than the second lowest by more than total surplus (18.912747409), second lowest (219d8a62-7f38-4e41-816f-39966cb2b361) received 279.677705288 votes-->
+			<iter:candidate vote-count="222.630745476" keep-value="0.000000000" surplus="0.000000000" random="203" status="excluded" voting-id="803" fullname="CLARE, Tracey"/>
+			<!--CRANSTON-->
+			<iter:candidate vote-count="1006.160649354" keep-value="1.000000000" surplus="0.000000000" random="9518" status="hopeful" voting-id="804" fullname="CRANSTON, Andy"/>
+			<!--FAULKNER-->
+			<iter:candidate vote-count="1652.704397180" keep-value="1.000000000" surplus="0.000000000" random="4536" status="hopeful" voting-id="805" fullname="FAULKNER, Sandra"/>
+			<!--GOULD-LARDELLI-->
+			<iter:candidate vote-count="737.603555582" keep-value="1.000000000" surplus="0.000000000" random="3958" status="hopeful" voting-id="806" fullname="GOULD-LARDELLI, Rose"/>
+			<!--LODEWYK-->
+			<iter:candidate vote-count="465.040037838" keep-value="1.000000000" surplus="0.000000000" random="1584" status="hopeful" voting-id="807" fullname="LODEWYK, Rachel"/>
+			<!--MACLEAN-->
+			<iter:candidate vote-count="539.852198590" keep-value="1.000000000" surplus="0.000000000" random="2" status="hopeful" voting-id="808" fullname="MACLEAN, Malcolm"/>
+			<!--MCCARTNEY-->
+			<iter:candidate vote-count="453.107265570" keep-value="1.000000000" surplus="0.000000000" random="6595" status="hopeful" voting-id="809" fullname="MCCARTNEY, Nicola"/>
+			<!--MCKELLOW-->
+			<iter:candidate vote-count="555.107265570" keep-value="1.000000000" surplus="0.000000000" random="7816" status="hopeful" voting-id="810" fullname="MCKELLOW, Alistar"/>
+			<!--NGARANGIOUE, excluded at iteration 3, reason: Candidate received the lowest vote count 153.400394729, less than the second lowest by more than total surplus (5.403884664), second lowest (95a8f37f-2490-4acd-a4ce-38707dae6553) received 220.367781511 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="6989" status="excluded" voting-id="811" fullname="NGARANGIOUE, Angus"/>
+			<!--PAUL, excluded at iteration 2, reason: Candidate received the lowest vote count 46.555456955, less than the second lowest by more than total surplus (3.918368892), second lowest (8a882078-4968-4919-888e-9916e0f81b80) received 149.984915677 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="8200" status="excluded" voting-id="812" fullname="PAUL, Pita"/>
+			<!--PHILIP-BARBARA-->
+			<iter:candidate vote-count="566.596633608" keep-value="1.000000000" surplus="0.000000000" random="2659" status="hopeful" voting-id="813" fullname="PHILIP-BARBARA, Glenis"/>
+			<!--PIHEMA-->
+			<iter:candidate vote-count="978.160649354" keep-value="1.000000000" surplus="0.000000000" random="9203" status="hopeful" voting-id="814" fullname="PIHEMA, Hiki"/>
+			<!--RAUNA-->
+			<iter:candidate vote-count="279.677705288" keep-value="1.000000000" surplus="0.000000000" random="6908" status="hopeful" voting-id="815" fullname="RAUNA, Peeti Wainui"/>
+			<!--ROBERTSON-->
+			<iter:candidate vote-count="986.550171798" keep-value="1.000000000" surplus="0.000000000" random="2066" status="hopeful" voting-id="816" fullname="ROBERTSON, Heather"/>
+			<!--ROBINSON-->
+			<iter:candidate vote-count="1286.100343596" keep-value="1.000000000" surplus="0.000000000" random="5744" status="hopeful" voting-id="817" fullname="ROBINSON, Tony"/>
+			<!--TAKITIMU-->
+			<iter:candidate vote-count="285.449330200" keep-value="1.000000000" surplus="0.000000000" random="1408" status="hopeful" voting-id="818" fullname="TAKITIMU, Dayle"/>
+			<!--TUPARA-->
+			<iter:candidate vote-count="586.771126910" keep-value="1.000000000" surplus="0.000000000" random="3910" status="hopeful" voting-id="819" fullname="TUPARA, Nick"/>
+			<!--WHAREHINGA-->
+			<iter:candidate vote-count="1654.172501294" keep-value="1.000000000" surplus="0.000000000" random="5902" status="hopeful" voting-id="820" fullname="WHAREHINGA, Josh"/>
+		</iter:iteration>
+		<iter:iteration number="5" quota="1862.477406937" ntv="60.180744510" surplus="11.397207173">
+			<!--AKUHATA-BROWN, elected at iteration 1, reason: Candidate received 2254.000000000 votes and quota was 1870.000000001-->
+			<iter:candidate vote-count="1873.874614110" keep-value="0.817215270" surplus="11.397207173" random="8888" status="elected" voting-id="801" fullname="AKUHATA-BROWN, Meredith"/>
+			<!--BIBBY-->
+			<iter:candidate vote-count="787.998979890" keep-value="1.000000000" surplus="0.000000000" random="9627" status="hopeful" voting-id="802" fullname="BIBBY, Clive"/>
+			<!--CLARE, excluded at iteration 4, reason: Candidate received the lowest vote count 222.630745476, less than the second lowest by more than total surplus (18.912747409), second lowest (219d8a62-7f38-4e41-816f-39966cb2b361) received 279.677705288 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="9797" status="excluded" voting-id="803" fullname="CLARE, Tracey"/>
+			<!--CRANSTON-->
+			<iter:candidate vote-count="1029.944799630" keep-value="1.000000000" surplus="0.000000000" random="482" status="hopeful" voting-id="804" fullname="CRANSTON, Andy"/>
+			<!--FAULKNER-->
+			<iter:candidate vote-count="1709.278473000" keep-value="1.000000000" surplus="0.000000000" random="5464" status="hopeful" voting-id="805" fullname="FAULKNER, Sandra"/>
+			<!--GOULD-LARDELLI-->
+			<iter:candidate vote-count="753.321001120" keep-value="1.000000000" surplus="0.000000000" random="6042" status="hopeful" voting-id="806" fullname="GOULD-LARDELLI, Rose"/>
+			<!--LODEWYK-->
+			<iter:candidate vote-count="480.526070020" keep-value="1.000000000" surplus="0.000000000" random="8416" status="hopeful" voting-id="807" fullname="LODEWYK, Rachel"/>
+			<!--MACLEAN-->
+			<iter:candidate vote-count="547.225312850" keep-value="1.000000000" surplus="0.000000000" random="9998" status="hopeful" voting-id="808" fullname="MACLEAN, Malcolm"/>
+			<!--MCCARTNEY-->
+			<iter:candidate vote-count="468.763035010" keep-value="1.000000000" surplus="0.000000000" random="3405" status="hopeful" voting-id="809" fullname="MCCARTNEY, Nicola"/>
+			<!--MCKELLOW-->
+			<iter:candidate vote-count="559.763035010" keep-value="1.000000000" surplus="0.000000000" random="2184" status="hopeful" voting-id="810" fullname="MCKELLOW, Alistar"/>
+			<!--NGARANGIOUE, excluded at iteration 3, reason: Candidate received the lowest vote count 153.400394729, less than the second lowest by more than total surplus (5.403884664), second lowest (95a8f37f-2490-4acd-a4ce-38707dae6553) received 220.367781511 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="3011" status="excluded" voting-id="811" fullname="NGARANGIOUE, Angus"/>
+			<!--PAUL, excluded at iteration 2, reason: Candidate received the lowest vote count 46.555456955, less than the second lowest by more than total surplus (3.918368892), second lowest (8a882078-4968-4919-888e-9916e0f81b80) received 149.984915677 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="1800" status="excluded" voting-id="812" fullname="PAUL, Pita"/>
+			<!--PHILIP-BARBARA-->
+			<iter:candidate vote-count="570.653654380" keep-value="1.000000000" surplus="0.000000000" random="7341" status="hopeful" voting-id="813" fullname="PHILIP-BARBARA, Glenis"/>
+			<!--PIHEMA-->
+			<iter:candidate vote-count="983.944799630" keep-value="1.000000000" surplus="0.000000000" random="797" status="hopeful" voting-id="814" fullname="PIHEMA, Hiki"/>
+			<!--RAUNA-->
+			<iter:candidate vote-count="281.408097580" keep-value="1.000000000" surplus="0.000000000" random="3092" status="hopeful" voting-id="815" fullname="RAUNA, Peeti Wainui"/>
+			<!--ROBERTSON-->
+			<iter:candidate vote-count="998.956451770" keep-value="1.000000000" surplus="0.000000000" random="7934" status="hopeful" voting-id="816" fullname="ROBERTSON, Heather"/>
+			<!--ROBINSON-->
+			<iter:candidate vote-count="1299.826827190" keep-value="1.000000000" surplus="0.000000000" random="4256" status="hopeful" voting-id="817" fullname="ROBINSON, Tony"/>
+			<!--TAKITIMU-->
+			<iter:candidate vote-count="290.278473000" keep-value="1.000000000" surplus="0.000000000" random="8592" status="hopeful" voting-id="818" fullname="TAKITIMU, Dayle"/>
+			<!--TUPARA-->
+			<iter:candidate vote-count="595.019223840" keep-value="1.000000000" surplus="0.000000000" random="6090" status="hopeful" voting-id="819" fullname="TUPARA, Nick"/>
+			<!--WHAREHINGA-->
+			<iter:candidate vote-count="1669.036407460" keep-value="1.000000000" surplus="0.000000000" random="4098" status="hopeful" voting-id="820" fullname="WHAREHINGA, Josh"/>
+		</iter:iteration>
+		<iter:iteration number="6" quota="1862.361223042" ntv="61.110215668" surplus="0.116185906">
+			<!--AKUHATA-BROWN, elected at iteration 1, reason: Candidate received 2254.000000000 votes and quota was 1870.000000001-->
+			<iter:candidate vote-count="1862.477408948" keep-value="0.812244836" surplus="0.116185906" random="1112" status="elected" voting-id="801" fullname="AKUHATA-BROWN, Meredith"/>
+			<!--BIBBY-->
+			<iter:candidate vote-count="788.461230252" keep-value="1.000000000" surplus="0.000000000" random="373" status="hopeful" voting-id="802" fullname="BIBBY, Clive"/>
+			<!--CLARE, excluded at iteration 4, reason: Candidate received the lowest vote count 222.630745476, less than the second lowest by more than total surplus (18.912747409), second lowest (219d8a62-7f38-4e41-816f-39966cb2b361) received 279.677705288 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="203" status="excluded" voting-id="803" fullname="CLARE, Tracey"/>
+			<!--CRANSTON-->
+			<iter:candidate vote-count="1030.595926484" keep-value="1.000000000" surplus="0.000000000" random="9518" status="hopeful" voting-id="804" fullname="CRANSTON, Andy"/>
+			<!--FAULKNER-->
+			<iter:candidate vote-count="1709.775516400" keep-value="1.000000000" surplus="0.000000000" random="4536" status="hopeful" voting-id="805" fullname="FAULKNER, Sandra"/>
+			<!--GOULD-LARDELLI-->
+			<iter:candidate vote-count="754.036743616" keep-value="1.000000000" surplus="0.000000000" random="3958" status="hopeful" voting-id="806" fullname="GOULD-LARDELLI, Rose"/>
+			<!--LODEWYK-->
+			<iter:candidate vote-count="480.893882136" keep-value="1.000000000" surplus="0.000000000" random="1584" status="hopeful" voting-id="807" fullname="LODEWYK, Rachel"/>
+			<!--MACLEAN-->
+			<iter:candidate vote-count="547.448982380" keep-value="1.000000000" surplus="0.000000000" random="2" status="hopeful" voting-id="808" fullname="MACLEAN, Malcolm"/>
+			<!--MCCARTNEY-->
+			<iter:candidate vote-count="468.946941068" keep-value="1.000000000" surplus="0.000000000" random="6595" status="hopeful" voting-id="809" fullname="MCCARTNEY, Nicola"/>
+			<!--MCKELLOW-->
+			<iter:candidate vote-count="559.946941068" keep-value="1.000000000" surplus="0.000000000" random="7816" status="hopeful" voting-id="810" fullname="MCKELLOW, Alistar"/>
+			<!--NGARANGIOUE, excluded at iteration 3, reason: Candidate received the lowest vote count 153.400394729, less than the second lowest by more than total surplus (5.403884664), second lowest (95a8f37f-2490-4acd-a4ce-38707dae6553) received 220.367781511 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="6989" status="excluded" voting-id="811" fullname="NGARANGIOUE, Angus"/>
+			<!--PAUL, excluded at iteration 2, reason: Candidate received the lowest vote count 46.555456955, less than the second lowest by more than total surplus (3.918368892), second lowest (8a882078-4968-4919-888e-9916e0f81b80) received 149.984915677 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="8200" status="excluded" voting-id="812" fullname="PAUL, Pita"/>
+			<!--PHILIP-BARBARA-->
+			<iter:candidate vote-count="571.677563784" keep-value="1.000000000" surplus="0.000000000" random="2659" status="hopeful" voting-id="813" fullname="PHILIP-BARBARA, Glenis"/>
+			<!--PIHEMA-->
+			<iter:candidate vote-count="984.595926484" keep-value="1.000000000" surplus="0.000000000" random="9203" status="hopeful" voting-id="814" fullname="PIHEMA, Hiki"/>
+			<!--RAUNA, excluded at iteration 6, reason: Candidate received the lowest vote count 281.636737544, less than the second lowest by more than total surplus (0.116185906), second lowest (506d212b-94bf-4621-921f-fb447fcde2ac) received 290.775516400 votes-->
+			<iter:candidate vote-count="281.636737544" keep-value="0.000000000" surplus="0.000000000" random="6908" status="excluded" voting-id="815" fullname="RAUNA, Peeti Wainui"/>
+			<!--ROBERTSON-->
+			<iter:candidate vote-count="999.200003036" keep-value="1.000000000" surplus="0.000000000" random="2066" status="hopeful" voting-id="816" fullname="ROBERTSON, Heather"/>
+			<!--ROBINSON-->
+			<iter:candidate vote-count="1300.338781892" keep-value="1.000000000" surplus="0.000000000" random="5744" status="hopeful" voting-id="817" fullname="ROBINSON, Tony"/>
+			<!--TAKITIMU-->
+			<iter:candidate vote-count="290.775516400" keep-value="1.000000000" surplus="0.000000000" random="1408" status="hopeful" voting-id="818" fullname="TAKITIMU, Dayle"/>
+			<!--TUPARA-->
+			<iter:candidate vote-count="596.053074112" keep-value="1.000000000" surplus="0.000000000" random="3910" status="hopeful" voting-id="819" fullname="TUPARA, Nick"/>
+			<!--WHAREHINGA-->
+			<iter:candidate vote-count="1672.028608728" keep-value="1.000000000" surplus="0.000000000" random="5902" status="hopeful" voting-id="820" fullname="WHAREHINGA, Josh"/>
+		</iter:iteration>
+		<iter:iteration number="7" quota="1860.414611467" ntv="76.683108270" surplus="24.688050140">
+			<!--AKUHATA-BROWN, elected at iteration 1, reason: Candidate received 2254.000000000 votes and quota was 1870.000000001-->
+			<iter:candidate vote-count="1885.102661607" keep-value="0.812194167" surplus="24.688050140" random="8888" status="elected" voting-id="801" fullname="AKUHATA-BROWN, Meredith"/>
+			<!--BIBBY-->
+			<iter:candidate vote-count="798.841554135" keep-value="1.000000000" surplus="0.000000000" random="9627" status="hopeful" voting-id="802" fullname="BIBBY, Clive"/>
+			<!--CLARE, excluded at iteration 4, reason: Candidate received the lowest vote count 222.630745476, less than the second lowest by more than total surplus (18.912747409), second lowest (219d8a62-7f38-4e41-816f-39966cb2b361) received 279.677705288 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="9797" status="excluded" voting-id="803" fullname="CLARE, Tracey"/>
+			<!--CRANSTON-->
+			<iter:candidate vote-count="1038.790369956" keep-value="1.000000000" surplus="0.000000000" random="482" status="hopeful" voting-id="804" fullname="CRANSTON, Andy"/>
+			<!--FAULKNER-->
+			<iter:candidate vote-count="1718.531806632" keep-value="1.000000000" surplus="0.000000000" random="5464" status="hopeful" voting-id="805" fullname="FAULKNER, Sandra"/>
+			<!--GOULD-LARDELLI-->
+			<iter:candidate vote-count="772.607457451" keep-value="1.000000000" surplus="0.000000000" random="6042" status="hopeful" voting-id="806" fullname="GOULD-LARDELLI, Rose"/>
+			<!--LODEWYK-->
+			<iter:candidate vote-count="484.273243308" keep-value="1.000000000" surplus="0.000000000" random="8416" status="hopeful" voting-id="807" fullname="LODEWYK, Rachel"/>
+			<!--MACLEAN-->
+			<iter:candidate vote-count="550.451262485" keep-value="1.000000000" surplus="0.000000000" random="9998" status="hopeful" voting-id="808" fullname="MACLEAN, Malcolm"/>
+			<!--MCCARTNEY-->
+			<iter:candidate vote-count="477.324427487" keep-value="1.000000000" surplus="0.000000000" random="3405" status="hopeful" voting-id="809" fullname="MCCARTNEY, Nicola"/>
+			<!--MCKELLOW-->
+			<iter:candidate vote-count="565.948815821" keep-value="1.000000000" surplus="0.000000000" random="2184" status="hopeful" voting-id="810" fullname="MCKELLOW, Alistar"/>
+			<!--NGARANGIOUE, excluded at iteration 3, reason: Candidate received the lowest vote count 153.400394729, less than the second lowest by more than total surplus (5.403884664), second lowest (95a8f37f-2490-4acd-a4ce-38707dae6553) received 220.367781511 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="3011" status="excluded" voting-id="811" fullname="NGARANGIOUE, Angus"/>
+			<!--PAUL, excluded at iteration 2, reason: Candidate received the lowest vote count 46.555456955, less than the second lowest by more than total surplus (3.918368892), second lowest (8a882078-4968-4919-888e-9916e0f81b80) received 149.984915677 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="1800" status="excluded" voting-id="812" fullname="PAUL, Pita"/>
+			<!--PHILIP-BARBARA-->
+			<iter:candidate vote-count="591.814836596" keep-value="1.000000000" surplus="0.000000000" random="7341" status="hopeful" voting-id="813" fullname="PHILIP-BARBARA, Glenis"/>
+			<!--PIHEMA-->
+			<iter:candidate vote-count="1032.856234119" keep-value="1.000000000" surplus="0.000000000" random="797" status="hopeful" voting-id="814" fullname="PIHEMA, Hiki"/>
+			<!--RAUNA, excluded at iteration 6, reason: Candidate received the lowest vote count 281.636737544, less than the second lowest by more than total surplus (0.116185906), second lowest (506d212b-94bf-4621-921f-fb447fcde2ac) received 290.775516400 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="3092" status="excluded" voting-id="815" fullname="RAUNA, Peeti Wainui"/>
+			<!--ROBERTSON-->
+			<iter:candidate vote-count="1019.765903316" keep-value="1.000000000" surplus="0.000000000" random="7934" status="hopeful" voting-id="816" fullname="ROBERTSON, Heather"/>
+			<!--ROBINSON-->
+			<iter:candidate vote-count="1313.719612465" keep-value="1.000000000" surplus="0.000000000" random="4256" status="hopeful" voting-id="817" fullname="ROBINSON, Tony"/>
+			<!--TAKITIMU, excluded at iteration 7, reason: Candidate received the lowest vote count 308.095224131, less than the second lowest by more than total surplus (24.688050140), second lowest (f2ef14e3-b4b7-4295-9a2d-3d1c6abf2cdb) received 477.324427487 votes-->
+			<iter:candidate vote-count="308.095224131" keep-value="0.000000000" surplus="0.000000000" random="8592" status="excluded" voting-id="818" fullname="TAKITIMU, Dayle"/>
+			<!--TUPARA-->
+			<iter:candidate vote-count="624.317283260" keep-value="1.000000000" surplus="0.000000000" random="6090" status="hopeful" voting-id="819" fullname="TUPARA, Nick"/>
+			<!--WHAREHINGA-->
+			<iter:candidate vote-count="1700.876198961" keep-value="1.000000000" surplus="0.000000000" random="4098" status="hopeful" voting-id="820" fullname="WHAREHINGA, Josh"/>
+		</iter:iteration>
+		<iter:iteration number="8" quota="1858.888155100" ntv="88.894759204" surplus="44.810553525">
+			<!--AKUHATA-BROWN, elected at iteration 1, reason: Candidate received 2254.000000000 votes and quota was 1870.000000001-->
+			<iter:candidate vote-count="1903.698708625" keep-value="0.801557351" surplus="44.810553525" random="1112" status="elected" voting-id="801" fullname="AKUHATA-BROWN, Meredith"/>
+			<!--BIBBY-->
+			<iter:candidate vote-count="806.050494304" keep-value="1.000000000" surplus="0.000000000" random="373" status="hopeful" voting-id="802" fullname="BIBBY, Clive"/>
+			<!--CLARE, excluded at iteration 4, reason: Candidate received the lowest vote count 222.630745476, less than the second lowest by more than total surplus (18.912747409), second lowest (219d8a62-7f38-4e41-816f-39966cb2b361) received 279.677705288 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="203" status="excluded" voting-id="803" fullname="CLARE, Tracey"/>
+			<!--CRANSTON-->
+			<iter:candidate vote-count="1043.789757615" keep-value="1.000000000" surplus="0.000000000" random="9518" status="hopeful" voting-id="804" fullname="CRANSTON, Andy"/>
+			<!--FAULKNER-->
+			<iter:candidate vote-count="1724.431806092" keep-value="1.000000000" surplus="0.000000000" random="4536" status="hopeful" voting-id="805" fullname="FAULKNER, Sandra"/>
+			<!--GOULD-LARDELLI-->
+			<iter:candidate vote-count="813.933692979" keep-value="1.000000000" surplus="0.000000000" random="3958" status="hopeful" voting-id="806" fullname="GOULD-LARDELLI, Rose"/>
+			<!--LODEWYK-->
+			<iter:candidate vote-count="488.875411920" keep-value="1.000000000" surplus="0.000000000" random="1584" status="hopeful" voting-id="807" fullname="LODEWYK, Rachel"/>
+			<!--MACLEAN-->
+			<iter:candidate vote-count="554.525247152" keep-value="1.000000000" surplus="0.000000000" random="2" status="hopeful" voting-id="808" fullname="MACLEAN, Malcolm"/>
+			<!--MCCARTNEY-->
+			<iter:candidate vote-count="483.136148609" keep-value="1.000000000" surplus="0.000000000" random="6595" status="hopeful" voting-id="809" fullname="MCCARTNEY, Nicola"/>
+			<!--MCKELLOW-->
+			<iter:candidate vote-count="569.342378013" keep-value="1.000000000" surplus="0.000000000" random="7816" status="hopeful" voting-id="810" fullname="MCKELLOW, Alistar"/>
+			<!--NGARANGIOUE, excluded at iteration 3, reason: Candidate received the lowest vote count 153.400394729, less than the second lowest by more than total surplus (5.403884664), second lowest (95a8f37f-2490-4acd-a4ce-38707dae6553) received 220.367781511 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="6989" status="excluded" voting-id="811" fullname="NGARANGIOUE, Angus"/>
+			<!--PAUL, excluded at iteration 2, reason: Candidate received the lowest vote count 46.555456955, less than the second lowest by more than total surplus (3.918368892), second lowest (8a882078-4968-4919-888e-9916e0f81b80) received 149.984915677 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="8200" status="excluded" voting-id="812" fullname="PAUL, Pita"/>
+			<!--PHILIP-BARBARA-->
+			<iter:candidate vote-count="640.229350462" keep-value="1.000000000" surplus="0.000000000" random="2659" status="hopeful" voting-id="813" fullname="PHILIP-BARBARA, Glenis"/>
+			<!--PIHEMA-->
+			<iter:candidate vote-count="1068.750823840" keep-value="1.000000000" surplus="0.000000000" random="9203" status="hopeful" voting-id="814" fullname="PIHEMA, Hiki"/>
+			<!--RAUNA, excluded at iteration 6, reason: Candidate received the lowest vote count 281.636737544, less than the second lowest by more than total surplus (0.116185906), second lowest (506d212b-94bf-4621-921f-fb447fcde2ac) received 290.775516400 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="6908" status="excluded" voting-id="815" fullname="RAUNA, Peeti Wainui"/>
+			<!--ROBERTSON-->
+			<iter:candidate vote-count="1035.914345695" keep-value="1.000000000" surplus="0.000000000" random="2066" status="hopeful" voting-id="816" fullname="ROBERTSON, Heather"/>
+			<!--ROBINSON-->
+			<iter:candidate vote-count="1329.828691390" keep-value="1.000000000" surplus="0.000000000" random="5744" status="hopeful" voting-id="817" fullname="ROBINSON, Tony"/>
+			<!--TAKITIMU, excluded at iteration 7, reason: Candidate received the lowest vote count 308.095224131, less than the second lowest by more than total surplus (24.688050140), second lowest (f2ef14e3-b4b7-4295-9a2d-3d1c6abf2cdb) received 477.324427487 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="1408" status="excluded" voting-id="818" fullname="TAKITIMU, Dayle"/>
+			<!--TUPARA-->
+			<iter:candidate vote-count="657.816891654" keep-value="1.000000000" surplus="0.000000000" random="3910" status="hopeful" voting-id="819" fullname="TUPARA, Nick"/>
+			<!--WHAREHINGA-->
+			<iter:candidate vote-count="1750.781492446" keep-value="1.000000000" surplus="0.000000000" random="5902" status="hopeful" voting-id="820" fullname="WHAREHINGA, Josh"/>
+		</iter:iteration>
+		<iter:iteration number="9" quota="1858.425898876" ntv="92.592809000" surplus="0.462257374">
+			<!--AKUHATA-BROWN, elected at iteration 1, reason: Candidate received 2254.000000000 votes and quota was 1870.000000001-->
+			<iter:candidate vote-count="1858.888156250" keep-value="0.782689750" surplus="0.462257374" random="8888" status="elected" voting-id="801" fullname="AKUHATA-BROWN, Meredith"/>
+			<!--BIBBY-->
+			<iter:candidate vote-count="807.861784000" keep-value="1.000000000" surplus="0.000000000" random="9627" status="hopeful" voting-id="802" fullname="BIBBY, Clive"/>
+			<!--CLARE, excluded at iteration 4, reason: Candidate received the lowest vote count 222.630745476, less than the second lowest by more than total surplus (18.912747409), second lowest (219d8a62-7f38-4e41-816f-39966cb2b361) received 279.677705288 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="9797" status="excluded" voting-id="803" fullname="CLARE, Tracey"/>
+			<!--CRANSTON-->
+			<iter:candidate vote-count="1046.336883750" keep-value="1.000000000" surplus="0.000000000" random="482" status="hopeful" voting-id="804" fullname="CRANSTON, Andy"/>
+			<!--FAULKNER-->
+			<iter:candidate vote-count="1726.469507000" keep-value="1.000000000" surplus="0.000000000" random="5464" status="hopeful" voting-id="805" fullname="FAULKNER, Sandra"/>
+			<!--GOULD-LARDELLI-->
+			<iter:candidate vote-count="817.160052750" keep-value="1.000000000" surplus="0.000000000" random="6042" status="hopeful" voting-id="806" fullname="GOULD-LARDELLI, Rose"/>
+			<!--LODEWYK-->
+			<iter:candidate vote-count="490.384820000" keep-value="1.000000000" surplus="0.000000000" random="8416" status="hopeful" voting-id="807" fullname="LODEWYK, Rachel"/>
+			<!--MACLEAN-->
+			<iter:candidate vote-count="555.430892000" keep-value="1.000000000" surplus="0.000000000" random="9998" status="hopeful" voting-id="808" fullname="MACLEAN, Malcolm"/>
+			<!--MCCARTNEY, excluded at iteration 9, reason: Candidate received the lowest vote count 483.909720250, less than the second lowest by more than total surplus (0.462257374), second lowest (d3a63046-7b1d-4bad-892f-9e16aff91a4e) received 490.384820000 votes-->
+			<iter:candidate vote-count="483.909720250" keep-value="0.000000000" surplus="0.000000000" random="3405" status="excluded" voting-id="809" fullname="MCCARTNEY, Nicola"/>
+			<!--MCKELLOW-->
+			<iter:candidate vote-count="570.040479250" keep-value="1.000000000" surplus="0.000000000" random="2184" status="hopeful" voting-id="810" fullname="MCKELLOW, Alistar"/>
+			<!--NGARANGIOUE, excluded at iteration 3, reason: Candidate received the lowest vote count 153.400394729, less than the second lowest by more than total surplus (5.403884664), second lowest (95a8f37f-2490-4acd-a4ce-38707dae6553) received 220.367781511 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="3011" status="excluded" voting-id="811" fullname="NGARANGIOUE, Angus"/>
+			<!--PAUL, excluded at iteration 2, reason: Candidate received the lowest vote count 46.555456955, less than the second lowest by more than total surplus (3.918368892), second lowest (8a882078-4968-4919-888e-9916e0f81b80) received 149.984915677 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="1800" status="excluded" voting-id="812" fullname="PAUL, Pita"/>
+			<!--PHILIP-BARBARA-->
+			<iter:candidate vote-count="644.719839500" keep-value="1.000000000" surplus="0.000000000" random="7341" status="hopeful" voting-id="813" fullname="PHILIP-BARBARA, Glenis"/>
+			<!--PIHEMA-->
+			<iter:candidate vote-count="1071.769640000" keep-value="1.000000000" surplus="0.000000000" random="797" status="hopeful" voting-id="814" fullname="PIHEMA, Hiki"/>
+			<!--RAUNA, excluded at iteration 6, reason: Candidate received the lowest vote count 281.636737544, less than the second lowest by more than total surplus (0.116185906), second lowest (506d212b-94bf-4621-921f-fb447fcde2ac) received 290.775516400 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="3092" status="excluded" voting-id="815" fullname="RAUNA, Peeti Wainui"/>
+			<!--ROBERTSON-->
+			<iter:candidate vote-count="1036.952063750" keep-value="1.000000000" surplus="0.000000000" random="7934" status="hopeful" voting-id="816" fullname="ROBERTSON, Heather"/>
+			<!--ROBINSON-->
+			<iter:candidate vote-count="1331.904127500" keep-value="1.000000000" surplus="0.000000000" random="4256" status="hopeful" voting-id="817" fullname="ROBINSON, Tony"/>
+			<!--TAKITIMU, excluded at iteration 7, reason: Candidate received the lowest vote count 308.095224131, less than the second lowest by more than total surplus (24.688050140), second lowest (f2ef14e3-b4b7-4295-9a2d-3d1c6abf2cdb) received 477.324427487 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="8592" status="excluded" voting-id="818" fullname="TAKITIMU, Dayle"/>
+			<!--TUPARA-->
+			<iter:candidate vote-count="662.458321500" keep-value="1.000000000" surplus="0.000000000" random="6090" status="hopeful" voting-id="819" fullname="TUPARA, Nick"/>
+			<!--WHAREHINGA-->
+			<iter:candidate vote-count="1763.120903500" keep-value="1.000000000" surplus="0.000000000" random="4098" status="hopeful" voting-id="820" fullname="WHAREHINGA, Josh"/>
+		</iter:iteration>
+		<iter:iteration number="10" quota="1855.160189790" ntv="118.718481684" surplus="30.653039770">
+			<!--AKUHATA-BROWN, elected at iteration 1, reason: Candidate received 2254.000000000 votes and quota was 1870.000000001-->
+			<iter:candidate vote-count="1885.813229560" keep-value="0.782495116" surplus="30.653039770" random="1112" status="elected" voting-id="801" fullname="AKUHATA-BROWN, Meredith"/>
+			<!--BIBBY-->
+			<iter:candidate vote-count="827.880468864" keep-value="1.000000000" surplus="0.000000000" random="373" status="hopeful" voting-id="802" fullname="BIBBY, Clive"/>
+			<!--CLARE, excluded at iteration 4, reason: Candidate received the lowest vote count 222.630745476, less than the second lowest by more than total surplus (18.912747409), second lowest (219d8a62-7f38-4e41-816f-39966cb2b361) received 279.677705288 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="203" status="excluded" voting-id="803" fullname="CLARE, Tracey"/>
+			<!--CRANSTON-->
+			<iter:candidate vote-count="1086.233178876" keep-value="1.000000000" surplus="0.000000000" random="9518" status="hopeful" voting-id="804" fullname="CRANSTON, Andy"/>
+			<!--FAULKNER-->
+			<iter:candidate vote-count="1813.448071428" keep-value="1.000000000" surplus="0.000000000" random="4536" status="hopeful" voting-id="805" fullname="FAULKNER, Sandra"/>
+			<!--GOULD-LARDELLI-->
+			<iter:candidate vote-count="846.150879120" keep-value="1.000000000" surplus="0.000000000" random="3958" status="hopeful" voting-id="806" fullname="GOULD-LARDELLI, Rose"/>
+			<!--LODEWYK, excluded at iteration 10, reason: Candidate received the lowest vote count 535.922924908, less than the second lowest by more than total surplus (30.653039770), second lowest (79ab4340-b00a-4190-b74c-4c8fad92358b) received 572.657739316 votes-->
+			<iter:candidate vote-count="535.922924908" keep-value="0.000000000" surplus="0.000000000" random="1584" status="excluded" voting-id="807" fullname="LODEWYK, Rachel"/>
+			<!--MACLEAN-->
+			<iter:candidate vote-count="572.657739316" keep-value="1.000000000" surplus="0.000000000" random="2" status="hopeful" voting-id="808" fullname="MACLEAN, Malcolm"/>
+			<!--MCCARTNEY, excluded at iteration 9, reason: Candidate received the lowest vote count 483.909720250, less than the second lowest by more than total surplus (0.462257374), second lowest (d3a63046-7b1d-4bad-892f-9e16aff91a4e) received 490.384820000 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="6595" status="excluded" voting-id="809" fullname="MCCARTNEY, Nicola"/>
+			<!--MCKELLOW-->
+			<iter:candidate vote-count="602.700195360" keep-value="1.000000000" surplus="0.000000000" random="7816" status="hopeful" voting-id="810" fullname="MCKELLOW, Alistar"/>
+			<!--NGARANGIOUE, excluded at iteration 3, reason: Candidate received the lowest vote count 153.400394729, less than the second lowest by more than total surplus (5.403884664), second lowest (95a8f37f-2490-4acd-a4ce-38707dae6553) received 220.367781511 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="6989" status="excluded" voting-id="811" fullname="NGARANGIOUE, Angus"/>
+			<!--PAUL, excluded at iteration 2, reason: Candidate received the lowest vote count 46.555456955, less than the second lowest by more than total surplus (3.918368892), second lowest (8a882078-4968-4919-888e-9916e0f81b80) received 149.984915677 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="8200" status="excluded" voting-id="812" fullname="PAUL, Pita"/>
+			<!--PHILIP-BARBARA-->
+			<iter:candidate vote-count="662.071191696" keep-value="1.000000000" surplus="0.000000000" random="2659" status="hopeful" voting-id="813" fullname="PHILIP-BARBARA, Glenis"/>
+			<!--PIHEMA-->
+			<iter:candidate vote-count="1098.670800976" keep-value="1.000000000" surplus="0.000000000" random="9203" status="hopeful" voting-id="814" fullname="PIHEMA, Hiki"/>
+			<!--RAUNA, excluded at iteration 6, reason: Candidate received the lowest vote count 281.636737544, less than the second lowest by more than total surplus (0.116185906), second lowest (506d212b-94bf-4621-921f-fb447fcde2ac) received 290.775516400 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="6908" status="excluded" voting-id="815" fullname="RAUNA, Peeti Wainui"/>
+			<!--ROBERTSON-->
+			<iter:candidate vote-count="1077.050293040" keep-value="1.000000000" surplus="0.000000000" random="2066" status="hopeful" voting-id="816" fullname="ROBERTSON, Heather"/>
+			<!--ROBINSON-->
+			<iter:candidate vote-count="1360.013061660" keep-value="1.000000000" surplus="0.000000000" random="5744" status="hopeful" voting-id="817" fullname="ROBINSON, Tony"/>
+			<!--TAKITIMU, excluded at iteration 7, reason: Candidate received the lowest vote count 308.095224131, less than the second lowest by more than total surplus (24.688050140), second lowest (f2ef14e3-b4b7-4295-9a2d-3d1c6abf2cdb) received 477.324427487 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="1408" status="excluded" voting-id="818" fullname="TAKITIMU, Dayle"/>
+			<!--TUPARA-->
+			<iter:candidate vote-count="675.898755188" keep-value="1.000000000" surplus="0.000000000" random="3910" status="hopeful" voting-id="819" fullname="TUPARA, Nick"/>
+			<!--WHAREHINGA-->
+			<iter:candidate vote-count="1796.770728324" keep-value="1.000000000" surplus="0.000000000" random="5902" status="hopeful" voting-id="820" fullname="WHAREHINGA, Josh"/>
+		</iter:iteration>
+		<iter:iteration number="11" quota="1847.995286347" ntv="176.037709231" surplus="88.659553479">
+			<!--AKUHATA-BROWN, elected at iteration 1, reason: Candidate received 2254.000000000 votes and quota was 1870.000000001-->
+			<iter:candidate vote-count="1884.411679824" keep-value="0.769776013" surplus="36.416393477" random="8888" status="elected" voting-id="801" fullname="AKUHATA-BROWN, Meredith"/>
+			<!--BIBBY-->
+			<iter:candidate vote-count="855.792174713" keep-value="1.000000000" surplus="0.000000000" random="9627" status="hopeful" voting-id="802" fullname="BIBBY, Clive"/>
+			<!--CLARE, excluded at iteration 4, reason: Candidate received the lowest vote count 222.630745476, less than the second lowest by more than total surplus (18.912747409), second lowest (219d8a62-7f38-4e41-816f-39966cb2b361) received 279.677705288 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="9797" status="excluded" voting-id="803" fullname="CLARE, Tracey"/>
+			<!--CRANSTON-->
+			<iter:candidate vote-count="1152.073150076" keep-value="1.000000000" surplus="0.000000000" random="482" status="hopeful" voting-id="804" fullname="CRANSTON, Andy"/>
+			<!--FAULKNER, elected at iteration 11, reason: Candidate received 1900.238446349 votes and quota was 1847.995286347-->
+			<iter:candidate vote-count="1900.238446349" keep-value="1.000000000" surplus="52.243160002" random="5464" status="elected" voting-id="805" fullname="FAULKNER, Sandra"/>
+			<!--GOULD-LARDELLI-->
+			<iter:candidate vote-count="882.972781517" keep-value="1.000000000" surplus="0.000000000" random="6042" status="hopeful" voting-id="806" fullname="GOULD-LARDELLI, Rose"/>
+			<!--LODEWYK, excluded at iteration 10, reason: Candidate received the lowest vote count 535.922924908, less than the second lowest by more than total surplus (30.653039770), second lowest (79ab4340-b00a-4190-b74c-4c8fad92358b) received 572.657739316 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="8416" status="excluded" voting-id="807" fullname="LODEWYK, Rachel"/>
+			<!--MACLEAN-->
+			<iter:candidate vote-count="597.741423337" keep-value="1.000000000" surplus="0.000000000" random="9998" status="hopeful" voting-id="808" fullname="MACLEAN, Malcolm"/>
+			<!--MCCARTNEY, excluded at iteration 9, reason: Candidate received the lowest vote count 483.909720250, less than the second lowest by more than total surplus (0.462257374), second lowest (d3a63046-7b1d-4bad-892f-9e16aff91a4e) received 490.384820000 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="3405" status="excluded" voting-id="809" fullname="MCCARTNEY, Nicola"/>
+			<!--MCKELLOW-->
+			<iter:candidate vote-count="631.050751376" keep-value="1.000000000" surplus="0.000000000" random="2184" status="hopeful" voting-id="810" fullname="MCKELLOW, Alistar"/>
+			<!--NGARANGIOUE, excluded at iteration 3, reason: Candidate received the lowest vote count 153.400394729, less than the second lowest by more than total surplus (5.403884664), second lowest (95a8f37f-2490-4acd-a4ce-38707dae6553) received 220.367781511 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="3011" status="excluded" voting-id="811" fullname="NGARANGIOUE, Angus"/>
+			<!--PAUL, excluded at iteration 2, reason: Candidate received the lowest vote count 46.555456955, less than the second lowest by more than total surplus (3.918368892), second lowest (8a882078-4968-4919-888e-9916e0f81b80) received 149.984915677 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="1800" status="excluded" voting-id="812" fullname="PAUL, Pita"/>
+			<!--PHILIP-BARBARA-->
+			<iter:candidate vote-count="688.476892698" keep-value="1.000000000" surplus="0.000000000" random="7341" status="hopeful" voting-id="813" fullname="PHILIP-BARBARA, Glenis"/>
+			<!--PIHEMA-->
+			<iter:candidate vote-count="1118.058973738" keep-value="1.000000000" surplus="0.000000000" random="797" status="hopeful" voting-id="814" fullname="PIHEMA, Hiki"/>
+			<!--RAUNA, excluded at iteration 6, reason: Candidate received the lowest vote count 281.636737544, less than the second lowest by more than total surplus (0.116185906), second lowest (506d212b-94bf-4621-921f-fb447fcde2ac) received 290.775516400 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="3092" status="excluded" voting-id="815" fullname="RAUNA, Peeti Wainui"/>
+			<!--ROBERTSON-->
+			<iter:candidate vote-count="1119.115679090" keep-value="1.000000000" surplus="0.000000000" random="7934" status="hopeful" voting-id="816" fullname="ROBERTSON, Heather"/>
+			<!--ROBINSON-->
+			<iter:candidate vote-count="1417.087326414" keep-value="1.000000000" surplus="0.000000000" random="4256" status="hopeful" voting-id="817" fullname="ROBINSON, Tony"/>
+			<!--TAKITIMU, excluded at iteration 7, reason: Candidate received the lowest vote count 308.095224131, less than the second lowest by more than total surplus (24.688050140), second lowest (f2ef14e3-b4b7-4295-9a2d-3d1c6abf2cdb) received 477.324427487 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="8592" status="excluded" voting-id="818" fullname="TAKITIMU, Dayle"/>
+			<!--TUPARA-->
+			<iter:candidate vote-count="693.390700477" keep-value="1.000000000" surplus="0.000000000" random="6090" status="hopeful" voting-id="819" fullname="TUPARA, Nick"/>
+			<!--WHAREHINGA-->
+			<iter:candidate vote-count="1843.552311160" keep-value="1.000000000" surplus="0.000000000" random="4098" status="hopeful" voting-id="820" fullname="WHAREHINGA, Josh"/>
+		</iter:iteration>
+		<iter:iteration number="12" quota="1847.071085940" ntv="183.431312482" surplus="15.204645154">
+			<!--AKUHATA-BROWN, elected at iteration 1, reason: Candidate received 2254.000000000 votes and quota was 1870.000000001-->
+			<iter:candidate vote-count="1849.842432309" keep-value="0.754900036" surplus="2.771346369" random="1112" status="elected" voting-id="801" fullname="AKUHATA-BROWN, Meredith"/>
+			<!--BIBBY-->
+			<iter:candidate vote-count="862.418477201" keep-value="1.000000000" surplus="0.000000000" random="373" status="hopeful" voting-id="802" fullname="BIBBY, Clive"/>
+			<!--CLARE, excluded at iteration 4, reason: Candidate received the lowest vote count 222.630745476, less than the second lowest by more than total surplus (18.912747409), second lowest (219d8a62-7f38-4e41-816f-39966cb2b361) received 279.677705288 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="203" status="excluded" voting-id="803" fullname="CLARE, Tracey"/>
+			<!--CRANSTON-->
+			<iter:candidate vote-count="1164.374411912" keep-value="1.000000000" surplus="0.000000000" random="9518" status="hopeful" voting-id="804" fullname="CRANSTON, Andy"/>
+			<!--FAULKNER, elected at iteration 11, reason: Candidate received 1900.238446349 votes and quota was 1847.995286347-->
+			<iter:candidate vote-count="1849.832595809" keep-value="0.972507051" surplus="2.761509869" random="4536" status="elected" voting-id="805" fullname="FAULKNER, Sandra"/>
+			<!--GOULD-LARDELLI-->
+			<iter:candidate vote-count="889.171738208" keep-value="1.000000000" surplus="0.000000000" random="3958" status="hopeful" voting-id="806" fullname="GOULD-LARDELLI, Rose"/>
+			<!--LODEWYK, excluded at iteration 10, reason: Candidate received the lowest vote count 535.922924908, less than the second lowest by more than total surplus (30.653039770), second lowest (79ab4340-b00a-4190-b74c-4c8fad92358b) received 572.657739316 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="1584" status="excluded" voting-id="807" fullname="LODEWYK, Rachel"/>
+			<!--MACLEAN, excluded at iteration 12, reason: Candidate received the lowest vote count 602.052888236, less than the second lowest by more than total surplus (15.204645154), second lowest (61a011f0-7892-4bde-b5c3-d977b7373850) received 635.117321443 votes-->
+			<iter:candidate vote-count="602.052888236" keep-value="0.000000000" surplus="0.000000000" random="2" status="excluded" voting-id="808" fullname="MACLEAN, Malcolm"/>
+			<!--MCCARTNEY, excluded at iteration 9, reason: Candidate received the lowest vote count 483.909720250, less than the second lowest by more than total surplus (0.462257374), second lowest (d3a63046-7b1d-4bad-892f-9e16aff91a4e) received 490.384820000 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="6595" status="excluded" voting-id="809" fullname="MCCARTNEY, Nicola"/>
+			<!--MCKELLOW-->
+			<iter:candidate vote-count="635.117321443" keep-value="1.000000000" surplus="0.000000000" random="7816" status="hopeful" voting-id="810" fullname="MCKELLOW, Alistar"/>
+			<!--NGARANGIOUE, excluded at iteration 3, reason: Candidate received the lowest vote count 153.400394729, less than the second lowest by more than total surplus (5.403884664), second lowest (95a8f37f-2490-4acd-a4ce-38707dae6553) received 220.367781511 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="6989" status="excluded" voting-id="811" fullname="NGARANGIOUE, Angus"/>
+			<!--PAUL, excluded at iteration 2, reason: Candidate received the lowest vote count 46.555456955, less than the second lowest by more than total surplus (3.918368892), second lowest (8a882078-4968-4919-888e-9916e0f81b80) received 149.984915677 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="8200" status="excluded" voting-id="812" fullname="PAUL, Pita"/>
+			<!--PHILIP-BARBARA-->
+			<iter:candidate vote-count="693.222765984" keep-value="1.000000000" surplus="0.000000000" random="2659" status="hopeful" voting-id="813" fullname="PHILIP-BARBARA, Glenis"/>
+			<!--PIHEMA-->
+			<iter:candidate vote-count="1122.941707805" keep-value="1.000000000" surplus="0.000000000" random="9203" status="hopeful" voting-id="814" fullname="PIHEMA, Hiki"/>
+			<!--RAUNA, excluded at iteration 6, reason: Candidate received the lowest vote count 281.636737544, less than the second lowest by more than total surplus (0.116185906), second lowest (506d212b-94bf-4621-921f-fb447fcde2ac) received 290.775516400 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="6908" status="excluded" voting-id="815" fullname="RAUNA, Peeti Wainui"/>
+			<!--ROBERTSON-->
+			<iter:candidate vote-count="1125.817850629" keep-value="1.000000000" surplus="0.000000000" random="2066" status="hopeful" voting-id="816" fullname="ROBERTSON, Heather"/>
+			<!--ROBINSON-->
+			<iter:candidate vote-count="1426.458984500" keep-value="1.000000000" surplus="0.000000000" random="5744" status="hopeful" voting-id="817" fullname="ROBINSON, Tony"/>
+			<!--TAKITIMU, excluded at iteration 7, reason: Candidate received the lowest vote count 308.095224131, less than the second lowest by more than total surplus (24.688050140), second lowest (f2ef14e3-b4b7-4295-9a2d-3d1c6abf2cdb) received 477.324427487 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="1408" status="excluded" voting-id="818" fullname="TAKITIMU, Dayle"/>
+			<!--TUPARA-->
+			<iter:candidate vote-count="698.574638626" keep-value="1.000000000" surplus="0.000000000" random="3910" status="hopeful" voting-id="819" fullname="TUPARA, Nick"/>
+			<!--WHAREHINGA, elected at iteration 12, reason: Candidate received 1856.742874856 votes and quota was 1847.071085940-->
+			<iter:candidate vote-count="1856.742874856" keep-value="1.000000000" surplus="9.671788916" random="5902" status="elected" voting-id="820" fullname="WHAREHINGA, Josh"/>
+		</iter:iteration>
+		<iter:iteration number="13" quota="1841.662526642" ntv="226.699786865" surplus="158.874199306">
+			<!--AKUHATA-BROWN, elected at iteration 1, reason: Candidate received 2254.000000000 votes and quota was 1870.000000001-->
+			<iter:candidate vote-count="1866.460980477" keep-value="0.753769081" surplus="24.798453835" random="8888" status="elected" voting-id="801" fullname="AKUHATA-BROWN, Meredith"/>
+			<!--BIBBY-->
+			<iter:candidate vote-count="940.357486205" keep-value="1.000000000" surplus="0.000000000" random="9627" status="hopeful" voting-id="802" fullname="BIBBY, Clive"/>
+			<!--CLARE, excluded at iteration 4, reason: Candidate received the lowest vote count 222.630745476, less than the second lowest by more than total surplus (18.912747409), second lowest (219d8a62-7f38-4e41-816f-39966cb2b361) received 279.677705288 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="9797" status="excluded" voting-id="803" fullname="CLARE, Tracey"/>
+			<!--CRANSTON-->
+			<iter:candidate vote-count="1269.671490513" keep-value="1.000000000" surplus="0.000000000" random="482" status="hopeful" voting-id="804" fullname="CRANSTON, Andy"/>
+			<!--FAULKNER, elected at iteration 11, reason: Candidate received 1900.238446349 votes and quota was 1847.995286347-->
+			<iter:candidate vote-count="1939.098066042" keep-value="0.971055251" surplus="97.435539400" random="5464" status="elected" voting-id="805" fullname="FAULKNER, Sandra"/>
+			<!--GOULD-LARDELLI-->
+			<iter:candidate vote-count="904.015813324" keep-value="1.000000000" surplus="0.000000000" random="6042" status="hopeful" voting-id="806" fullname="GOULD-LARDELLI, Rose"/>
+			<!--LODEWYK, excluded at iteration 10, reason: Candidate received the lowest vote count 535.922924908, less than the second lowest by more than total surplus (30.653039770), second lowest (79ab4340-b00a-4190-b74c-4c8fad92358b) received 572.657739316 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="8416" status="excluded" voting-id="807" fullname="LODEWYK, Rachel"/>
+			<!--MACLEAN, excluded at iteration 12, reason: Candidate received the lowest vote count 602.052888236, less than the second lowest by more than total surplus (15.204645154), second lowest (61a011f0-7892-4bde-b5c3-d977b7373850) received 635.117321443 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="9998" status="excluded" voting-id="808" fullname="MACLEAN, Malcolm"/>
+			<!--MCCARTNEY, excluded at iteration 9, reason: Candidate received the lowest vote count 483.909720250, less than the second lowest by more than total surplus (0.462257374), second lowest (d3a63046-7b1d-4bad-892f-9e16aff91a4e) received 490.384820000 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="3405" status="excluded" voting-id="809" fullname="MCCARTNEY, Nicola"/>
+			<!--MCKELLOW-->
+			<iter:candidate vote-count="687.074591193" keep-value="1.000000000" surplus="0.000000000" random="2184" status="hopeful" voting-id="810" fullname="MCKELLOW, Alistar"/>
+			<!--NGARANGIOUE, excluded at iteration 3, reason: Candidate received the lowest vote count 153.400394729, less than the second lowest by more than total surplus (5.403884664), second lowest (95a8f37f-2490-4acd-a4ce-38707dae6553) received 220.367781511 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="3011" status="excluded" voting-id="811" fullname="NGARANGIOUE, Angus"/>
+			<!--PAUL, excluded at iteration 2, reason: Candidate received the lowest vote count 46.555456955, less than the second lowest by more than total surplus (3.918368892), second lowest (8a882078-4968-4919-888e-9916e0f81b80) received 149.984915677 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="1800" status="excluded" voting-id="812" fullname="PAUL, Pita"/>
+			<!--PHILIP-BARBARA-->
+			<iter:candidate vote-count="707.775627887" keep-value="1.000000000" surplus="0.000000000" random="7341" status="hopeful" voting-id="813" fullname="PHILIP-BARBARA, Glenis"/>
+			<!--PIHEMA-->
+			<iter:candidate vote-count="1148.798464525" keep-value="1.000000000" surplus="0.000000000" random="797" status="hopeful" voting-id="814" fullname="PIHEMA, Hiki"/>
+			<!--RAUNA, excluded at iteration 6, reason: Candidate received the lowest vote count 281.636737544, less than the second lowest by more than total surplus (0.116185906), second lowest (506d212b-94bf-4621-921f-fb447fcde2ac) received 290.775516400 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="3092" status="excluded" voting-id="815" fullname="RAUNA, Peeti Wainui"/>
+			<!--ROBERTSON-->
+			<iter:candidate vote-count="1166.805944774" keep-value="1.000000000" surplus="0.000000000" random="7934" status="hopeful" voting-id="816" fullname="ROBERTSON, Heather"/>
+			<!--ROBINSON-->
+			<iter:candidate vote-count="1503.761796668" keep-value="1.000000000" surplus="0.000000000" random="4256" status="hopeful" voting-id="817" fullname="ROBINSON, Tony"/>
+			<!--TAKITIMU, excluded at iteration 7, reason: Candidate received the lowest vote count 308.095224131, less than the second lowest by more than total surplus (24.688050140), second lowest (f2ef14e3-b4b7-4295-9a2d-3d1c6abf2cdb) received 477.324427487 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="8592" status="excluded" voting-id="818" fullname="TAKITIMU, Dayle"/>
+			<!--TUPARA-->
+			<iter:candidate vote-count="721.177218814" keep-value="1.000000000" surplus="0.000000000" random="6090" status="hopeful" voting-id="819" fullname="TUPARA, Nick"/>
+			<!--WHAREHINGA, elected at iteration 12, reason: Candidate received 1856.742874856 votes and quota was 1847.071085940-->
+			<iter:candidate vote-count="1878.302732713" keep-value="0.994790992" surplus="36.640206071" random="4098" status="elected" voting-id="820" fullname="WHAREHINGA, Josh"/>
+		</iter:iteration>
+		<iter:iteration number="14" quota="1839.885003115" ntv="240.919975088" surplus="31.356813618">
+			<!--AKUHATA-BROWN, elected at iteration 1, reason: Candidate received 2254.000000000 votes and quota was 1870.000000001-->
+			<iter:candidate vote-count="1851.750948443" keep-value="0.743754242" surplus="11.865945328" random="1112" status="elected" voting-id="801" fullname="AKUHATA-BROWN, Meredith"/>
+			<!--BIBBY-->
+			<iter:candidate vote-count="953.584160089" keep-value="1.000000000" surplus="0.000000000" random="373" status="hopeful" voting-id="802" fullname="BIBBY, Clive"/>
+			<!--CLARE, excluded at iteration 4, reason: Candidate received the lowest vote count 222.630745476, less than the second lowest by more than total surplus (18.912747409), second lowest (219d8a62-7f38-4e41-816f-39966cb2b361) received 279.677705288 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="203" status="excluded" voting-id="803" fullname="CLARE, Tracey"/>
+			<!--CRANSTON-->
+			<iter:candidate vote-count="1293.353801813" keep-value="1.000000000" surplus="0.000000000" random="9518" status="hopeful" voting-id="804" fullname="CRANSTON, Andy"/>
+			<!--FAULKNER, elected at iteration 11, reason: Candidate received 1900.238446349 votes and quota was 1847.995286347-->
+			<iter:candidate vote-count="1845.177390309" keep-value="0.922261798" surplus="5.292387194" random="4536" status="elected" voting-id="805" fullname="FAULKNER, Sandra"/>
+			<!--GOULD-LARDELLI-->
+			<iter:candidate vote-count="915.211173591" keep-value="1.000000000" surplus="0.000000000" random="3958" status="hopeful" voting-id="806" fullname="GOULD-LARDELLI, Rose"/>
+			<!--LODEWYK, excluded at iteration 10, reason: Candidate received the lowest vote count 535.922924908, less than the second lowest by more than total surplus (30.653039770), second lowest (79ab4340-b00a-4190-b74c-4c8fad92358b) received 572.657739316 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="1584" status="excluded" voting-id="807" fullname="LODEWYK, Rachel"/>
+			<!--MACLEAN, excluded at iteration 12, reason: Candidate received the lowest vote count 602.052888236, less than the second lowest by more than total surplus (15.204645154), second lowest (61a011f0-7892-4bde-b5c3-d977b7373850) received 635.117321443 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="2" status="excluded" voting-id="808" fullname="MACLEAN, Malcolm"/>
+			<!--MCCARTNEY, excluded at iteration 9, reason: Candidate received the lowest vote count 483.909720250, less than the second lowest by more than total surplus (0.462257374), second lowest (d3a63046-7b1d-4bad-892f-9e16aff91a4e) received 490.384820000 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="6595" status="excluded" voting-id="809" fullname="MCCARTNEY, Nicola"/>
+			<!--MCKELLOW-->
+			<iter:candidate vote-count="695.361308784" keep-value="1.000000000" surplus="0.000000000" random="7816" status="hopeful" voting-id="810" fullname="MCKELLOW, Alistar"/>
+			<!--NGARANGIOUE, excluded at iteration 3, reason: Candidate received the lowest vote count 153.400394729, less than the second lowest by more than total surplus (5.403884664), second lowest (95a8f37f-2490-4acd-a4ce-38707dae6553) received 220.367781511 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="6989" status="excluded" voting-id="811" fullname="NGARANGIOUE, Angus"/>
+			<!--PAUL, excluded at iteration 2, reason: Candidate received the lowest vote count 46.555456955, less than the second lowest by more than total surplus (3.918368892), second lowest (8a882078-4968-4919-888e-9916e0f81b80) received 149.984915677 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="8200" status="excluded" voting-id="812" fullname="PAUL, Pita"/>
+			<!--PHILIP-BARBARA-->
+			<iter:candidate vote-count="715.565126001" keep-value="1.000000000" surplus="0.000000000" random="2659" status="hopeful" voting-id="813" fullname="PHILIP-BARBARA, Glenis"/>
+			<!--PIHEMA-->
+			<iter:candidate vote-count="1158.273926766" keep-value="1.000000000" surplus="0.000000000" random="9203" status="hopeful" voting-id="814" fullname="PIHEMA, Hiki"/>
+			<!--RAUNA, excluded at iteration 6, reason: Candidate received the lowest vote count 281.636737544, less than the second lowest by more than total surplus (0.116185906), second lowest (506d212b-94bf-4621-921f-fb447fcde2ac) received 290.775516400 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="6908" status="excluded" voting-id="815" fullname="RAUNA, Peeti Wainui"/>
+			<!--ROBERTSON-->
+			<iter:candidate vote-count="1180.457006616" keep-value="1.000000000" surplus="0.000000000" random="2066" status="hopeful" voting-id="816" fullname="ROBERTSON, Heather"/>
+			<!--ROBINSON-->
+			<iter:candidate vote-count="1523.901194160" keep-value="1.000000000" surplus="0.000000000" random="5744" status="hopeful" voting-id="817" fullname="ROBINSON, Tony"/>
+			<!--TAKITIMU, excluded at iteration 7, reason: Candidate received the lowest vote count 308.095224131, less than the second lowest by more than total surplus (24.688050140), second lowest (f2ef14e3-b4b7-4295-9a2d-3d1c6abf2cdb) received 477.324427487 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="1408" status="excluded" voting-id="818" fullname="TAKITIMU, Dayle"/>
+			<!--TUPARA-->
+			<iter:candidate vote-count="732.360504129" keep-value="1.000000000" surplus="0.000000000" random="3910" status="hopeful" voting-id="819" fullname="TUPARA, Nick"/>
+			<!--WHAREHINGA, elected at iteration 12, reason: Candidate received 1856.742874856 votes and quota was 1847.071085940-->
+			<iter:candidate vote-count="1854.083484211" keep-value="0.975385523" surplus="14.198481096" random="5902" status="elected" voting-id="820" fullname="WHAREHINGA, Josh"/>
+		</iter:iteration>
+		<iter:iteration number="15" quota="1839.537039654" ntv="243.703682771" surplus="8.693490412">
+			<!--AKUHATA-BROWN, elected at iteration 1, reason: Candidate received 2254.000000000 votes and quota was 1870.000000001-->
+			<iter:candidate vote-count="1842.586419365" keep-value="0.738988295" surplus="3.049379711" random="8888" status="elected" voting-id="801" fullname="AKUHATA-BROWN, Meredith"/>
+			<!--BIBBY-->
+			<iter:candidate vote-count="955.222777330" keep-value="1.000000000" surplus="0.000000000" random="9627" status="hopeful" voting-id="802" fullname="BIBBY, Clive"/>
+			<!--CLARE, excluded at iteration 4, reason: Candidate received the lowest vote count 222.630745476, less than the second lowest by more than total surplus (18.912747409), second lowest (219d8a62-7f38-4e41-816f-39966cb2b361) received 279.677705288 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="9797" status="excluded" voting-id="803" fullname="CLARE, Tracey"/>
+			<!--CRANSTON-->
+			<iter:candidate vote-count="1296.134444538" keep-value="1.000000000" surplus="0.000000000" random="482" status="hopeful" voting-id="804" fullname="CRANSTON, Andy"/>
+			<!--FAULKNER, elected at iteration 11, reason: Candidate received 1900.238446349 votes and quota was 1847.995286347-->
+			<iter:candidate vote-count="1841.353631045" keep-value="0.919616543" surplus="1.816591391" random="5464" status="elected" voting-id="805" fullname="FAULKNER, Sandra"/>
+			<!--GOULD-LARDELLI-->
+			<iter:candidate vote-count="917.650232477" keep-value="1.000000000" surplus="0.000000000" random="6042" status="hopeful" voting-id="806" fullname="GOULD-LARDELLI, Rose"/>
+			<!--LODEWYK, excluded at iteration 10, reason: Candidate received the lowest vote count 535.922924908, less than the second lowest by more than total surplus (30.653039770), second lowest (79ab4340-b00a-4190-b74c-4c8fad92358b) received 572.657739316 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="8416" status="excluded" voting-id="807" fullname="LODEWYK, Rachel"/>
+			<!--MACLEAN, excluded at iteration 12, reason: Candidate received the lowest vote count 602.052888236, less than the second lowest by more than total surplus (15.204645154), second lowest (61a011f0-7892-4bde-b5c3-d977b7373850) received 635.117321443 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="9998" status="excluded" voting-id="808" fullname="MACLEAN, Malcolm"/>
+			<!--MCCARTNEY, excluded at iteration 9, reason: Candidate received the lowest vote count 483.909720250, less than the second lowest by more than total surplus (0.462257374), second lowest (d3a63046-7b1d-4bad-892f-9e16aff91a4e) received 490.384820000 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="3405" status="excluded" voting-id="809" fullname="MCCARTNEY, Nicola"/>
+			<!--MCKELLOW, excluded at iteration 15, reason: Candidate received the lowest vote count 696.368068232, less than the second lowest by more than total surplus (8.693490412), second lowest (6aace847-332f-49fd-9489-f22acadbeb71) received 718.208947708 votes-->
+			<iter:candidate vote-count="696.368068232" keep-value="0.000000000" surplus="0.000000000" random="2184" status="excluded" voting-id="810" fullname="MCKELLOW, Alistar"/>
+			<!--NGARANGIOUE, excluded at iteration 3, reason: Candidate received the lowest vote count 153.400394729, less than the second lowest by more than total surplus (5.403884664), second lowest (95a8f37f-2490-4acd-a4ce-38707dae6553) received 220.367781511 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="3011" status="excluded" voting-id="811" fullname="NGARANGIOUE, Angus"/>
+			<!--PAUL, excluded at iteration 2, reason: Candidate received the lowest vote count 46.555456955, less than the second lowest by more than total surplus (3.918368892), second lowest (8a882078-4968-4919-888e-9916e0f81b80) received 149.984915677 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="1800" status="excluded" voting-id="812" fullname="PAUL, Pita"/>
+			<!--PHILIP-BARBARA-->
+			<iter:candidate vote-count="718.208947708" keep-value="1.000000000" surplus="0.000000000" random="7341" status="hopeful" voting-id="813" fullname="PHILIP-BARBARA, Glenis"/>
+			<!--PIHEMA-->
+			<iter:candidate vote-count="1160.644673087" keep-value="1.000000000" surplus="0.000000000" random="797" status="hopeful" voting-id="814" fullname="PIHEMA, Hiki"/>
+			<!--RAUNA, excluded at iteration 6, reason: Candidate received the lowest vote count 281.636737544, less than the second lowest by more than total surplus (0.116185906), second lowest (506d212b-94bf-4621-921f-fb447fcde2ac) received 290.775516400 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="3092" status="excluded" voting-id="815" fullname="RAUNA, Peeti Wainui"/>
+			<!--ROBERTSON-->
+			<iter:candidate vote-count="1182.074045333" keep-value="1.000000000" surplus="0.000000000" random="7934" status="hopeful" voting-id="816" fullname="ROBERTSON, Heather"/>
+			<!--ROBINSON-->
+			<iter:candidate vote-count="1526.488551569" keep-value="1.000000000" surplus="0.000000000" random="4256" status="hopeful" voting-id="817" fullname="ROBINSON, Tony"/>
+			<!--TAKITIMU, excluded at iteration 7, reason: Candidate received the lowest vote count 308.095224131, less than the second lowest by more than total surplus (24.688050140), second lowest (f2ef14e3-b4b7-4295-9a2d-3d1c6abf2cdb) received 477.324427487 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="8592" status="excluded" voting-id="818" fullname="TAKITIMU, Dayle"/>
+			<!--TUPARA-->
+			<iter:candidate vote-count="736.199967581" keep-value="1.000000000" surplus="0.000000000" random="6090" status="hopeful" voting-id="819" fullname="TUPARA, Nick"/>
+			<!--WHAREHINGA, elected at iteration 12, reason: Candidate received 1856.742874856 votes and quota was 1847.071085940-->
+			<iter:candidate vote-count="1843.364558964" keep-value="0.967916069" surplus="3.827519310" random="4098" status="elected" voting-id="820" fullname="WHAREHINGA, Josh"/>
+		</iter:iteration>
+		<iter:iteration number="16" quota="1834.457329628" ntv="284.341362983" surplus="213.828152627">
+			<!--AKUHATA-BROWN, elected at iteration 1, reason: Candidate received 2254.000000000 votes and quota was 1870.000000001-->
+			<iter:candidate vote-count="1867.296913244" keep-value="0.737765310" surplus="32.839583616" random="1112" status="elected" voting-id="801" fullname="AKUHATA-BROWN, Meredith"/>
+			<!--BIBBY-->
+			<iter:candidate vote-count="1029.825596050" keep-value="1.000000000" surplus="0.000000000" random="373" status="hopeful" voting-id="802" fullname="BIBBY, Clive"/>
+			<!--CLARE, excluded at iteration 4, reason: Candidate received the lowest vote count 222.630745476, less than the second lowest by more than total surplus (18.912747409), second lowest (219d8a62-7f38-4e41-816f-39966cb2b361) received 279.677705288 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="203" status="excluded" voting-id="803" fullname="CLARE, Tracey"/>
+			<!--CRANSTON-->
+			<iter:candidate vote-count="1414.682254802" keep-value="1.000000000" surplus="0.000000000" random="9518" status="hopeful" voting-id="804" fullname="CRANSTON, Andy"/>
+			<!--FAULKNER, elected at iteration 11, reason: Candidate received 1900.238446349 votes and quota was 1847.995286347-->
+			<iter:candidate vote-count="1955.659578825" keep-value="0.918709294" surplus="121.202249197" random="4536" status="elected" voting-id="805" fullname="FAULKNER, Sandra"/>
+			<!--GOULD-LARDELLI-->
+			<iter:candidate vote-count="945.197138147" keep-value="1.000000000" surplus="0.000000000" random="3958" status="hopeful" voting-id="806" fullname="GOULD-LARDELLI, Rose"/>
+			<!--LODEWYK, excluded at iteration 10, reason: Candidate received the lowest vote count 535.922924908, less than the second lowest by more than total surplus (30.653039770), second lowest (79ab4340-b00a-4190-b74c-4c8fad92358b) received 572.657739316 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="1584" status="excluded" voting-id="807" fullname="LODEWYK, Rachel"/>
+			<!--MACLEAN, excluded at iteration 12, reason: Candidate received the lowest vote count 602.052888236, less than the second lowest by more than total surplus (15.204645154), second lowest (61a011f0-7892-4bde-b5c3-d977b7373850) received 635.117321443 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="2" status="excluded" voting-id="808" fullname="MACLEAN, Malcolm"/>
+			<!--MCCARTNEY, excluded at iteration 9, reason: Candidate received the lowest vote count 483.909720250, less than the second lowest by more than total surplus (0.462257374), second lowest (d3a63046-7b1d-4bad-892f-9e16aff91a4e) received 490.384820000 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="6595" status="excluded" voting-id="809" fullname="MCCARTNEY, Nicola"/>
+			<!--MCKELLOW, excluded at iteration 15, reason: Candidate received the lowest vote count 696.368068232, less than the second lowest by more than total surplus (8.693490412), second lowest (6aace847-332f-49fd-9489-f22acadbeb71) received 718.208947708 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="7816" status="excluded" voting-id="810" fullname="MCKELLOW, Alistar"/>
+			<!--NGARANGIOUE, excluded at iteration 3, reason: Candidate received the lowest vote count 153.400394729, less than the second lowest by more than total surplus (5.403884664), second lowest (95a8f37f-2490-4acd-a4ce-38707dae6553) received 220.367781511 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="6989" status="excluded" voting-id="811" fullname="NGARANGIOUE, Angus"/>
+			<!--PAUL, excluded at iteration 2, reason: Candidate received the lowest vote count 46.555456955, less than the second lowest by more than total surplus (3.918368892), second lowest (8a882078-4968-4919-888e-9916e0f81b80) received 149.984915677 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="8200" status="excluded" voting-id="812" fullname="PAUL, Pita"/>
+			<!--PHILIP-BARBARA-->
+			<iter:candidate vote-count="730.111817414" keep-value="1.000000000" surplus="0.000000000" random="2659" status="hopeful" voting-id="813" fullname="PHILIP-BARBARA, Glenis"/>
+			<!--PIHEMA-->
+			<iter:candidate vote-count="1181.745620319" keep-value="1.000000000" surplus="0.000000000" random="9203" status="hopeful" voting-id="814" fullname="PIHEMA, Hiki"/>
+			<!--RAUNA, excluded at iteration 6, reason: Candidate received the lowest vote count 281.636737544, less than the second lowest by more than total surplus (0.116185906), second lowest (506d212b-94bf-4621-921f-fb447fcde2ac) received 290.775516400 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="6908" status="excluded" voting-id="815" fullname="RAUNA, Peeti Wainui"/>
+			<!--ROBERTSON-->
+			<iter:candidate vote-count="1246.199016009" keep-value="1.000000000" surplus="0.000000000" random="2066" status="hopeful" voting-id="816" fullname="ROBERTSON, Heather"/>
+			<!--ROBINSON-->
+			<iter:candidate vote-count="1659.407086646" keep-value="1.000000000" surplus="0.000000000" random="5744" status="hopeful" voting-id="817" fullname="ROBINSON, Tony"/>
+			<!--TAKITIMU, excluded at iteration 7, reason: Candidate received the lowest vote count 308.095224131, less than the second lowest by more than total surplus (24.688050140), second lowest (f2ef14e3-b4b7-4295-9a2d-3d1c6abf2cdb) received 477.324427487 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="1408" status="excluded" voting-id="818" fullname="TAKITIMU, Dayle"/>
+			<!--TUPARA-->
+			<iter:candidate vote-count="751.289966119" keep-value="1.000000000" surplus="0.000000000" random="3910" status="hopeful" voting-id="819" fullname="TUPARA, Nick"/>
+			<!--WHAREHINGA, elected at iteration 12, reason: Candidate received 1856.742874856 votes and quota was 1847.071085940-->
+			<iter:candidate vote-count="1894.243649442" keep-value="0.965906311" surplus="59.786319814" random="5902" status="elected" voting-id="820" fullname="WHAREHINGA, Josh"/>
+		</iter:iteration>
+		<iter:iteration number="17" quota="1831.920696624" ntv="304.634427016" surplus="42.624105341">
+			<!--AKUHATA-BROWN, elected at iteration 1, reason: Candidate received 2254.000000000 votes and quota was 1870.000000001-->
+			<iter:candidate vote-count="1848.908356872" keep-value="0.724790456" surplus="16.987660248" random="8888" status="elected" voting-id="801" fullname="AKUHATA-BROWN, Meredith"/>
+			<!--BIBBY-->
+			<iter:candidate vote-count="1049.071786411" keep-value="1.000000000" surplus="0.000000000" random="9627" status="hopeful" voting-id="802" fullname="BIBBY, Clive"/>
+			<!--CLARE, excluded at iteration 4, reason: Candidate received the lowest vote count 222.630745476, less than the second lowest by more than total surplus (18.912747409), second lowest (219d8a62-7f38-4e41-816f-39966cb2b361) received 279.677705288 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="9797" status="excluded" voting-id="803" fullname="CLARE, Tracey"/>
+			<!--CRANSTON-->
+			<iter:candidate vote-count="1447.644100265" keep-value="1.000000000" surplus="0.000000000" random="482" status="hopeful" voting-id="804" fullname="CRANSTON, Andy"/>
+			<!--FAULKNER, elected at iteration 11, reason: Candidate received 1900.238446349 votes and quota was 1847.995286347-->
+			<iter:candidate vote-count="1839.717879104" keep-value="0.861772170" surplus="7.797182480" random="5464" status="elected" voting-id="805" fullname="FAULKNER, Sandra"/>
+			<!--GOULD-LARDELLI-->
+			<iter:candidate vote-count="961.174345608" keep-value="1.000000000" surplus="0.000000000" random="6042" status="hopeful" voting-id="806" fullname="GOULD-LARDELLI, Rose"/>
+			<!--LODEWYK, excluded at iteration 10, reason: Candidate received the lowest vote count 535.922924908, less than the second lowest by more than total surplus (30.653039770), second lowest (79ab4340-b00a-4190-b74c-4c8fad92358b) received 572.657739316 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="8416" status="excluded" voting-id="807" fullname="LODEWYK, Rachel"/>
+			<!--MACLEAN, excluded at iteration 12, reason: Candidate received the lowest vote count 602.052888236, less than the second lowest by more than total surplus (15.204645154), second lowest (61a011f0-7892-4bde-b5c3-d977b7373850) received 635.117321443 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="9998" status="excluded" voting-id="808" fullname="MACLEAN, Malcolm"/>
+			<!--MCCARTNEY, excluded at iteration 9, reason: Candidate received the lowest vote count 483.909720250, less than the second lowest by more than total surplus (0.462257374), second lowest (d3a63046-7b1d-4bad-892f-9e16aff91a4e) received 490.384820000 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="3405" status="excluded" voting-id="809" fullname="MCCARTNEY, Nicola"/>
+			<!--MCKELLOW, excluded at iteration 15, reason: Candidate received the lowest vote count 696.368068232, less than the second lowest by more than total surplus (8.693490412), second lowest (6aace847-332f-49fd-9489-f22acadbeb71) received 718.208947708 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="2184" status="excluded" voting-id="810" fullname="MCKELLOW, Alistar"/>
+			<!--NGARANGIOUE, excluded at iteration 3, reason: Candidate received the lowest vote count 153.400394729, less than the second lowest by more than total surplus (5.403884664), second lowest (95a8f37f-2490-4acd-a4ce-38707dae6553) received 220.367781511 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="3011" status="excluded" voting-id="811" fullname="NGARANGIOUE, Angus"/>
+			<!--PAUL, excluded at iteration 2, reason: Candidate received the lowest vote count 46.555456955, less than the second lowest by more than total surplus (3.918368892), second lowest (8a882078-4968-4919-888e-9916e0f81b80) received 149.984915677 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="1800" status="excluded" voting-id="812" fullname="PAUL, Pita"/>
+			<!--PHILIP-BARBARA-->
+			<iter:candidate vote-count="741.445698718" keep-value="1.000000000" surplus="0.000000000" random="7341" status="hopeful" voting-id="813" fullname="PHILIP-BARBARA, Glenis"/>
+			<!--PIHEMA-->
+			<iter:candidate vote-count="1195.678213695" keep-value="1.000000000" surplus="0.000000000" random="797" status="hopeful" voting-id="814" fullname="PIHEMA, Hiki"/>
+			<!--RAUNA, excluded at iteration 6, reason: Candidate received the lowest vote count 281.636737544, less than the second lowest by more than total surplus (0.116185906), second lowest (506d212b-94bf-4621-921f-fb447fcde2ac) received 290.775516400 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="3092" status="excluded" voting-id="815" fullname="RAUNA, Peeti Wainui"/>
+			<!--ROBERTSON-->
+			<iter:candidate vote-count="1266.092766081" keep-value="1.000000000" surplus="0.000000000" random="7934" status="hopeful" voting-id="816" fullname="ROBERTSON, Heather"/>
+			<!--ROBINSON-->
+			<iter:candidate vote-count="1687.844578969" keep-value="1.000000000" surplus="0.000000000" random="4256" status="hopeful" voting-id="817" fullname="ROBINSON, Tony"/>
+			<!--TAKITIMU, excluded at iteration 7, reason: Candidate received the lowest vote count 308.095224131, less than the second lowest by more than total surplus (24.688050140), second lowest (f2ef14e3-b4b7-4295-9a2d-3d1c6abf2cdb) received 477.324427487 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="8592" status="excluded" voting-id="818" fullname="TAKITIMU, Dayle"/>
+			<!--TUPARA-->
+			<iter:candidate vote-count="768.027888024" keep-value="1.000000000" surplus="0.000000000" random="6090" status="hopeful" voting-id="819" fullname="TUPARA, Nick"/>
+			<!--WHAREHINGA, elected at iteration 12, reason: Candidate received 1856.742874856 votes and quota was 1847.071085940-->
+			<iter:candidate vote-count="1849.759959237" keep-value="0.935420274" surplus="17.839262613" random="4098" status="elected" voting-id="820" fullname="WHAREHINGA, Josh"/>
+		</iter:iteration>
+		<iter:iteration number="18" quota="1831.413711476" ntv="308.690308198" surplus="11.470864373">
+			<!--AKUHATA-BROWN, elected at iteration 1, reason: Candidate received 2254.000000000 votes and quota was 1870.000000001-->
+			<iter:candidate vote-count="1835.176551904" keep-value="0.718131125" surplus="3.762840428" random="1112" status="elected" voting-id="801" fullname="AKUHATA-BROWN, Meredith"/>
+			<!--BIBBY-->
+			<iter:candidate vote-count="1051.567050638" keep-value="1.000000000" surplus="0.000000000" random="373" status="hopeful" voting-id="802" fullname="BIBBY, Clive"/>
+			<!--CLARE, excluded at iteration 4, reason: Candidate received the lowest vote count 222.630745476, less than the second lowest by more than total surplus (18.912747409), second lowest (219d8a62-7f38-4e41-816f-39966cb2b361) received 279.677705288 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="203" status="excluded" voting-id="803" fullname="CLARE, Tracey"/>
+			<!--CRANSTON-->
+			<iter:candidate vote-count="1451.849051535" keep-value="1.000000000" surplus="0.000000000" random="9518" status="hopeful" voting-id="804" fullname="CRANSTON, Andy"/>
+			<!--FAULKNER, elected at iteration 11, reason: Candidate received 1900.238446349 votes and quota was 1847.995286347-->
+			<iter:candidate vote-count="1833.829228708" keep-value="0.858119765" surplus="2.415517232" random="4536" status="elected" voting-id="805" fullname="FAULKNER, Sandra"/>
+			<!--GOULD-LARDELLI-->
+			<iter:candidate vote-count="964.599712331" keep-value="1.000000000" surplus="0.000000000" random="3958" status="hopeful" voting-id="806" fullname="GOULD-LARDELLI, Rose"/>
+			<!--LODEWYK, excluded at iteration 10, reason: Candidate received the lowest vote count 535.922924908, less than the second lowest by more than total surplus (30.653039770), second lowest (79ab4340-b00a-4190-b74c-4c8fad92358b) received 572.657739316 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="1584" status="excluded" voting-id="807" fullname="LODEWYK, Rachel"/>
+			<!--MACLEAN, excluded at iteration 12, reason: Candidate received the lowest vote count 602.052888236, less than the second lowest by more than total surplus (15.204645154), second lowest (61a011f0-7892-4bde-b5c3-d977b7373850) received 635.117321443 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="2" status="excluded" voting-id="808" fullname="MACLEAN, Malcolm"/>
+			<!--MCCARTNEY, excluded at iteration 9, reason: Candidate received the lowest vote count 483.909720250, less than the second lowest by more than total surplus (0.462257374), second lowest (d3a63046-7b1d-4bad-892f-9e16aff91a4e) received 490.384820000 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="6595" status="excluded" voting-id="809" fullname="MCCARTNEY, Nicola"/>
+			<!--MCKELLOW, excluded at iteration 15, reason: Candidate received the lowest vote count 696.368068232, less than the second lowest by more than total surplus (8.693490412), second lowest (6aace847-332f-49fd-9489-f22acadbeb71) received 718.208947708 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="7816" status="excluded" voting-id="810" fullname="MCKELLOW, Alistar"/>
+			<!--NGARANGIOUE, excluded at iteration 3, reason: Candidate received the lowest vote count 153.400394729, less than the second lowest by more than total surplus (5.403884664), second lowest (95a8f37f-2490-4acd-a4ce-38707dae6553) received 220.367781511 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="6989" status="excluded" voting-id="811" fullname="NGARANGIOUE, Angus"/>
+			<!--PAUL, excluded at iteration 2, reason: Candidate received the lowest vote count 46.555456955, less than the second lowest by more than total surplus (3.918368892), second lowest (8a882078-4968-4919-888e-9916e0f81b80) received 149.984915677 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="8200" status="excluded" voting-id="812" fullname="PAUL, Pita"/>
+			<!--PHILIP-BARBARA, excluded at iteration 18, reason: Candidate received the lowest vote count 745.029562790, less than the second lowest by more than total surplus (11.470864373), second lowest (dc41446f-6f55-4b42-a4f7-c84c5080dc06) received 773.227209200 votes-->
+			<iter:candidate vote-count="745.029562790" keep-value="0.000000000" surplus="0.000000000" random="2659" status="excluded" voting-id="813" fullname="PHILIP-BARBARA, Glenis"/>
+			<!--PIHEMA-->
+			<iter:candidate vote-count="1199.029465808" keep-value="1.000000000" surplus="0.000000000" random="9203" status="hopeful" voting-id="814" fullname="PIHEMA, Hiki"/>
+			<!--RAUNA, excluded at iteration 6, reason: Candidate received the lowest vote count 281.636737544, less than the second lowest by more than total surplus (0.116185906), second lowest (506d212b-94bf-4621-921f-fb447fcde2ac) received 290.775516400 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="6908" status="excluded" voting-id="815" fullname="RAUNA, Peeti Wainui"/>
+			<!--ROBERTSON-->
+			<iter:candidate vote-count="1268.597752016" keep-value="1.000000000" surplus="0.000000000" random="2066" status="hopeful" voting-id="816" fullname="ROBERTSON, Heather"/>
+			<!--ROBINSON-->
+			<iter:candidate vote-count="1691.697888683" keep-value="1.000000000" surplus="0.000000000" random="5744" status="hopeful" voting-id="817" fullname="ROBINSON, Tony"/>
+			<!--TAKITIMU, excluded at iteration 7, reason: Candidate received the lowest vote count 308.095224131, less than the second lowest by more than total surplus (24.688050140), second lowest (f2ef14e3-b4b7-4295-9a2d-3d1c6abf2cdb) received 477.324427487 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="1408" status="excluded" voting-id="818" fullname="TAKITIMU, Dayle"/>
+			<!--TUPARA-->
+			<iter:candidate vote-count="773.227209200" keep-value="1.000000000" surplus="0.000000000" random="3910" status="hopeful" voting-id="819" fullname="TUPARA, Nick"/>
+			<!--WHAREHINGA, elected at iteration 12, reason: Candidate received 1856.742874856 votes and quota was 1847.071085940-->
+			<iter:candidate vote-count="1836.706218189" keep-value="0.926398992" surplus="5.292506713" random="5902" status="elected" voting-id="820" fullname="WHAREHINGA, Josh"/>
+		</iter:iteration>
+		<iter:iteration number="19" quota="1823.530761438" ntv="371.753908504" surplus="285.298833788">
+			<!--AKUHATA-BROWN, elected at iteration 1, reason: Candidate received 2254.000000000 votes and quota was 1870.000000001-->
+			<iter:candidate vote-count="1934.508384460" keep-value="0.716658672" surplus="110.977623022" random="8888" status="elected" voting-id="801" fullname="AKUHATA-BROWN, Meredith"/>
+			<!--BIBBY-->
+			<iter:candidate vote-count="1078.748395314" keep-value="1.000000000" surplus="0.000000000" random="9627" status="hopeful" voting-id="802" fullname="BIBBY, Clive"/>
+			<!--CLARE, excluded at iteration 4, reason: Candidate received the lowest vote count 222.630745476, less than the second lowest by more than total surplus (18.912747409), second lowest (219d8a62-7f38-4e41-816f-39966cb2b361) received 279.677705288 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="9797" status="excluded" voting-id="803" fullname="CLARE, Tracey"/>
+			<!--CRANSTON-->
+			<iter:candidate vote-count="1481.500693012" keep-value="1.000000000" surplus="0.000000000" random="482" status="hopeful" voting-id="804" fullname="CRANSTON, Andy"/>
+			<!--FAULKNER, elected at iteration 11, reason: Candidate received 1900.238446349 votes and quota was 1847.995286347-->
+			<iter:candidate vote-count="1861.073071683" keep-value="0.856989451" surplus="37.542310245" random="5464" status="elected" voting-id="805" fullname="FAULKNER, Sandra"/>
+			<!--GOULD-LARDELLI-->
+			<iter:candidate vote-count="1077.742172368" keep-value="1.000000000" surplus="0.000000000" random="6042" status="hopeful" voting-id="806" fullname="GOULD-LARDELLI, Rose"/>
+			<!--LODEWYK, excluded at iteration 10, reason: Candidate received the lowest vote count 535.922924908, less than the second lowest by more than total surplus (30.653039770), second lowest (79ab4340-b00a-4190-b74c-4c8fad92358b) received 572.657739316 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="8416" status="excluded" voting-id="807" fullname="LODEWYK, Rachel"/>
+			<!--MACLEAN, excluded at iteration 12, reason: Candidate received the lowest vote count 602.052888236, less than the second lowest by more than total surplus (15.204645154), second lowest (61a011f0-7892-4bde-b5c3-d977b7373850) received 635.117321443 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="9998" status="excluded" voting-id="808" fullname="MACLEAN, Malcolm"/>
+			<!--MCCARTNEY, excluded at iteration 9, reason: Candidate received the lowest vote count 483.909720250, less than the second lowest by more than total surplus (0.462257374), second lowest (d3a63046-7b1d-4bad-892f-9e16aff91a4e) received 490.384820000 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="3405" status="excluded" voting-id="809" fullname="MCCARTNEY, Nicola"/>
+			<!--MCKELLOW, excluded at iteration 15, reason: Candidate received the lowest vote count 696.368068232, less than the second lowest by more than total surplus (8.693490412), second lowest (6aace847-332f-49fd-9489-f22acadbeb71) received 718.208947708 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="2184" status="excluded" voting-id="810" fullname="MCKELLOW, Alistar"/>
+			<!--NGARANGIOUE, excluded at iteration 3, reason: Candidate received the lowest vote count 153.400394729, less than the second lowest by more than total surplus (5.403884664), second lowest (95a8f37f-2490-4acd-a4ce-38707dae6553) received 220.367781511 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="3011" status="excluded" voting-id="811" fullname="NGARANGIOUE, Angus"/>
+			<!--PAUL, excluded at iteration 2, reason: Candidate received the lowest vote count 46.555456955, less than the second lowest by more than total surplus (3.918368892), second lowest (8a882078-4968-4919-888e-9916e0f81b80) received 149.984915677 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="1800" status="excluded" voting-id="812" fullname="PAUL, Pita"/>
+			<!--PHILIP-BARBARA, excluded at iteration 18, reason: Candidate received the lowest vote count 745.029562790, less than the second lowest by more than total surplus (11.470864373), second lowest (dc41446f-6f55-4b42-a4f7-c84c5080dc06) received 773.227209200 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="7341" status="excluded" voting-id="813" fullname="PHILIP-BARBARA, Glenis"/>
+			<!--PIHEMA-->
+			<iter:candidate vote-count="1293.289327494" keep-value="1.000000000" surplus="0.000000000" random="797" status="hopeful" voting-id="814" fullname="PIHEMA, Hiki"/>
+			<!--RAUNA, excluded at iteration 6, reason: Candidate received the lowest vote count 281.636737544, less than the second lowest by more than total surplus (0.116185906), second lowest (506d212b-94bf-4621-921f-fb447fcde2ac) received 290.775516400 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="3092" status="excluded" voting-id="815" fullname="RAUNA, Peeti Wainui"/>
+			<!--ROBERTSON-->
+			<iter:candidate vote-count="1296.583887971" keep-value="1.000000000" surplus="0.000000000" random="7934" status="hopeful" voting-id="816" fullname="ROBERTSON, Heather"/>
+			<!--ROBINSON-->
+			<iter:candidate vote-count="1728.379455423" keep-value="1.000000000" surplus="0.000000000" random="4256" status="hopeful" voting-id="817" fullname="ROBINSON, Tony"/>
+			<!--TAKITIMU, excluded at iteration 7, reason: Candidate received the lowest vote count 308.095224131, less than the second lowest by more than total surplus (24.688050140), second lowest (f2ef14e3-b4b7-4295-9a2d-3d1c6abf2cdb) received 477.324427487 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="8592" status="excluded" voting-id="818" fullname="TAKITIMU, Dayle"/>
+			<!--TUPARA-->
+			<iter:candidate vote-count="876.111041812" keep-value="1.000000000" surplus="0.000000000" random="6090" status="hopeful" voting-id="819" fullname="TUPARA, Nick"/>
+			<!--WHAREHINGA, elected at iteration 12, reason: Candidate received 1856.742874856 votes and quota was 1847.071085940-->
+			<iter:candidate vote-count="1960.309661959" keep-value="0.923729555" surplus="136.778900521" random="4098" status="elected" voting-id="820" fullname="WHAREHINGA, Josh"/>
+		</iter:iteration>
+		<iter:iteration number="20" quota="1819.669537936" ntv="402.643696516" surplus="80.616518371">
+			<!--AKUHATA-BROWN, elected at iteration 1, reason: Candidate received 2254.000000000 votes and quota was 1870.000000001-->
+			<iter:candidate vote-count="1847.834647709" keep-value="0.675545862" surplus="28.165109773" random="1112" status="elected" voting-id="801" fullname="AKUHATA-BROWN, Meredith"/>
+			<!--BIBBY-->
+			<iter:candidate vote-count="1095.611430369" keep-value="1.000000000" surplus="0.000000000" random="373" status="hopeful" voting-id="802" fullname="BIBBY, Clive"/>
+			<!--CLARE, excluded at iteration 4, reason: Candidate received the lowest vote count 222.630745476, less than the second lowest by more than total surplus (18.912747409), second lowest (219d8a62-7f38-4e41-816f-39966cb2b361) received 279.677705288 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="203" status="excluded" voting-id="803" fullname="CLARE, Tracey"/>
+			<!--CRANSTON-->
+			<iter:candidate vote-count="1508.335215359" keep-value="1.000000000" surplus="0.000000000" random="9518" status="hopeful" voting-id="804" fullname="CRANSTON, Andy"/>
+			<!--FAULKNER, elected at iteration 11, reason: Candidate received 1900.238446349 votes and quota was 1847.995286347-->
+			<iter:candidate vote-count="1837.359017947" keep-value="0.839701918" surplus="17.689480011" random="4536" status="elected" voting-id="805" fullname="FAULKNER, Sandra"/>
+			<!--GOULD-LARDELLI-->
+			<iter:candidate vote-count="1105.399102881" keep-value="1.000000000" surplus="0.000000000" random="3958" status="hopeful" voting-id="806" fullname="GOULD-LARDELLI, Rose"/>
+			<!--LODEWYK, excluded at iteration 10, reason: Candidate received the lowest vote count 535.922924908, less than the second lowest by more than total surplus (30.653039770), second lowest (79ab4340-b00a-4190-b74c-4c8fad92358b) received 572.657739316 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="1584" status="excluded" voting-id="807" fullname="LODEWYK, Rachel"/>
+			<!--MACLEAN, excluded at iteration 12, reason: Candidate received the lowest vote count 602.052888236, less than the second lowest by more than total surplus (15.204645154), second lowest (61a011f0-7892-4bde-b5c3-d977b7373850) received 635.117321443 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="2" status="excluded" voting-id="808" fullname="MACLEAN, Malcolm"/>
+			<!--MCCARTNEY, excluded at iteration 9, reason: Candidate received the lowest vote count 483.909720250, less than the second lowest by more than total surplus (0.462257374), second lowest (d3a63046-7b1d-4bad-892f-9e16aff91a4e) received 490.384820000 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="6595" status="excluded" voting-id="809" fullname="MCCARTNEY, Nicola"/>
+			<!--MCKELLOW, excluded at iteration 15, reason: Candidate received the lowest vote count 696.368068232, less than the second lowest by more than total surplus (8.693490412), second lowest (6aace847-332f-49fd-9489-f22acadbeb71) received 718.208947708 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="7816" status="excluded" voting-id="810" fullname="MCKELLOW, Alistar"/>
+			<!--NGARANGIOUE, excluded at iteration 3, reason: Candidate received the lowest vote count 153.400394729, less than the second lowest by more than total surplus (5.403884664), second lowest (95a8f37f-2490-4acd-a4ce-38707dae6553) received 220.367781511 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="6989" status="excluded" voting-id="811" fullname="NGARANGIOUE, Angus"/>
+			<!--PAUL, excluded at iteration 2, reason: Candidate received the lowest vote count 46.555456955, less than the second lowest by more than total surplus (3.918368892), second lowest (8a882078-4968-4919-888e-9916e0f81b80) received 149.984915677 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="8200" status="excluded" voting-id="812" fullname="PAUL, Pita"/>
+			<!--PHILIP-BARBARA, excluded at iteration 18, reason: Candidate received the lowest vote count 745.029562790, less than the second lowest by more than total surplus (11.470864373), second lowest (dc41446f-6f55-4b42-a4f7-c84c5080dc06) received 773.227209200 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="2659" status="excluded" voting-id="813" fullname="PHILIP-BARBARA, Glenis"/>
+			<!--PIHEMA-->
+			<iter:candidate vote-count="1320.934947060" keep-value="1.000000000" surplus="0.000000000" random="9203" status="hopeful" voting-id="814" fullname="PIHEMA, Hiki"/>
+			<!--RAUNA, excluded at iteration 6, reason: Candidate received the lowest vote count 281.636737544, less than the second lowest by more than total surplus (0.116185906), second lowest (506d212b-94bf-4621-921f-fb447fcde2ac) received 290.775516400 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="6908" status="excluded" voting-id="815" fullname="RAUNA, Peeti Wainui"/>
+			<!--ROBERTSON-->
+			<iter:candidate vote-count="1313.328817813" keep-value="1.000000000" surplus="0.000000000" random="2066" status="hopeful" voting-id="816" fullname="ROBERTSON, Heather"/>
+			<!--ROBINSON-->
+			<iter:candidate vote-count="1754.266166869" keep-value="1.000000000" surplus="0.000000000" random="5744" status="hopeful" voting-id="817" fullname="ROBINSON, Tony"/>
+			<!--TAKITIMU, excluded at iteration 7, reason: Candidate received the lowest vote count 308.095224131, less than the second lowest by more than total surplus (24.688050140), second lowest (f2ef14e3-b4b7-4295-9a2d-3d1c6abf2cdb) received 477.324427487 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="1408" status="excluded" voting-id="818" fullname="TAKITIMU, Dayle"/>
+			<!--TUPARA, excluded at iteration 20, reason: Candidate received the lowest vote count 919.855490954, less than the second lowest by more than total surplus (80.616518371), second lowest (8f7bd724-2429-4cd5-a330-71d34c709b1c) received 1095.611430369 votes-->
+			<iter:candidate vote-count="919.855490954" keep-value="0.000000000" surplus="0.000000000" random="3910" status="excluded" voting-id="819" fullname="TUPARA, Nick"/>
+			<!--WHAREHINGA, elected at iteration 12, reason: Candidate received 1856.742874856 votes and quota was 1847.071085940-->
+			<iter:candidate vote-count="1854.431466523" keep-value="0.859277130" surplus="34.761928587" random="5902" status="elected" voting-id="820" fullname="WHAREHINGA, Josh"/>
+		</iter:iteration>
+		<iter:iteration number="21" quota="1802.378964664" ntv="540.968282696" surplus="452.398043796">
+			<!--AKUHATA-BROWN, elected at iteration 1, reason: Candidate received 2254.000000000 votes and quota was 1870.000000001-->
+			<iter:candidate vote-count="1958.433940947" keep-value="0.665249041" surplus="156.054976283" random="8888" status="elected" voting-id="801" fullname="AKUHATA-BROWN, Meredith"/>
+			<!--BIBBY-->
+			<iter:candidate vote-count="1131.880381231" keep-value="1.000000000" surplus="0.000000000" random="9627" status="hopeful" voting-id="802" fullname="BIBBY, Clive"/>
+			<!--CLARE, excluded at iteration 4, reason: Candidate received the lowest vote count 222.630745476, less than the second lowest by more than total surplus (18.912747409), second lowest (219d8a62-7f38-4e41-816f-39966cb2b361) received 279.677705288 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="9797" status="excluded" voting-id="803" fullname="CLARE, Tracey"/>
+			<!--CRANSTON-->
+			<iter:candidate vote-count="1562.130428517" keep-value="1.000000000" surplus="0.000000000" random="482" status="hopeful" voting-id="804" fullname="CRANSTON, Andy"/>
+			<!--FAULKNER, elected at iteration 11, reason: Candidate received 1900.238446349 votes and quota was 1847.995286347-->
+			<iter:candidate vote-count="1855.735453657" keep-value="0.831617548" surplus="53.356488993" random="5464" status="elected" voting-id="805" fullname="FAULKNER, Sandra"/>
+			<!--GOULD-LARDELLI-->
+			<iter:candidate vote-count="1264.083601468" keep-value="1.000000000" surplus="0.000000000" random="6042" status="hopeful" voting-id="806" fullname="GOULD-LARDELLI, Rose"/>
+			<!--LODEWYK, excluded at iteration 10, reason: Candidate received the lowest vote count 535.922924908, less than the second lowest by more than total surplus (30.653039770), second lowest (79ab4340-b00a-4190-b74c-4c8fad92358b) received 572.657739316 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="8416" status="excluded" voting-id="807" fullname="LODEWYK, Rachel"/>
+			<!--MACLEAN, excluded at iteration 12, reason: Candidate received the lowest vote count 602.052888236, less than the second lowest by more than total surplus (15.204645154), second lowest (61a011f0-7892-4bde-b5c3-d977b7373850) received 635.117321443 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="9998" status="excluded" voting-id="808" fullname="MACLEAN, Malcolm"/>
+			<!--MCCARTNEY, excluded at iteration 9, reason: Candidate received the lowest vote count 483.909720250, less than the second lowest by more than total surplus (0.462257374), second lowest (d3a63046-7b1d-4bad-892f-9e16aff91a4e) received 490.384820000 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="3405" status="excluded" voting-id="809" fullname="MCCARTNEY, Nicola"/>
+			<!--MCKELLOW, excluded at iteration 15, reason: Candidate received the lowest vote count 696.368068232, less than the second lowest by more than total surplus (8.693490412), second lowest (6aace847-332f-49fd-9489-f22acadbeb71) received 718.208947708 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="2184" status="excluded" voting-id="810" fullname="MCKELLOW, Alistar"/>
+			<!--NGARANGIOUE, excluded at iteration 3, reason: Candidate received the lowest vote count 153.400394729, less than the second lowest by more than total surplus (5.403884664), second lowest (95a8f37f-2490-4acd-a4ce-38707dae6553) received 220.367781511 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="3011" status="excluded" voting-id="811" fullname="NGARANGIOUE, Angus"/>
+			<!--PAUL, excluded at iteration 2, reason: Candidate received the lowest vote count 46.555456955, less than the second lowest by more than total surplus (3.918368892), second lowest (8a882078-4968-4919-888e-9916e0f81b80) received 149.984915677 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="1800" status="excluded" voting-id="812" fullname="PAUL, Pita"/>
+			<!--PHILIP-BARBARA, excluded at iteration 18, reason: Candidate received the lowest vote count 745.029562790, less than the second lowest by more than total surplus (11.470864373), second lowest (dc41446f-6f55-4b42-a4f7-c84c5080dc06) received 773.227209200 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="7341" status="excluded" voting-id="813" fullname="PHILIP-BARBARA, Glenis"/>
+			<!--PIHEMA-->
+			<iter:candidate vote-count="1446.090113496" keep-value="1.000000000" surplus="0.000000000" random="797" status="hopeful" voting-id="814" fullname="PIHEMA, Hiki"/>
+			<!--RAUNA, excluded at iteration 6, reason: Candidate received the lowest vote count 281.636737544, less than the second lowest by more than total surplus (0.116185906), second lowest (506d212b-94bf-4621-921f-fb447fcde2ac) received 290.775516400 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="3092" status="excluded" voting-id="815" fullname="RAUNA, Peeti Wainui"/>
+			<!--ROBERTSON-->
+			<iter:candidate vote-count="1352.933290140" keep-value="1.000000000" surplus="0.000000000" random="7934" status="hopeful" voting-id="816" fullname="ROBERTSON, Heather"/>
+			<!--ROBINSON, elected at iteration 21, reason: Candidate received 1810.447852671 votes and quota was 1802.378964664-->
+			<iter:candidate vote-count="1810.447852671" keep-value="1.000000000" surplus="8.068888007" random="4256" status="elected" voting-id="817" fullname="ROBINSON, Tony"/>
+			<!--TAKITIMU, excluded at iteration 7, reason: Candidate received the lowest vote count 308.095224131, less than the second lowest by more than total surplus (24.688050140), second lowest (f2ef14e3-b4b7-4295-9a2d-3d1c6abf2cdb) received 477.324427487 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="8592" status="excluded" voting-id="818" fullname="TAKITIMU, Dayle"/>
+			<!--TUPARA, excluded at iteration 20, reason: Candidate received the lowest vote count 919.855490954, less than the second lowest by more than total surplus (80.616518371), second lowest (8f7bd724-2429-4cd5-a330-71d34c709b1c) received 1095.611430369 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="6090" status="excluded" voting-id="819" fullname="TUPARA, Nick"/>
+			<!--WHAREHINGA, elected at iteration 12, reason: Candidate received 1856.742874856 votes and quota was 1847.071085940-->
+			<iter:candidate vote-count="2037.296655177" keep-value="0.843169698" surplus="234.917690513" random="4098" status="elected" voting-id="820" fullname="WHAREHINGA, Josh"/>
+		</iter:iteration>
+		<iter:iteration number="22" quota="1793.736812561" ntv="610.105499516" surplus="190.143898421">
+			<!--AKUHATA-BROWN, elected at iteration 1, reason: Candidate received 2254.000000000 votes and quota was 1870.000000001-->
+			<iter:candidate vote-count="1844.944131652" keep-value="0.612239634" surplus="51.207319091" random="1112" status="elected" voting-id="801" fullname="AKUHATA-BROWN, Meredith"/>
+			<!--BIBBY-->
+			<iter:candidate vote-count="1162.352516234" keep-value="1.000000000" surplus="0.000000000" random="373" status="hopeful" voting-id="802" fullname="BIBBY, Clive"/>
+			<!--CLARE, excluded at iteration 4, reason: Candidate received the lowest vote count 222.630745476, less than the second lowest by more than total surplus (18.912747409), second lowest (219d8a62-7f38-4e41-816f-39966cb2b361) received 279.677705288 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="203" status="excluded" voting-id="803" fullname="CLARE, Tracey"/>
+			<!--CRANSTON-->
+			<iter:candidate vote-count="1610.506410319" keep-value="1.000000000" surplus="0.000000000" random="9518" status="hopeful" voting-id="804" fullname="CRANSTON, Andy"/>
+			<!--FAULKNER, elected at iteration 11, reason: Candidate received 1900.238446349 votes and quota was 1847.995286347-->
+			<iter:candidate vote-count="1827.035592643" keep-value="0.807706709" surplus="33.298780082" random="4536" status="elected" voting-id="805" fullname="FAULKNER, Sandra"/>
+			<!--GOULD-LARDELLI-->
+			<iter:candidate vote-count="1321.700907678" keep-value="1.000000000" surplus="0.000000000" random="3958" status="hopeful" voting-id="806" fullname="GOULD-LARDELLI, Rose"/>
+			<!--LODEWYK, excluded at iteration 10, reason: Candidate received the lowest vote count 535.922924908, less than the second lowest by more than total surplus (30.653039770), second lowest (79ab4340-b00a-4190-b74c-4c8fad92358b) received 572.657739316 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="1584" status="excluded" voting-id="807" fullname="LODEWYK, Rachel"/>
+			<!--MACLEAN, excluded at iteration 12, reason: Candidate received the lowest vote count 602.052888236, less than the second lowest by more than total surplus (15.204645154), second lowest (61a011f0-7892-4bde-b5c3-d977b7373850) received 635.117321443 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="2" status="excluded" voting-id="808" fullname="MACLEAN, Malcolm"/>
+			<!--MCCARTNEY, excluded at iteration 9, reason: Candidate received the lowest vote count 483.909720250, less than the second lowest by more than total surplus (0.462257374), second lowest (d3a63046-7b1d-4bad-892f-9e16aff91a4e) received 490.384820000 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="6595" status="excluded" voting-id="809" fullname="MCCARTNEY, Nicola"/>
+			<!--MCKELLOW, excluded at iteration 15, reason: Candidate received the lowest vote count 696.368068232, less than the second lowest by more than total surplus (8.693490412), second lowest (6aace847-332f-49fd-9489-f22acadbeb71) received 718.208947708 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="7816" status="excluded" voting-id="810" fullname="MCKELLOW, Alistar"/>
+			<!--NGARANGIOUE, excluded at iteration 3, reason: Candidate received the lowest vote count 153.400394729, less than the second lowest by more than total surplus (5.403884664), second lowest (95a8f37f-2490-4acd-a4ce-38707dae6553) received 220.367781511 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="6989" status="excluded" voting-id="811" fullname="NGARANGIOUE, Angus"/>
+			<!--PAUL, excluded at iteration 2, reason: Candidate received the lowest vote count 46.555456955, less than the second lowest by more than total surplus (3.918368892), second lowest (8a882078-4968-4919-888e-9916e0f81b80) received 149.984915677 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="8200" status="excluded" voting-id="812" fullname="PAUL, Pita"/>
+			<!--PHILIP-BARBARA, excluded at iteration 18, reason: Candidate received the lowest vote count 745.029562790, less than the second lowest by more than total surplus (11.470864373), second lowest (dc41446f-6f55-4b42-a4f7-c84c5080dc06) received 773.227209200 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="2659" status="excluded" voting-id="813" fullname="PHILIP-BARBARA, Glenis"/>
+			<!--PIHEMA-->
+			<iter:candidate vote-count="1507.329362177" keep-value="1.000000000" surplus="0.000000000" random="9203" status="hopeful" voting-id="814" fullname="PIHEMA, Hiki"/>
+			<!--RAUNA, excluded at iteration 6, reason: Candidate received the lowest vote count 281.636737544, less than the second lowest by more than total surplus (0.116185906), second lowest (506d212b-94bf-4621-921f-fb447fcde2ac) received 290.775516400 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="6908" status="excluded" voting-id="815" fullname="RAUNA, Peeti Wainui"/>
+			<!--ROBERTSON-->
+			<iter:candidate vote-count="1382.914155411" keep-value="1.000000000" surplus="0.000000000" random="2066" status="hopeful" voting-id="816" fullname="ROBERTSON, Heather"/>
+			<!--ROBINSON, elected at iteration 21, reason: Candidate received 1810.447852671 votes and quota was 1802.378964664-->
+			<iter:candidate vote-count="1846.468448197" keep-value="0.995543154" surplus="52.731635636" random="5744" status="elected" voting-id="817" fullname="ROBINSON, Tony"/>
+			<!--TAKITIMU, excluded at iteration 7, reason: Candidate received the lowest vote count 308.095224131, less than the second lowest by more than total surplus (24.688050140), second lowest (f2ef14e3-b4b7-4295-9a2d-3d1c6abf2cdb) received 477.324427487 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="1408" status="excluded" voting-id="818" fullname="TAKITIMU, Dayle"/>
+			<!--TUPARA, excluded at iteration 20, reason: Candidate received the lowest vote count 919.855490954, less than the second lowest by more than total surplus (80.616518371), second lowest (8f7bd724-2429-4cd5-a330-71d34c709b1c) received 1095.611430369 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="3910" status="excluded" voting-id="819" fullname="TUPARA, Nick"/>
+			<!--WHAREHINGA, elected at iteration 12, reason: Candidate received 1856.742874856 votes and quota was 1847.071085940-->
+			<iter:candidate vote-count="1846.642976173" keep-value="0.745945037" surplus="52.906163612" random="5902" status="elected" voting-id="820" fullname="WHAREHINGA, Josh"/>
+		</iter:iteration>
+		<iter:iteration number="23" quota="1790.381165401" ntv="636.950676796" surplus="73.056965983">
+			<!--AKUHATA-BROWN, elected at iteration 1, reason: Candidate received 2254.000000000 votes and quota was 1870.000000001-->
+			<iter:candidate vote-count="1806.004861909" keep-value="0.595246627" surplus="15.623696508" random="8888" status="elected" voting-id="801" fullname="AKUHATA-BROWN, Meredith"/>
+			<!--BIBBY, excluded at iteration 23, reason: Candidate received the lowest vote count 1182.086833277, less than the second lowest by more than total surplus (73.056965983), second lowest (17fdfeb4-15b2-414a-8696-edd6623d0a1d) received 1340.952233186 votes-->
+			<iter:candidate vote-count="1182.086833277" keep-value="0.000000000" surplus="0.000000000" random="9627" status="excluded" voting-id="802" fullname="BIBBY, Clive"/>
+			<!--CLARE, excluded at iteration 4, reason: Candidate received the lowest vote count 222.630745476, less than the second lowest by more than total surplus (18.912747409), second lowest (219d8a62-7f38-4e41-816f-39966cb2b361) received 279.677705288 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="9797" status="excluded" voting-id="803" fullname="CLARE, Tracey"/>
+			<!--CRANSTON-->
+			<iter:candidate vote-count="1637.930165697" keep-value="1.000000000" surplus="0.000000000" random="482" status="hopeful" voting-id="804" fullname="CRANSTON, Andy"/>
+			<!--FAULKNER, elected at iteration 11, reason: Candidate received 1900.238446349 votes and quota was 1847.995286347-->
+			<iter:candidate vote-count="1807.345566256" keep-value="0.792985788" surplus="16.964400855" random="5464" status="elected" voting-id="805" fullname="FAULKNER, Sandra"/>
+			<!--GOULD-LARDELLI-->
+			<iter:candidate vote-count="1340.952233186" keep-value="1.000000000" surplus="0.000000000" random="6042" status="hopeful" voting-id="806" fullname="GOULD-LARDELLI, Rose"/>
+			<!--LODEWYK, excluded at iteration 10, reason: Candidate received the lowest vote count 535.922924908, less than the second lowest by more than total surplus (30.653039770), second lowest (79ab4340-b00a-4190-b74c-4c8fad92358b) received 572.657739316 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="8416" status="excluded" voting-id="807" fullname="LODEWYK, Rachel"/>
+			<!--MACLEAN, excluded at iteration 12, reason: Candidate received the lowest vote count 602.052888236, less than the second lowest by more than total surplus (15.204645154), second lowest (61a011f0-7892-4bde-b5c3-d977b7373850) received 635.117321443 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="9998" status="excluded" voting-id="808" fullname="MACLEAN, Malcolm"/>
+			<!--MCCARTNEY, excluded at iteration 9, reason: Candidate received the lowest vote count 483.909720250, less than the second lowest by more than total surplus (0.462257374), second lowest (d3a63046-7b1d-4bad-892f-9e16aff91a4e) received 490.384820000 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="3405" status="excluded" voting-id="809" fullname="MCCARTNEY, Nicola"/>
+			<!--MCKELLOW, excluded at iteration 15, reason: Candidate received the lowest vote count 696.368068232, less than the second lowest by more than total surplus (8.693490412), second lowest (6aace847-332f-49fd-9489-f22acadbeb71) received 718.208947708 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="2184" status="excluded" voting-id="810" fullname="MCKELLOW, Alistar"/>
+			<!--NGARANGIOUE, excluded at iteration 3, reason: Candidate received the lowest vote count 153.400394729, less than the second lowest by more than total surplus (5.403884664), second lowest (95a8f37f-2490-4acd-a4ce-38707dae6553) received 220.367781511 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="3011" status="excluded" voting-id="811" fullname="NGARANGIOUE, Angus"/>
+			<!--PAUL, excluded at iteration 2, reason: Candidate received the lowest vote count 46.555456955, less than the second lowest by more than total surplus (3.918368892), second lowest (8a882078-4968-4919-888e-9916e0f81b80) received 149.984915677 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="1800" status="excluded" voting-id="812" fullname="PAUL, Pita"/>
+			<!--PHILIP-BARBARA, excluded at iteration 18, reason: Candidate received the lowest vote count 745.029562790, less than the second lowest by more than total surplus (11.470864373), second lowest (dc41446f-6f55-4b42-a4f7-c84c5080dc06) received 773.227209200 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="7341" status="excluded" voting-id="813" fullname="PHILIP-BARBARA, Glenis"/>
+			<!--PIHEMA-->
+			<iter:candidate vote-count="1527.280189130" keep-value="1.000000000" surplus="0.000000000" random="797" status="hopeful" voting-id="814" fullname="PIHEMA, Hiki"/>
+			<!--RAUNA, excluded at iteration 6, reason: Candidate received the lowest vote count 281.636737544, less than the second lowest by more than total surplus (0.116185906), second lowest (506d212b-94bf-4621-921f-fb447fcde2ac) received 290.775516400 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="3092" status="excluded" voting-id="815" fullname="RAUNA, Peeti Wainui"/>
+			<!--ROBERTSON-->
+			<iter:candidate vote-count="1400.218274327" keep-value="1.000000000" surplus="0.000000000" random="7934" status="hopeful" voting-id="816" fullname="ROBERTSON, Heather"/>
+			<!--ROBINSON, elected at iteration 21, reason: Candidate received 1810.447852671 votes and quota was 1802.378964664-->
+			<iter:candidate vote-count="1808.374798685" keep-value="0.967112331" surplus="17.993633284" random="4256" status="elected" voting-id="817" fullname="ROBINSON, Tony"/>
+			<!--TAKITIMU, excluded at iteration 7, reason: Candidate received the lowest vote count 308.095224131, less than the second lowest by more than total surplus (24.688050140), second lowest (f2ef14e3-b4b7-4295-9a2d-3d1c6abf2cdb) received 477.324427487 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="8592" status="excluded" voting-id="818" fullname="TAKITIMU, Dayle"/>
+			<!--TUPARA, excluded at iteration 20, reason: Candidate received the lowest vote count 919.855490954, less than the second lowest by more than total surplus (80.616518371), second lowest (8f7bd724-2429-4cd5-a330-71d34c709b1c) received 1095.611430369 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="6090" status="excluded" voting-id="819" fullname="TUPARA, Nick"/>
+			<!--WHAREHINGA, elected at iteration 12, reason: Candidate received 1856.742874856 votes and quota was 1847.071085940-->
+			<iter:candidate vote-count="1812.856400737" keep-value="0.724573776" surplus="22.475235336" random="4098" status="elected" voting-id="820" fullname="WHAREHINGA, Josh"/>
+		</iter:iteration>
+		<iter:iteration number="24" quota="1769.099723827" ntv="807.202209385" surplus="801.454630726">
+			<!--AKUHATA-BROWN, elected at iteration 1, reason: Candidate received 2254.000000000 votes and quota was 1870.000000001-->
+			<iter:candidate vote-count="1847.120328244" keep-value="0.590097166" surplus="78.020604417" random="1112" status="elected" voting-id="801" fullname="AKUHATA-BROWN, Meredith"/>
+			<!--BIBBY, excluded at iteration 23, reason: Candidate received the lowest vote count 1182.086833277, less than the second lowest by more than total surplus (73.056965983), second lowest (17fdfeb4-15b2-414a-8696-edd6623d0a1d) received 1340.952233186 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="373" status="excluded" voting-id="802" fullname="BIBBY, Clive"/>
+			<!--CLARE, excluded at iteration 4, reason: Candidate received the lowest vote count 222.630745476, less than the second lowest by more than total surplus (18.912747409), second lowest (219d8a62-7f38-4e41-816f-39966cb2b361) received 279.677705288 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="203" status="excluded" voting-id="803" fullname="CLARE, Tracey"/>
+			<!--CRANSTON, elected at iteration 24, reason: Candidate received 1976.538962386 votes and quota was 1769.099723827-->
+			<iter:candidate vote-count="1976.538962386" keep-value="1.000000000" surplus="207.439238559" random="9518" status="elected" voting-id="804" fullname="CRANSTON, Andy"/>
+			<!--FAULKNER, elected at iteration 11, reason: Candidate received 1900.238446349 votes and quota was 1847.995286347-->
+			<iter:candidate vote-count="1960.724634227" keep-value="0.785542536" surplus="191.624910400" random="4536" status="elected" voting-id="805" fullname="FAULKNER, Sandra"/>
+			<!--GOULD-LARDELLI-->
+			<iter:candidate vote-count="1423.261172934" keep-value="1.000000000" surplus="0.000000000" random="3958" status="hopeful" voting-id="806" fullname="GOULD-LARDELLI, Rose"/>
+			<!--LODEWYK, excluded at iteration 10, reason: Candidate received the lowest vote count 535.922924908, less than the second lowest by more than total surplus (30.653039770), second lowest (79ab4340-b00a-4190-b74c-4c8fad92358b) received 572.657739316 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="1584" status="excluded" voting-id="807" fullname="LODEWYK, Rachel"/>
+			<!--MACLEAN, excluded at iteration 12, reason: Candidate received the lowest vote count 602.052888236, less than the second lowest by more than total surplus (15.204645154), second lowest (61a011f0-7892-4bde-b5c3-d977b7373850) received 635.117321443 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="2" status="excluded" voting-id="808" fullname="MACLEAN, Malcolm"/>
+			<!--MCCARTNEY, excluded at iteration 9, reason: Candidate received the lowest vote count 483.909720250, less than the second lowest by more than total surplus (0.462257374), second lowest (d3a63046-7b1d-4bad-892f-9e16aff91a4e) received 490.384820000 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="6595" status="excluded" voting-id="809" fullname="MCCARTNEY, Nicola"/>
+			<!--MCKELLOW, excluded at iteration 15, reason: Candidate received the lowest vote count 696.368068232, less than the second lowest by more than total surplus (8.693490412), second lowest (6aace847-332f-49fd-9489-f22acadbeb71) received 718.208947708 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="7816" status="excluded" voting-id="810" fullname="MCKELLOW, Alistar"/>
+			<!--NGARANGIOUE, excluded at iteration 3, reason: Candidate received the lowest vote count 153.400394729, less than the second lowest by more than total surplus (5.403884664), second lowest (95a8f37f-2490-4acd-a4ce-38707dae6553) received 220.367781511 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="6989" status="excluded" voting-id="811" fullname="NGARANGIOUE, Angus"/>
+			<!--PAUL, excluded at iteration 2, reason: Candidate received the lowest vote count 46.555456955, less than the second lowest by more than total surplus (3.918368892), second lowest (8a882078-4968-4919-888e-9916e0f81b80) received 149.984915677 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="8200" status="excluded" voting-id="812" fullname="PAUL, Pita"/>
+			<!--PHILIP-BARBARA, excluded at iteration 18, reason: Candidate received the lowest vote count 745.029562790, less than the second lowest by more than total surplus (11.470864373), second lowest (dc41446f-6f55-4b42-a4f7-c84c5080dc06) received 773.227209200 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="2659" status="excluded" voting-id="813" fullname="PHILIP-BARBARA, Glenis"/>
+			<!--PIHEMA-->
+			<iter:candidate vote-count="1590.876412329" keep-value="1.000000000" surplus="0.000000000" random="9203" status="hopeful" voting-id="814" fullname="PIHEMA, Hiki"/>
+			<!--RAUNA, excluded at iteration 6, reason: Candidate received the lowest vote count 281.636737544, less than the second lowest by more than total surplus (0.116185906), second lowest (506d212b-94bf-4621-921f-fb447fcde2ac) received 290.775516400 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="6908" status="excluded" voting-id="815" fullname="RAUNA, Peeti Wainui"/>
+			<!--ROBERTSON-->
+			<iter:candidate vote-count="1491.706955491" keep-value="1.000000000" surplus="0.000000000" random="2066" status="hopeful" voting-id="816" fullname="ROBERTSON, Heather"/>
+			<!--ROBINSON, elected at iteration 21, reason: Candidate received 1810.447852671 votes and quota was 1802.378964664-->
+			<iter:candidate vote-count="1993.781804250" keep-value="0.957489401" surplus="224.682080423" random="5744" status="elected" voting-id="817" fullname="ROBINSON, Tony"/>
+			<!--TAKITIMU, excluded at iteration 7, reason: Candidate received the lowest vote count 308.095224131, less than the second lowest by more than total surplus (24.688050140), second lowest (f2ef14e3-b4b7-4295-9a2d-3d1c6abf2cdb) received 477.324427487 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="1408" status="excluded" voting-id="818" fullname="TAKITIMU, Dayle"/>
+			<!--TUPARA, excluded at iteration 20, reason: Candidate received the lowest vote count 919.855490954, less than the second lowest by more than total surplus (80.616518371), second lowest (8f7bd724-2429-4cd5-a330-71d34c709b1c) received 1095.611430369 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="3910" status="excluded" voting-id="819" fullname="TUPARA, Nick"/>
+			<!--WHAREHINGA, elected at iteration 12, reason: Candidate received 1856.742874856 votes and quota was 1847.071085940-->
+			<iter:candidate vote-count="1868.787520754" keep-value="0.715590734" surplus="99.687796927" random="5902" status="elected" voting-id="820" fullname="WHAREHINGA, Josh"/>
+		</iter:iteration>
+		<iter:iteration number="25" quota="1751.522489338" ntv="947.820085303" surplus="503.583064366">
+			<!--AKUHATA-BROWN, elected at iteration 1, reason: Candidate received 2254.000000000 votes and quota was 1870.000000001-->
+			<iter:candidate vote-count="1811.293316993" keep-value="0.565172024" surplus="59.770827655" random="8888" status="elected" voting-id="801" fullname="AKUHATA-BROWN, Meredith"/>
+			<!--BIBBY, excluded at iteration 23, reason: Candidate received the lowest vote count 1182.086833277, less than the second lowest by more than total surplus (73.056965983), second lowest (17fdfeb4-15b2-414a-8696-edd6623d0a1d) received 1340.952233186 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="9627" status="excluded" voting-id="802" fullname="BIBBY, Clive"/>
+			<!--CLARE, excluded at iteration 4, reason: Candidate received the lowest vote count 222.630745476, less than the second lowest by more than total surplus (18.912747409), second lowest (219d8a62-7f38-4e41-816f-39966cb2b361) received 279.677705288 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="9797" status="excluded" voting-id="803" fullname="CLARE, Tracey"/>
+			<!--CRANSTON, elected at iteration 24, reason: Candidate received 1976.538962386 votes and quota was 1769.099723827-->
+			<iter:candidate vote-count="1889.083346215" keep-value="0.895049255" surplus="137.560856877" random="482" status="elected" voting-id="804" fullname="CRANSTON, Andy"/>
+			<!--FAULKNER, elected at iteration 11, reason: Candidate received 1900.238446349 votes and quota was 1847.995286347-->
+			<iter:candidate vote-count="1857.044750579" keep-value="0.708770146" surplus="105.522261241" random="5464" status="elected" voting-id="805" fullname="FAULKNER, Sandra"/>
+			<!--GOULD-LARDELLI-->
+			<iter:candidate vote-count="1493.194642415" keep-value="1.000000000" surplus="0.000000000" random="6042" status="hopeful" voting-id="806" fullname="GOULD-LARDELLI, Rose"/>
+			<!--LODEWYK, excluded at iteration 10, reason: Candidate received the lowest vote count 535.922924908, less than the second lowest by more than total surplus (30.653039770), second lowest (79ab4340-b00a-4190-b74c-4c8fad92358b) received 572.657739316 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="8416" status="excluded" voting-id="807" fullname="LODEWYK, Rachel"/>
+			<!--MACLEAN, excluded at iteration 12, reason: Candidate received the lowest vote count 602.052888236, less than the second lowest by more than total surplus (15.204645154), second lowest (61a011f0-7892-4bde-b5c3-d977b7373850) received 635.117321443 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="9998" status="excluded" voting-id="808" fullname="MACLEAN, Malcolm"/>
+			<!--MCCARTNEY, excluded at iteration 9, reason: Candidate received the lowest vote count 483.909720250, less than the second lowest by more than total surplus (0.462257374), second lowest (d3a63046-7b1d-4bad-892f-9e16aff91a4e) received 490.384820000 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="3405" status="excluded" voting-id="809" fullname="MCCARTNEY, Nicola"/>
+			<!--MCKELLOW, excluded at iteration 15, reason: Candidate received the lowest vote count 696.368068232, less than the second lowest by more than total surplus (8.693490412), second lowest (6aace847-332f-49fd-9489-f22acadbeb71) received 718.208947708 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="2184" status="excluded" voting-id="810" fullname="MCKELLOW, Alistar"/>
+			<!--NGARANGIOUE, excluded at iteration 3, reason: Candidate received the lowest vote count 153.400394729, less than the second lowest by more than total surplus (5.403884664), second lowest (95a8f37f-2490-4acd-a4ce-38707dae6553) received 220.367781511 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="3011" status="excluded" voting-id="811" fullname="NGARANGIOUE, Angus"/>
+			<!--PAUL, excluded at iteration 2, reason: Candidate received the lowest vote count 46.555456955, less than the second lowest by more than total surplus (3.918368892), second lowest (8a882078-4968-4919-888e-9916e0f81b80) received 149.984915677 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="1800" status="excluded" voting-id="812" fullname="PAUL, Pita"/>
+			<!--PHILIP-BARBARA, excluded at iteration 18, reason: Candidate received the lowest vote count 745.029562790, less than the second lowest by more than total surplus (11.470864373), second lowest (dc41446f-6f55-4b42-a4f7-c84c5080dc06) received 773.227209200 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="7341" status="excluded" voting-id="813" fullname="PHILIP-BARBARA, Glenis"/>
+			<!--PIHEMA-->
+			<iter:candidate vote-count="1655.731599810" keep-value="1.000000000" surplus="0.000000000" random="797" status="hopeful" voting-id="814" fullname="PIHEMA, Hiki"/>
+			<!--RAUNA, excluded at iteration 6, reason: Candidate received the lowest vote count 281.636737544, less than the second lowest by more than total surplus (0.116185906), second lowest (506d212b-94bf-4621-921f-fb447fcde2ac) received 290.775516400 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="3092" status="excluded" voting-id="815" fullname="RAUNA, Peeti Wainui"/>
+			<!--ROBERTSON-->
+			<iter:candidate vote-count="1602.058161416" keep-value="1.000000000" surplus="0.000000000" random="7934" status="hopeful" voting-id="816" fullname="ROBERTSON, Heather"/>
+			<!--ROBINSON, elected at iteration 21, reason: Candidate received 1810.447852671 votes and quota was 1802.378964664-->
+			<iter:candidate vote-count="1863.115307491" keep-value="0.849588572" surplus="111.592818153" random="4256" status="elected" voting-id="817" fullname="ROBINSON, Tony"/>
+			<!--TAKITIMU, excluded at iteration 7, reason: Candidate received the lowest vote count 308.095224131, less than the second lowest by more than total surplus (24.688050140), second lowest (f2ef14e3-b4b7-4295-9a2d-3d1c6abf2cdb) received 477.324427487 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="8592" status="excluded" voting-id="818" fullname="TAKITIMU, Dayle"/>
+			<!--TUPARA, excluded at iteration 20, reason: Candidate received the lowest vote count 919.855490954, less than the second lowest by more than total surplus (80.616518371), second lowest (8f7bd724-2429-4cd5-a330-71d34c709b1c) received 1095.611430369 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="6090" status="excluded" voting-id="819" fullname="TUPARA, Nick"/>
+			<!--WHAREHINGA, elected at iteration 12, reason: Candidate received 1856.742874856 votes and quota was 1847.071085940-->
+			<iter:candidate vote-count="1840.658789778" keep-value="0.677418570" surplus="89.136300440" random="4098" status="elected" voting-id="820" fullname="WHAREHINGA, Josh"/>
+		</iter:iteration>
+		<iter:iteration number="26" quota="1739.296471478" ntv="1045.628228180" surplus="303.870388612">
+			<!--AKUHATA-BROWN, elected at iteration 1, reason: Candidate received 2254.000000000 votes and quota was 1870.000000001-->
+			<iter:candidate vote-count="1779.298968919" keep-value="0.546521926" surplus="40.002497441" random="1112" status="elected" voting-id="801" fullname="AKUHATA-BROWN, Meredith"/>
+			<!--BIBBY, excluded at iteration 23, reason: Candidate received the lowest vote count 1182.086833277, less than the second lowest by more than total surplus (73.056965983), second lowest (17fdfeb4-15b2-414a-8696-edd6623d0a1d) received 1340.952233186 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="373" status="excluded" voting-id="802" fullname="BIBBY, Clive"/>
+			<!--CLARE, excluded at iteration 4, reason: Candidate received the lowest vote count 222.630745476, less than the second lowest by more than total surplus (18.912747409), second lowest (219d8a62-7f38-4e41-816f-39966cb2b361) received 279.677705288 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="203" status="excluded" voting-id="803" fullname="CLARE, Tracey"/>
+			<!--CRANSTON, elected at iteration 24, reason: Candidate received 1976.538962386 votes and quota was 1769.099723827-->
+			<iter:candidate vote-count="1814.694544469" keep-value="0.829872808" surplus="75.398072991" random="9518" status="elected" voting-id="804" fullname="CRANSTON, Andy"/>
+			<!--FAULKNER, elected at iteration 11, reason: Candidate received 1900.238446349 votes and quota was 1847.995286347-->
+			<iter:candidate vote-count="1802.924411996" keep-value="0.668495927" surplus="63.627940518" random="4536" status="elected" voting-id="805" fullname="FAULKNER, Sandra"/>
+			<!--GOULD-LARDELLI-->
+			<iter:candidate vote-count="1541.522020076" keep-value="1.000000000" surplus="0.000000000" random="3958" status="hopeful" voting-id="806" fullname="GOULD-LARDELLI, Rose"/>
+			<!--LODEWYK, excluded at iteration 10, reason: Candidate received the lowest vote count 535.922924908, less than the second lowest by more than total surplus (30.653039770), second lowest (79ab4340-b00a-4190-b74c-4c8fad92358b) received 572.657739316 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="1584" status="excluded" voting-id="807" fullname="LODEWYK, Rachel"/>
+			<!--MACLEAN, excluded at iteration 12, reason: Candidate received the lowest vote count 602.052888236, less than the second lowest by more than total surplus (15.204645154), second lowest (61a011f0-7892-4bde-b5c3-d977b7373850) received 635.117321443 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="2" status="excluded" voting-id="808" fullname="MACLEAN, Malcolm"/>
+			<!--MCCARTNEY, excluded at iteration 9, reason: Candidate received the lowest vote count 483.909720250, less than the second lowest by more than total surplus (0.462257374), second lowest (d3a63046-7b1d-4bad-892f-9e16aff91a4e) received 490.384820000 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="6595" status="excluded" voting-id="809" fullname="MCCARTNEY, Nicola"/>
+			<!--MCKELLOW, excluded at iteration 15, reason: Candidate received the lowest vote count 696.368068232, less than the second lowest by more than total surplus (8.693490412), second lowest (6aace847-332f-49fd-9489-f22acadbeb71) received 718.208947708 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="7816" status="excluded" voting-id="810" fullname="MCKELLOW, Alistar"/>
+			<!--NGARANGIOUE, excluded at iteration 3, reason: Candidate received the lowest vote count 153.400394729, less than the second lowest by more than total surplus (5.403884664), second lowest (95a8f37f-2490-4acd-a4ce-38707dae6553) received 220.367781511 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="6989" status="excluded" voting-id="811" fullname="NGARANGIOUE, Angus"/>
+			<!--PAUL, excluded at iteration 2, reason: Candidate received the lowest vote count 46.555456955, less than the second lowest by more than total surplus (3.918368892), second lowest (8a882078-4968-4919-888e-9916e0f81b80) received 149.984915677 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="8200" status="excluded" voting-id="812" fullname="PAUL, Pita"/>
+			<!--PHILIP-BARBARA, excluded at iteration 18, reason: Candidate received the lowest vote count 745.029562790, less than the second lowest by more than total surplus (11.470864373), second lowest (dc41446f-6f55-4b42-a4f7-c84c5080dc06) received 773.227209200 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="2659" status="excluded" voting-id="813" fullname="PHILIP-BARBARA, Glenis"/>
+			<!--PIHEMA-->
+			<iter:candidate vote-count="1701.099381731" keep-value="1.000000000" surplus="0.000000000" random="9203" status="hopeful" voting-id="814" fullname="PIHEMA, Hiki"/>
+			<!--RAUNA, excluded at iteration 6, reason: Candidate received the lowest vote count 281.636737544, less than the second lowest by more than total surplus (0.116185906), second lowest (506d212b-94bf-4621-921f-fb447fcde2ac) received 290.775516400 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="6908" status="excluded" voting-id="815" fullname="RAUNA, Peeti Wainui"/>
+			<!--ROBERTSON-->
+			<iter:candidate vote-count="1671.397624011" keep-value="1.000000000" surplus="0.000000000" random="2066" status="hopeful" voting-id="816" fullname="ROBERTSON, Heather"/>
+			<!--ROBINSON, elected at iteration 21, reason: Candidate received 1810.447852671 votes and quota was 1802.378964664-->
+			<iter:candidate vote-count="1808.997829586" keep-value="0.798701769" surplus="69.701358108" random="5744" status="elected" voting-id="817" fullname="ROBINSON, Tony"/>
+			<!--TAKITIMU, excluded at iteration 7, reason: Candidate received the lowest vote count 308.095224131, less than the second lowest by more than total surplus (24.688050140), second lowest (f2ef14e3-b4b7-4295-9a2d-3d1c6abf2cdb) received 477.324427487 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="1408" status="excluded" voting-id="818" fullname="TAKITIMU, Dayle"/>
+			<!--TUPARA, excluded at iteration 20, reason: Candidate received the lowest vote count 919.855490954, less than the second lowest by more than total surplus (80.616518371), second lowest (8f7bd724-2429-4cd5-a330-71d34c709b1c) received 1095.611430369 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="3910" status="excluded" voting-id="819" fullname="TUPARA, Nick"/>
+			<!--WHAREHINGA, elected at iteration 12, reason: Candidate received 1856.742874856 votes and quota was 1847.071085940-->
+			<iter:candidate vote-count="1794.436991032" keep-value="0.644613694" surplus="55.140519554" random="5902" status="elected" voting-id="820" fullname="WHAREHINGA, Josh"/>
+		</iter:iteration>
+		<iter:iteration number="27" quota="1731.551262358" ntv="1107.589901139" surplus="179.643523077">
+			<!--AKUHATA-BROWN, elected at iteration 1, reason: Candidate received 2254.000000000 votes and quota was 1870.000000001-->
+			<iter:candidate vote-count="1755.589008196" keep-value="0.534234929" surplus="24.037745838" random="8888" status="elected" voting-id="801" fullname="AKUHATA-BROWN, Meredith"/>
+			<!--BIBBY, excluded at iteration 23, reason: Candidate received the lowest vote count 1182.086833277, less than the second lowest by more than total surplus (73.056965983), second lowest (17fdfeb4-15b2-414a-8696-edd6623d0a1d) received 1340.952233186 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="9627" status="excluded" voting-id="802" fullname="BIBBY, Clive"/>
+			<!--CLARE, excluded at iteration 4, reason: Candidate received the lowest vote count 222.630745476, less than the second lowest by more than total surplus (18.912747409), second lowest (219d8a62-7f38-4e41-816f-39966cb2b361) received 279.677705288 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="9797" status="excluded" voting-id="803" fullname="CLARE, Tracey"/>
+			<!--CRANSTON, elected at iteration 24, reason: Candidate received 1976.538962386 votes and quota was 1769.099723827-->
+			<iter:candidate vote-count="1776.709730091" keep-value="0.795392730" surplus="45.158467733" random="482" status="elected" voting-id="804" fullname="CRANSTON, Andy"/>
+			<!--FAULKNER, elected at iteration 11, reason: Candidate received 1900.238446349 votes and quota was 1847.995286347-->
+			<iter:candidate vote-count="1768.585536632" keep-value="0.644903691" surplus="37.034274274" random="5464" status="elected" voting-id="805" fullname="FAULKNER, Sandra"/>
+			<!--GOULD-LARDELLI-->
+			<iter:candidate vote-count="1571.565183790" keep-value="1.000000000" surplus="0.000000000" random="6042" status="hopeful" voting-id="806" fullname="GOULD-LARDELLI, Rose"/>
+			<!--LODEWYK, excluded at iteration 10, reason: Candidate received the lowest vote count 535.922924908, less than the second lowest by more than total surplus (30.653039770), second lowest (79ab4340-b00a-4190-b74c-4c8fad92358b) received 572.657739316 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="8416" status="excluded" voting-id="807" fullname="LODEWYK, Rachel"/>
+			<!--MACLEAN, excluded at iteration 12, reason: Candidate received the lowest vote count 602.052888236, less than the second lowest by more than total surplus (15.204645154), second lowest (61a011f0-7892-4bde-b5c3-d977b7373850) received 635.117321443 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="9998" status="excluded" voting-id="808" fullname="MACLEAN, Malcolm"/>
+			<!--MCCARTNEY, excluded at iteration 9, reason: Candidate received the lowest vote count 483.909720250, less than the second lowest by more than total surplus (0.462257374), second lowest (d3a63046-7b1d-4bad-892f-9e16aff91a4e) received 490.384820000 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="3405" status="excluded" voting-id="809" fullname="MCCARTNEY, Nicola"/>
+			<!--MCKELLOW, excluded at iteration 15, reason: Candidate received the lowest vote count 696.368068232, less than the second lowest by more than total surplus (8.693490412), second lowest (6aace847-332f-49fd-9489-f22acadbeb71) received 718.208947708 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="2184" status="excluded" voting-id="810" fullname="MCKELLOW, Alistar"/>
+			<!--NGARANGIOUE, excluded at iteration 3, reason: Candidate received the lowest vote count 153.400394729, less than the second lowest by more than total surplus (5.403884664), second lowest (95a8f37f-2490-4acd-a4ce-38707dae6553) received 220.367781511 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="3011" status="excluded" voting-id="811" fullname="NGARANGIOUE, Angus"/>
+			<!--PAUL, excluded at iteration 2, reason: Candidate received the lowest vote count 46.555456955, less than the second lowest by more than total surplus (3.918368892), second lowest (8a882078-4968-4919-888e-9916e0f81b80) received 149.984915677 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="1800" status="excluded" voting-id="812" fullname="PAUL, Pita"/>
+			<!--PHILIP-BARBARA, excluded at iteration 18, reason: Candidate received the lowest vote count 745.029562790, less than the second lowest by more than total surplus (11.470864373), second lowest (dc41446f-6f55-4b42-a4f7-c84c5080dc06) received 773.227209200 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="7341" status="excluded" voting-id="813" fullname="PHILIP-BARBARA, Glenis"/>
+			<!--PIHEMA-->
+			<iter:candidate vote-count="1729.299120910" keep-value="1.000000000" surplus="0.000000000" random="797" status="hopeful" voting-id="814" fullname="PIHEMA, Hiki"/>
+			<!--RAUNA, excluded at iteration 6, reason: Candidate received the lowest vote count 281.636737544, less than the second lowest by more than total surplus (0.116185906), second lowest (506d212b-94bf-4621-921f-fb447fcde2ac) received 290.775516400 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="3092" status="excluded" voting-id="815" fullname="RAUNA, Peeti Wainui"/>
+			<!--ROBERTSON-->
+			<iter:candidate vote-count="1714.145959294" keep-value="1.000000000" surplus="0.000000000" random="7934" status="hopeful" voting-id="816" fullname="ROBERTSON, Heather"/>
+			<!--ROBINSON, elected at iteration 21, reason: Candidate received 1810.447852671 votes and quota was 1802.378964664-->
+			<iter:candidate vote-count="1771.575910442" keep-value="0.767927494" surplus="40.024648084" random="4256" status="elected" voting-id="817" fullname="ROBINSON, Tony"/>
+			<!--TAKITIMU, excluded at iteration 7, reason: Candidate received the lowest vote count 308.095224131, less than the second lowest by more than total surplus (24.688050140), second lowest (f2ef14e3-b4b7-4295-9a2d-3d1c6abf2cdb) received 477.324427487 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="8592" status="excluded" voting-id="818" fullname="TAKITIMU, Dayle"/>
+			<!--TUPARA, excluded at iteration 20, reason: Candidate received the lowest vote count 919.855490954, less than the second lowest by more than total surplus (80.616518371), second lowest (8f7bd724-2429-4cd5-a330-71d34c709b1c) received 1095.611430369 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="6090" status="excluded" voting-id="819" fullname="TUPARA, Nick"/>
+			<!--WHAREHINGA, elected at iteration 12, reason: Candidate received 1856.742874856 votes and quota was 1847.071085940-->
+			<iter:candidate vote-count="1764.939649506" keep-value="0.624805624" surplus="33.388387148" random="4098" status="elected" voting-id="820" fullname="WHAREHINGA, Josh"/>
+		</iter:iteration>
+		<iter:iteration number="28" quota="1726.840668494" ntv="1145.274652050" surplus="137.247061218">
+			<!--AKUHATA-BROWN, elected at iteration 1, reason: Candidate received 2254.000000000 votes and quota was 1870.000000001-->
+			<iter:candidate vote-count="1741.077848526" keep-value="0.526920118" surplus="14.237180032" random="1112" status="elected" voting-id="801" fullname="AKUHATA-BROWN, Meredith"/>
+			<!--BIBBY, excluded at iteration 23, reason: Candidate received the lowest vote count 1182.086833277, less than the second lowest by more than total surplus (73.056965983), second lowest (17fdfeb4-15b2-414a-8696-edd6623d0a1d) received 1340.952233186 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="373" status="excluded" voting-id="802" fullname="BIBBY, Clive"/>
+			<!--CLARE, excluded at iteration 4, reason: Candidate received the lowest vote count 222.630745476, less than the second lowest by more than total surplus (18.912747409), second lowest (219d8a62-7f38-4e41-816f-39966cb2b361) received 279.677705288 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="203" status="excluded" voting-id="803" fullname="CLARE, Tracey"/>
+			<!--CRANSTON, elected at iteration 24, reason: Candidate received 1976.538962386 votes and quota was 1769.099723827-->
+			<iter:candidate vote-count="1752.825776700" keep-value="0.775176307" surplus="25.985108206" random="9518" status="elected" voting-id="804" fullname="CRANSTON, Andy"/>
+			<!--FAULKNER, elected at iteration 11, reason: Candidate received 1900.238446349 votes and quota was 1847.995286347-->
+			<iter:candidate vote-count="1748.526673525" keep-value="0.631399374" surplus="21.686005031" random="4536" status="elected" voting-id="805" fullname="FAULKNER, Sandra"/>
+			<!--GOULD-LARDELLI, excluded at iteration 28, reason: All available seats were filled-->
+			<iter:candidate vote-count="1589.593607274" keep-value="0.000000000" surplus="0.000000000" random="3958" status="excluded" voting-id="806" fullname="GOULD-LARDELLI, Rose"/>
+			<!--LODEWYK, excluded at iteration 10, reason: Candidate received the lowest vote count 535.922924908, less than the second lowest by more than total surplus (30.653039770), second lowest (79ab4340-b00a-4190-b74c-4c8fad92358b) received 572.657739316 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="1584" status="excluded" voting-id="807" fullname="LODEWYK, Rachel"/>
+			<!--MACLEAN, excluded at iteration 12, reason: Candidate received the lowest vote count 602.052888236, less than the second lowest by more than total surplus (15.204645154), second lowest (61a011f0-7892-4bde-b5c3-d977b7373850) received 635.117321443 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="2" status="excluded" voting-id="808" fullname="MACLEAN, Malcolm"/>
+			<!--MCCARTNEY, excluded at iteration 9, reason: Candidate received the lowest vote count 483.909720250, less than the second lowest by more than total surplus (0.462257374), second lowest (d3a63046-7b1d-4bad-892f-9e16aff91a4e) received 490.384820000 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="6595" status="excluded" voting-id="809" fullname="MCCARTNEY, Nicola"/>
+			<!--MCKELLOW, excluded at iteration 15, reason: Candidate received the lowest vote count 696.368068232, less than the second lowest by more than total surplus (8.693490412), second lowest (6aace847-332f-49fd-9489-f22acadbeb71) received 718.208947708 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="7816" status="excluded" voting-id="810" fullname="MCKELLOW, Alistar"/>
+			<!--NGARANGIOUE, excluded at iteration 3, reason: Candidate received the lowest vote count 153.400394729, less than the second lowest by more than total surplus (5.403884664), second lowest (95a8f37f-2490-4acd-a4ce-38707dae6553) received 220.367781511 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="6989" status="excluded" voting-id="811" fullname="NGARANGIOUE, Angus"/>
+			<!--PAUL, excluded at iteration 2, reason: Candidate received the lowest vote count 46.555456955, less than the second lowest by more than total surplus (3.918368892), second lowest (8a882078-4968-4919-888e-9916e0f81b80) received 149.984915677 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="8200" status="excluded" voting-id="812" fullname="PAUL, Pita"/>
+			<!--PHILIP-BARBARA, excluded at iteration 18, reason: Candidate received the lowest vote count 745.029562790, less than the second lowest by more than total surplus (11.470864373), second lowest (dc41446f-6f55-4b42-a4f7-c84c5080dc06) received 773.227209200 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="2659" status="excluded" voting-id="813" fullname="PHILIP-BARBARA, Glenis"/>
+			<!--PIHEMA, elected at iteration 28, reason: Candidate received 1746.202902934 votes and quota was 1726.840668494-->
+			<iter:candidate vote-count="1746.202902934" keep-value="1.000000000" surplus="19.362234440" random="9203" status="elected" voting-id="814" fullname="PIHEMA, Hiki"/>
+			<!--RAUNA, excluded at iteration 6, reason: Candidate received the lowest vote count 281.636737544, less than the second lowest by more than total surplus (0.116185906), second lowest (506d212b-94bf-4621-921f-fb447fcde2ac) received 290.775516400 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="6908" status="excluded" voting-id="815" fullname="RAUNA, Peeti Wainui"/>
+			<!--ROBERTSON, elected at iteration 28, reason: Candidate received 1739.721132438 votes and quota was 1726.840668494-->
+			<iter:candidate vote-count="1739.721132438" keep-value="1.000000000" surplus="12.880463944" random="2066" status="elected" voting-id="816" fullname="ROBERTSON, Heather"/>
+			<!--ROBINSON, elected at iteration 21, reason: Candidate received 1810.447852671 votes and quota was 1802.378964664-->
+			<iter:candidate vote-count="1750.313359112" keep-value="0.750577954" surplus="23.472690618" random="5744" status="elected" voting-id="817" fullname="ROBINSON, Tony"/>
+			<!--TAKITIMU, excluded at iteration 7, reason: Candidate received the lowest vote count 308.095224131, less than the second lowest by more than total surplus (24.688050140), second lowest (f2ef14e3-b4b7-4295-9a2d-3d1c6abf2cdb) received 477.324427487 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="1408" status="excluded" voting-id="818" fullname="TAKITIMU, Dayle"/>
+			<!--TUPARA, excluded at iteration 20, reason: Candidate received the lowest vote count 919.855490954, less than the second lowest by more than total surplus (80.616518371), second lowest (8f7bd724-2429-4cd5-a330-71d34c709b1c) received 1095.611430369 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="3910" status="excluded" voting-id="819" fullname="TUPARA, Nick"/>
+			<!--WHAREHINGA, elected at iteration 12, reason: Candidate received 1856.742874856 votes and quota was 1847.071085940-->
+			<iter:candidate vote-count="1746.464047441" keep-value="0.612985814" surplus="19.623378947" random="5902" status="elected" voting-id="820" fullname="WHAREHINGA, Josh"/>
+		</iter:iteration>
+	</iter:iterations>
+</output-container>
