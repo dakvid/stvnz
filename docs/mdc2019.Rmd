@@ -32,6 +32,8 @@ Three seats elected from six candidates in five iterations.
 
 ## Data
 
+Word document provided by council on request. TSVs copied manually from there.
+
 * [mdc.doc](sources/2019/mdc.doc)
 * [mdc_mayor_results.tsv](sources/2019/mdc_mayor_results.tsv)
 * [mdc_mayor_iterations.tsv](sources/2019/mdc_mayor_iterations.tsv)
