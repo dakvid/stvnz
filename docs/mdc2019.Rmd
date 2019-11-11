@@ -1,0 +1,44 @@
+---
+title: "STV @ Marlborough District Council"
+---
+
+There were four STV elections for Marlborough District Council in 2019.
+
+## Mayor
+
+One seat elected from three candidates in one iteration.
+
+<iframe src="https://player.vimeo.com/video/372173161" width="640" height="282" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+## Blenheim Ward
+
+Seven seats elected from 16 candidates in 24 iterations.
+
+<iframe src="https://player.vimeo.com/video/372174144" width="640" height="613" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+## Marlborough Sounds Ward
+
+Three seats elected from eight candidates in eight iterations.
+
+<iframe src="https://player.vimeo.com/video/372174449" width="640" height="409" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+## Wairau-Awatere Ward
+
+Three seats elected from six candidates in five iterations.
+
+<iframe src="https://player.vimeo.com/video/372174614" width="640" height="361" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+## Data
+
+* [mdc.doc](sources/2019/mdc.doc)
+* [mdc_mayor_results.tsv](sources/2019/mdc_mayor_results.tsv)
+* [mdc_mayor_iterations.tsv](sources/2019/mdc_mayor_iterations.tsv)
+* [mdc_blenheim-ward_results.tsv](sources/2019/mdc_blenheim-ward_results.tsv)
+* [mdc_blenheim-ward_iterations.tsv](sources/2019/mdc_blenheim-ward_iterations.tsv)
+* [mdc_marlborough-sounds-ward_results.tsv](sources/2019/mdc_marlborough-sounds-ward_results.tsv)
+* [mdc_marlborough-sounds-ward_iterations.tsv](sources/2019/mdc_marlborough-sounds-ward_iterations.tsv)
+* [mdc_wairau-awatere-ward_results.tsv](sources/2019/mdc_wairau-awatere-ward_results.tsv)
+* [mdc_wairau-awatere-ward_iterations.tsv](sources/2019/mdc_wairau-awatere-ward_iterations.tsv)
+

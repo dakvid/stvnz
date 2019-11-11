@@ -1,0 +1,27 @@
+name: "stvnz"
+output_dir: "."
+navbar:
+  title: "STV in New Zealand"
+  right:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "About"
+      icon: fa-question-circle
+      menu:
+        - text: "David Friggens"
+          icon: fa-id-badge
+          href: https://david.frigge.nz
+        - text: "Twitter"
+          icon: fa-twitter
+          href: https://twitter.com/dakvid
+        - text: "Source code"
+          icon: fa-git-square
+          href: https://github.com/dakvid/stvnz
+output:
+  html_document:
+    self_contained: false
+    includes:
+      after_body: _footer.html
+    theme: yeti
+    mathjax: null

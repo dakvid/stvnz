@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--STV Election Output Data Container-->
+<!--Election ID: f8aa29f3-f026-46c8-a518-bbc2b09157dc-->
+<!--Election Name: Kaipara District Council-->
+<!--Input File Last Modified: 2019-10-18 00:10:26-->
+<!--No of Active Candidates: 6-->
+<!--Total No of Candidates: 6-->
+<!--No of Vacancies: 2-->
+<!--No of Voters: 1440-->
+<!--No of Invalid Votes: 0-->
+<!--No of Duplicated Vote Preferences: 5-->
+<!--File Created: 2019-10-18 00:16:08-->
+<output-container xmlns="http://schemas.dia.govt.nz/stv-calculator/output-container/1/20030106" xmlns:cand="http://schemas.dia.govt.nz/stv-calculator/list-of-candidates/1/20030106" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:iter="http://schemas.dia.govt.nz/stv-calculator/iterations/1/20030106" xmlns:opt="http://schemas.dia.govt.nz/stv-calculator/list-of-options/1/20030106" xmlns:type="http://schemas.dia.govt.nz/stv-calculator/types/20030106" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.dia.govt.nz/stv-calculator/output-container/1/20030106 output-container.xsd">
+	<iter:iterations>
+		<iter:iteration number="1" quota="480.000000001" ntv="0.000000000" surplus="0.000000000">
+			<!--JOYCE-PAKI-->
+			<iter:candidate vote-count="292.000000000" keep-value="1.000000000" surplus="0.000000000" random="7673" status="hopeful" voting-id="201" fullname="JOYCE-PAKI, Karen"/>
+			<!--MCEWING-->
+			<iter:candidate vote-count="327.000000000" keep-value="1.000000000" surplus="0.000000000" random="4382" status="hopeful" voting-id="202" fullname="MCEWING, Brian John"/>
+			<!--NAYYAR-->
+			<iter:candidate vote-count="307.000000000" keep-value="1.000000000" surplus="0.000000000" random="1984" status="hopeful" voting-id="203" fullname="NAYYAR, Ash"/>
+			<!--STEWART-->
+			<iter:candidate vote-count="112.000000000" keep-value="1.000000000" surplus="0.000000000" random="5246" status="hopeful" voting-id="204" fullname="STEWART, Marni"/>
+			<!--TANE, excluded at iteration 1, reason: Candidate received the lowest vote count 68.000000000, less than the second lowest by more than total surplus (0.000000000), second lowest (1ee89b4a-75f7-4460-8b1d-4c025b0fefe2) received 112.000000000 votes-->
+			<iter:candidate vote-count="68.000000000" keep-value="0.000000000" surplus="0.000000000" random="7584" status="excluded" voting-id="205" fullname="TANE, Jay"/>
+			<!--WILSON-COLLINS-->
+			<iter:candidate vote-count="334.000000000" keep-value="1.000000000" surplus="0.000000000" random="3865" status="hopeful" voting-id="206" fullname="WILSON-COLLINS, Eryn"/>
+		</iter:iteration>
+		<iter:iteration number="2" quota="478.666666667" ntv="4.000000000" surplus="0.000000000">
+			<!--JOYCE-PAKI-->
+			<iter:candidate vote-count="322.000000000" keep-value="1.000000000" surplus="0.000000000" random="2327" status="hopeful" voting-id="201" fullname="JOYCE-PAKI, Karen"/>
+			<!--MCEWING-->
+			<iter:candidate vote-count="341.000000000" keep-value="1.000000000" surplus="0.000000000" random="5618" status="hopeful" voting-id="202" fullname="MCEWING, Brian John"/>
+			<!--NAYYAR-->
+			<iter:candidate vote-count="310.000000000" keep-value="1.000000000" surplus="0.000000000" random="8016" status="hopeful" voting-id="203" fullname="NAYYAR, Ash"/>
+			<!--STEWART, excluded at iteration 2, reason: Candidate received the lowest vote count 119.000000000, less than the second lowest by more than total surplus (0.000000000), second lowest (8d6f3b9e-5d96-4eb9-90af-39328a330a47) received 310.000000000 votes-->
+			<iter:candidate vote-count="119.000000000" keep-value="0.000000000" surplus="0.000000000" random="4754" status="excluded" voting-id="204" fullname="STEWART, Marni"/>
+			<!--TANE, excluded at iteration 1, reason: Candidate received the lowest vote count 68.000000000, less than the second lowest by more than total surplus (0.000000000), second lowest (1ee89b4a-75f7-4460-8b1d-4c025b0fefe2) received 112.000000000 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="2416" status="excluded" voting-id="205" fullname="TANE, Jay"/>
+			<!--WILSON-COLLINS-->
+			<iter:candidate vote-count="344.000000000" keep-value="1.000000000" surplus="0.000000000" random="6135" status="hopeful" voting-id="206" fullname="WILSON-COLLINS, Eryn"/>
+		</iter:iteration>
+		<iter:iteration number="3" quota="474.333333334" ntv="17.000000000" surplus="0.000000000">
+			<!--JOYCE-PAKI-->
+			<iter:candidate vote-count="356.000000000" keep-value="1.000000000" surplus="0.000000000" random="7673" status="hopeful" voting-id="201" fullname="JOYCE-PAKI, Karen"/>
+			<!--MCEWING-->
+			<iter:candidate vote-count="360.000000000" keep-value="1.000000000" surplus="0.000000000" random="4382" status="hopeful" voting-id="202" fullname="MCEWING, Brian John"/>
+			<!--NAYYAR, excluded at iteration 3, reason: Candidate received the lowest vote count 329.000000000, less than the second lowest by more than total surplus (0.000000000), second lowest (88ceb14e-09e8-4324-aa29-806052297c26) received 356.000000000 votes-->
+			<iter:candidate vote-count="329.000000000" keep-value="0.000000000" surplus="0.000000000" random="1984" status="excluded" voting-id="203" fullname="NAYYAR, Ash"/>
+			<!--STEWART, excluded at iteration 2, reason: Candidate received the lowest vote count 119.000000000, less than the second lowest by more than total surplus (0.000000000), second lowest (8d6f3b9e-5d96-4eb9-90af-39328a330a47) received 310.000000000 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="5246" status="excluded" voting-id="204" fullname="STEWART, Marni"/>
+			<!--TANE, excluded at iteration 1, reason: Candidate received the lowest vote count 68.000000000, less than the second lowest by more than total surplus (0.000000000), second lowest (1ee89b4a-75f7-4460-8b1d-4c025b0fefe2) received 112.000000000 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="7584" status="excluded" voting-id="205" fullname="TANE, Jay"/>
+			<!--WILSON-COLLINS-->
+			<iter:candidate vote-count="378.000000000" keep-value="1.000000000" surplus="0.000000000" random="3865" status="hopeful" voting-id="206" fullname="WILSON-COLLINS, Eryn"/>
+		</iter:iteration>
+		<iter:iteration number="4" quota="458.666666667" ntv="64.000000000" surplus="32.333333333">
+			<!--JOYCE-PAKI-->
+			<iter:candidate vote-count="443.000000000" keep-value="1.000000000" surplus="0.000000000" random="2327" status="hopeful" voting-id="201" fullname="JOYCE-PAKI, Karen"/>
+			<!--MCEWING-->
+			<iter:candidate vote-count="442.000000000" keep-value="1.000000000" surplus="0.000000000" random="5618" status="hopeful" voting-id="202" fullname="MCEWING, Brian John"/>
+			<!--NAYYAR, excluded at iteration 3, reason: Candidate received the lowest vote count 329.000000000, less than the second lowest by more than total surplus (0.000000000), second lowest (88ceb14e-09e8-4324-aa29-806052297c26) received 356.000000000 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="8016" status="excluded" voting-id="203" fullname="NAYYAR, Ash"/>
+			<!--STEWART, excluded at iteration 2, reason: Candidate received the lowest vote count 119.000000000, less than the second lowest by more than total surplus (0.000000000), second lowest (8d6f3b9e-5d96-4eb9-90af-39328a330a47) received 310.000000000 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="4754" status="excluded" voting-id="204" fullname="STEWART, Marni"/>
+			<!--TANE, excluded at iteration 1, reason: Candidate received the lowest vote count 68.000000000, less than the second lowest by more than total surplus (0.000000000), second lowest (1ee89b4a-75f7-4460-8b1d-4c025b0fefe2) received 112.000000000 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="2416" status="excluded" voting-id="205" fullname="TANE, Jay"/>
+			<!--WILSON-COLLINS, elected at iteration 4, reason: Candidate received 491.000000000 votes and quota was 458.666666667-->
+			<iter:candidate vote-count="491.000000000" keep-value="1.000000000" surplus="32.333333333" random="6135" status="elected" voting-id="206" fullname="WILSON-COLLINS, Eryn"/>
+		</iter:iteration>
+		<iter:iteration number="5" quota="455.483819904" ntv="73.548540290" surplus="3.408463596">
+			<!--JOYCE-PAKI, elected at iteration 5, reason: Candidate received 455.709436386 votes and quota was 455.483819904-->
+			<iter:candidate vote-count="455.709436386" keep-value="1.000000000" surplus="0.225616482" random="7673" status="elected" voting-id="201" fullname="JOYCE-PAKI, Karen"/>
+			<!--MCEWING, excluded at iteration 5, reason: All available seats were filled-->
+			<iter:candidate vote-count="452.075356306" keep-value="0.000000000" surplus="0.000000000" random="4382" status="excluded" voting-id="202" fullname="MCEWING, Brian John"/>
+			<!--NAYYAR, excluded at iteration 3, reason: Candidate received the lowest vote count 329.000000000, less than the second lowest by more than total surplus (0.000000000), second lowest (88ceb14e-09e8-4324-aa29-806052297c26) received 356.000000000 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="1984" status="excluded" voting-id="203" fullname="NAYYAR, Ash"/>
+			<!--STEWART, excluded at iteration 2, reason: Candidate received the lowest vote count 119.000000000, less than the second lowest by more than total surplus (0.000000000), second lowest (8d6f3b9e-5d96-4eb9-90af-39328a330a47) received 310.000000000 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="5246" status="excluded" voting-id="204" fullname="STEWART, Marni"/>
+			<!--TANE, excluded at iteration 1, reason: Candidate received the lowest vote count 68.000000000, less than the second lowest by more than total surplus (0.000000000), second lowest (1ee89b4a-75f7-4460-8b1d-4c025b0fefe2) received 112.000000000 votes-->
+			<iter:candidate vote-count="0.000000000" keep-value="0.000000000" surplus="0.000000000" random="7584" status="excluded" voting-id="205" fullname="TANE, Jay"/>
+			<!--WILSON-COLLINS, elected at iteration 4, reason: Candidate received 491.000000000 votes and quota was 458.666666667-->
+			<iter:candidate vote-count="458.666667018" keep-value="0.934147998" surplus="3.182847114" random="3865" status="elected" voting-id="206" fullname="WILSON-COLLINS, Eryn"/>
+		</iter:iteration>
+	</iter:iterations>
+</output-container>

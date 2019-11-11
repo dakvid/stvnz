@@ -1,0 +1,27 @@
+---
+title: "STV Elections in New Zealand"
+---
+
+This site contains animations of the vote countng for local body elections
+in New Zealand. There's just 2019 for now, but I'll update with 2016 later,
+and any earlier races I can locate data for.
+
+## 2019 Local Elections
+
+In 2019, single transferable voting (STV) was used for local elections by
+10 city/district councils, 1 regional council, and all but one
+district health board.
+
+* Dunedin City Council --- *to upload*
+* Greater Wellington Regional Council --- *to upload*
+* Kaipara District Council --- *to upload*
+* Kāpiti Coast District Council --- *to upload*
+* [Marlborough District Council](mdc2019.html)
+* New Plymouth District Council --- *to upload*
+* Palmerston North City Council --- *to upload*
+* Porirua City Council --- *to upload*
+* Ruapehu District Council --- *to upload*
+* Tauranga City Council --- *to upload*
+* [Wellington City Council](wcc2019.html)
+* District Health Boards --- *some to upload, others waiting for data from Electionz*
+

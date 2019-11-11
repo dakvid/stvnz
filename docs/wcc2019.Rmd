@@ -1,0 +1,77 @@
+---
+title: "STV @ Wellington City Council"
+---
+
+There were seven STV elections for Wellington City Council in 2019.
+
+## Mayor
+
+One seat elected from nine candidates in eight iterations.
+
+<iframe src="https://player.vimeo.com/video/372170683" width="640" height="435" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+## Motukairangi-Eastern Ward
+
+Three seats elected from seven candidates in five iterations.
+
+<iframe src="https://player.vimeo.com/video/372176243" width="640" height="384" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+## Pukehinau-Lambton Ward
+
+Three seats elected from seven candidates in six iterations.
+
+<iframe src="https://player.vimeo.com/video/372176448" width="640" height="384" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+## Takapu-Northern Ward
+
+Three seats elected from eight candidates in seven iterations.
+
+<iframe src="https://player.vimeo.com/video/372176619" width="640" height="409" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+## Paekawakawa-Southern Ward
+
+Two seats elected from four candidates in one iteration.
+
+<iframe src="https://player.vimeo.com/video/372176633" width="640" height="308" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+## Wharangi-Onslow-Western Ward
+
+Three seats elected from eight candidates in ten iterations.
+Foster was withdrawn after being elected mayor.
+
+<iframe src="https://player.vimeo.com/video/372176652" width="640" height="434" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+## Tawa Community Board
+
+Six seats elected from nine candidates in nine iterations.
+
+<iframe src="https://player.vimeo.com/video/372176641" width="640" height="435" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
+## Data
+
+Original PDF from council website. TSVs extracted using tabulizer.
+
+* [wcc.pdf](sources/2019/wcc.pdf)
+* [wcc_mayor_results.tsv](sources/2019/wcc_mayor_results.tsv)
+* [wcc_mayor_iterations.tsv](sources/2019/wcc_mayor_iterations.tsv)
+* [wcc_motukairangi-eastern-ward_results.tsv](sources/2019/wcc_motukairangi-eastern-ward_results.tsv)
+* [wcc_motukairangi-eastern-ward_iterations.tsv](sources/2019/wcc_motukairangi-eastern-ward_iterations.tsv)
+* [wcc_paekawakawa-southern-ward_results.tsv](sources/2019/wcc_paekawakawa-southern-ward_results.tsv)
+* [wcc_paekawakawa-southern-ward_iterations.tsv](sources/2019/wcc_paekawakawa-southern-ward_iterations.tsv)
+* [wcc_pukehinau-lambton-ward_results.tsv](sources/2019/wcc_pukehinau-lambton-ward_results.tsv)
+* [wcc_pukehinau-lambton-ward_iterations.tsv](sources/2019/wcc_pukehinau-lambton-ward_iterations.tsv)
+* [wcc_takapu-northern-ward_results.tsv](sources/2019/wcc_takapu-northern-ward_results.tsv)
+* [wcc_takapu-northern-ward_iterations.tsv](sources/2019/wcc_takapu-northern-ward_iterations.tsv)
+* [wcc_wharangi-onslow-western-ward_results.tsv](sources/2019/wcc_wharangi-onslow-western-ward_results.tsv)
+* [wcc_wharangi-onslow-western-ward_iterations.tsv](sources/2019/wcc_wharangi-onslow-western-ward_iterations.tsv)
+* [wcc_tawa-community-board_results.tsv](sources/2019/wcc_tawa-community-board_results.tsv)
+* [wcc_tawa-community-board_iterations.tsv](sources/2019/wcc_tawa-community-board_iterations.tsv)
+
