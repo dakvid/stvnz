@@ -1,0 +1,57 @@
+---
+title: "STV @ Tauranga City Council"
+---
+
+There were five STV elections for Tauranga Council in 2019.
+
+## Mayor
+
+One seat elected from 10 candidates in nine iterations.
+
+TBU
+
+
+## At Large
+
+Four seats elected from 19 candidates in 21 iterations.
+
+TBU
+
+
+## Mount Maunganui-Papamoa Ward
+
+Two seats elected from seven candidates in five iterations.
+
+TBU
+
+
+## Otumoetai-Pyes Pa Ward
+
+Two seats elected from seven candidates in five iterations.
+
+TBU
+
+
+## Te Papa-Welcome Bay Ward
+
+Two seats elected from ten candidates in ten iterations.
+
+TBU
+
+
+## Data
+
+Original PDF from council website. TSVs extracted using tabulizer.
+
+* [tcc.pdf](sources/2019/tcc.pdf)
+* [tcc_mayor_results.tsv](sources/2019/tcc_mayor_results.tsv)
+* [tcc_mayor_iterations.tsv](sources/2019/tcc_mayor_iterations.tsv)
+* [tcc_at-large_results.tsv](sources/2019/tcc_at-large_results.tsv)
+* [tcc_at-large_iterations.tsv](sources/2019/tcc_at-large_iterations.tsv)
+* [tcc_mount-maunganui-papamoa_results.tsv](sources/2019/tcc_mount-maunganui-papamoa_results.tsv)
+* [tcc_mount-maunganui-papamoa_iterations.tsv](sources/2019/tcc_mount-maunganui-papamoa_iterations.tsv)
+* [tcc_otumoetai-pyes-pa_results.tsv](sources/2019/tcc_otumoetai-pyes-pa_results.tsv)
+* [tcc_otumoetai-pyes-pa_iterations.tsv](sources/2019/tcc_otumoetai-pyes-pa_iterations.tsv)
+* [tcc_te-papa-welcome-bay_results.tsv](sources/2019/tcc_te-papa-welcome-bay_results.tsv)
+* [tcc_te-papa-welcome-bay_iterations.tsv](sources/2019/tcc_te-papa-welcome-bay_iterations.tsv)
+
