@@ -6,15 +6,39 @@ There were four STV elections for Porirua City Council in 2019.
 
 ## Mayor
 
+One seat elected from six candidates in five iterations.
+
+*Waiting to be uploaded.*
+
 
 ## Eastern Ward
+
+Four seats elected from seven candidates in six iterations.
+
+*Waiting to be uploaded.*
 
 
 ## Northern Ward
 
+Four seats elected from eight candidates in five iterations.
 
-## Southern Ward
+*Waiting to be uploaded.*
+
+
+## Western Ward
+
+Two seats elected from four candidates in two iterations.
+
+*Waiting to be uploaded.*
 
 
 ## Data
+
+XML supplied by Election Services on request.
+
+* [pcc_mayor.xml](sources/2019/pcc_mayor.xml)
+* [pcc_eastern-ward.xml](sources/2019/pcc_eastern-ward.xml)
+* [pcc_northern-ward.xml](sources/2019/pcc_northern-ward.xml)
+* [pcc_western-ward.xml](sources/2019/pcc_western-ward.xml)
+
 

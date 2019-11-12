@@ -12,16 +12,16 @@ In 2019, single transferable voting (STV) was used for local elections by
 10 city/district councils, 1 regional council, and all but one
 district health board.
 
-* Dunedin City Council --- *to upload*
-* Greater Wellington Regional Council --- *to upload*
-* Kaipara District Council --- *to upload*
-* Kāpiti Coast District Council --- *to upload*
+* [Dunedin City Council](dcc2019.html) --- *to upload*
+* [Greater Wellington Regional Council](gwrc2019.html) --- *to upload*
+* [Kaipara District Council](kdc2019.html) --- *to upload*
+* [Kāpiti Coast District Council](kcdc2019.html) --- *to upload*
 * [Marlborough District Council](mdc2019.html)
-* New Plymouth District Council --- *to upload*
-* Palmerston North City Council --- *to upload*
-* Porirua City Council --- *to upload*
-* Ruapehu District Council --- *to upload*
-* Tauranga City Council --- *to upload*
+* [New Plymouth District Council](npdc2019.html) --- *to upload*
+* [Palmerston North City Council](pncc2019.html)
+* [Porirua City Council](pcc2019.html) --- *to upload*
+* [Ruapehu District Council](rdc2019.html) --- *to upload*
+* [Tauranga City Council](tcc2019.html) --- *to upload*
 * [Wellington City Council](wcc2019.html)
-* District Health Boards --- *some to upload, others waiting for data from Electionz*
+* [District Health Boards](dhbs2019.html) --- *some to upload, others waiting for data from Electionz*
 

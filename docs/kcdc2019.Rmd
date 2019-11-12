@@ -6,27 +6,79 @@ There were nine STV elections for Kāpiti Coast District Council in 2019.
 
 ## Mayor
 
+One seat elected from four candidates in three iterations.
+
+*Waiting to be uploaded.*
+
 
 ## Districtwide
+
+Five seats elected from 14 candidates in 17 iterations.
+
+*Waiting to be uploaded.*
 
 
 ## Otaki Ward
 
+One seat elected from three candidates in one iteration.
+
+*Waiting to be uploaded.*
+
 
 ## Paekakariki-Raumati Ward
+
+One seat elected from three candidates in one iteration.
+
+*Waiting to be uploaded.*
 
 
 ## Paraparaumu Ward
 
+Two seats elected from four candidates in three iterations.
+
+*Waiting to be uploaded.*
+
 
 ## Waikanae Ward
+
+One seat elected from three candidates in two iterations.
+
+*Waiting to be uploaded.*
 
 
 ## Otaki Community Board
 
+Four seats elected from six candidates in four iterations.
+
+*Waiting to be uploaded.*
+
+
 ## Paekakariki Community Board
+
+Four seats elected from five candidates in three iterations.
+
+*Waiting to be uploaded.*
+
 
 ## Waikanae Community Board
 
+Four seats elected from six candidates in five iterations.
+
+*Waiting to be uploaded.*
+
+
 
 ## Data
+
+Excel files downloaded from council website.
+
+* [kcdc_mayor.xlsx](sources/2019/kcdc_mayor.xlsx)
+* [kcdc_districtwide.xlsx](sources/2019/kcdc_districtwide.xlsx)
+* [kcdc_otaki-ward.xlsx](sources/2019/kcdc_otaki-ward.xlsx)
+* [kcdc_paekakariki-raumati-ward.xlsx](sources/2019/kcdc_paekakariki-raumati-ward.xlsx)
+* [kcdc_paraparaumu-ward.xlsx](sources/2019/kcdc_paraparaumu-ward.xlsx)
+* [kcdc_waikanae-ward.xlsx](sources/2019/kcdc_waikanae-ward.xlsx)
+* [kcdc_otaki-community-board.xlsx](sources/2019/kcdc_otaki-community-board.xlsx)
+* [kcdc_paekakariki-community-board.xlsx](sources/2019/kcdc_paekakariki-community-board.xlsx)
+* [kcdc_waikanae-community-board.xlsx](sources/2019/kcdc_waikanae-community-board.xlsx)
+

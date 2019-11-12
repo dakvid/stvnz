@@ -2,102 +2,180 @@
 title: "STV @ Marlborough District Council"
 ---
 
-There were XXX STV elections for district health boards around the country in 2019;
+There were 18 STV elections for district health boards around the country in 2019;
 all except Waikato.
 
 
 ## Auckland District Health Board
+
+Seven seats elected from 27 candidates in 35 iterations.
 
 *To be uploaded*
 
 
 ## Bay of Plenty District Health Board
 
+Seven seats elected from 21 candidates in 21 iterations.
+
 *To be uploaded*
 
 
 ## Canterbury District Health Board
 
-*Waiting on data from Elections*
+Seven seats elected from 23 candidates.
+
+*Waiting on data from Electionz*
 
 
 ## Capital and Coast District Health Board
 
-*Waiting on data from Elections*
+Seven seats elected from 23 candidates in 27 iterations.
+
+*To be uploaded*
 
 
 
 ## Counties Manukau District Health Board
+
+Seven seats elected from 33 candidates in 49 iterations.
 
 *To be uploaded*
 
 
 ## Hawkes Bay District Health Board
 
-*Waiting on data from Elections*
+Seven seats elected from 25 candidates.
+
+*Waiting on data from Electionz*
 
 
 ## Hutt Valley District Health Board
+
+Seven seats elected from 13 candidates in 28 iterations.
 
 *To be uploaded*
 
 
 ## Lakes District Health Board
 
-*Waiting on data from Elections*
+Seven seats elected from 17 candidates.
+
+*Waiting on data from Electionz*
 
 
 ## MidCentral District Health Board
 
-*Waiting on data from Elections*
+Seven seats elected from 15 candidates in 12 iterations.
+
+*To be uploaded*
 
 
 ## Nelson-Marlborough District Health Board
 
-*Waiting on data from Elections*
+Seven seats elected from 14 candidates.
 
+*Waiting on data from Electionz*
 
 
 ## Northland District Health Board
+
+Seven seats elected from 20 candidates in 13 iterations.
 
 *To be uploaded*
 
 
 ## South Canterbury District Health Board
 
+Seven seats elected from 13 candidates in 22 iterations.
+
 *To be uploaded*
 
 
+## Southern District Health Board, Otago Constituency
+
+Four seats elected from 17 candidates.
+
+*Waiting on data from Electionz*
+
+
+## Southern District Health Board, Southland Constituency
+
+Three seats elected from 11 candidates.
+
+*Waiting on data from Electionz*
+
+
+
 ## Tairawhiti District Health Board
+
+Seven seats elected from 20 candidates in 28 iterations.
 
 *To be uploaded*
 
 
 ## Taranaki District Health Board
 
+Seven seats elected from 17 candidates in 18 iterations.
+
 *To be uploaded*
 
 
 ## Wairarapa District Health Board
 
-*Waiting on data from Elections*
+Seven seats elected from 10 candidates.
+
+*Waiting on data from Electionz*
 
 
 ## Waitemata District Health Board
+
+Seven seats elected from 23 candidates in 40 iterations.
 
 *To be uploaded*
 
 
 ## West Coast District Health Board
 
-*Waiting on data from Elections*
+Seven seats elected from 15 candidates.
+
+*Waiting on data from Electionz*
 
 
 ## Whanganui District Health Board
+
+Seven seats elected from 17 candidates in 29 iterations.
 
 *To be uploaded*
 
 
 
 ## Data
+
+XML supplied by Election Services on request;
+DOCX and XLSX supplied by local council on request;
+PDF from board website;
+TSVs manually extracted from DOCX/PDF.
+
+* [adhb.xml][sources/2019/adhb.xml)
+* [bopdhb.xml][sources/2019/bopdhb.xml)
+* [ccdhb.pdf](sources/2019/ccdhb.pdf)
+* [ccdhb_results.tsv](sources/2019/ccdhb_results.tsv)
+* [ccdhb_iterations.tsv](sources/2019/ccdhb_iterations.tsv)
+* [cmdhb.xml][sources/2019/cmdhb.xml)
+* [hvdhb.docx][sources/2019/hvdhb.docx)
+* [hvdhb_iterations.tsv][sources/2019/hvdhb_iterations.tsv)
+* [hvdhb_results.tsv][sources/2019/hvdhb_results.tsv)
+* [mcdhb.pdf](sources/2019/mcdhb.pdf)
+* [mcdhb_results.tsv](sources/2019/mcdhb_results.tsv)
+* [mcdhb_iterations.tsv](sources/2019/mcdhb_iterations.tsv)
+* [ndhb.xml][sources/2019/ndhb.xml)
+* [scdhb.pdf][sources/2019/scdhb.pdf)
+* [scdhb_iterations.tsv][sources/2019/scdhb_iterations.tsv)
+* [scdhb_results.tsv][sources/2019/scdhb_results.tsv)
+* [taidhb.xml][sources/2019/taidhb.xml)
+* [tardhb.xml][sources/2019/tardhb.xml)
+* [wait-dhb.xml][sources/2019/wait-dhb.xml)
+* [whan-dhb.xlsx][sources/2019/whan-dhb.xlsx)
+
+
 

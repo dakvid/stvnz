@@ -7,20 +7,67 @@ There were six STV elections for Greater Wellington Regional Council in 2019.
 
 ## Kāpiti Coast Constituency
 
+One seat elected from two candidates in one iteration.
+
+*Waiting to be uploaded.*
+
 
 ## Lower Hutt Constituency
+
+Three seats elected from six candidates in five iterations.
+
+*Waiting to be uploaded.*
 
 
 ## Porirua-Tawa Constituency
 
+Two seats elected from seven candidates in six iterations.
+
+*Waiting to be uploaded.*
+
 
 ## Upper Hutt Constituency
+
+One seat elected from four candidates in three iterations.
+
+*Waiting to be uploaded.*
 
 
 ## Wairarapa Constituency
 
+One seat elected from three candidates in two iterations.
+
+*Waiting to be uploaded.*
+
 
 ## Wellington Constituency
 
+Five seats elected from 23 candidates in 29 iterations.
+
+*Waiting to be uploaded.*
+
 
 ## Data
+
+PDF files downloaded from council website;
+TSVs manually extracted using tabulizer.
+
+* [gw_kapiti-coast.pdf](sources/2019/gw_kapiti-coast.pdf)
+* [gw_kapiti-coast_iterations.tsv](sources/2019/gw_kapiti-coast_iterations.tsv)
+* [gw_kapiti-coast_results.tsv](sources/2019/gw_kapiti-coast_results.tsv)
+* [gw_lower-hutt.pdf](sources/2019/gw_lower-hutt.pdf)
+* [gw_lower-hutt_iterations.tsv](sources/2019/gw_lower-hutt_iterations.tsv)
+* [gw_lower-hutt_results.tsv](sources/2019/gw_lower-hutt_results.tsv)
+* [gw_porirua-tawa.pdf](sources/2019/gw_porirua-tawa.pdf)
+* [gw_porirua-tawa_iterations.tsv](sources/2019/gw_porirua-tawa_iterations.tsv)
+* [gw_porirua-tawa_results.tsv](sources/2019/gw_porirua-tawa_results.tsv)
+* [gw_upper-hutt.pdf](sources/2019/gw_upper-hutt.pdf)
+* [gw_upper-hutt_iterations.tsv](sources/2019/gw_upper-hutt_iterations.tsv)
+* [gw_upper-hutt_results.tsv](sources/2019/gw_upper-hutt_results.tsv)
+* [gw_wairarapa.pdf](sources/2019/gw_wairarapa.pdf)
+* [gw_wairarapa_iterations.tsv](sources/2019/gw_wairarapa_iterations.tsv)
+* [gw_wairarapa_results.tsv](sources/2019/gw_wairarapa_results.tsv)
+* [gw_wellington.pdf](sources/2019/gw_wellington.pdf)
+* [gw_wellington_iterations.tsv](sources/2019/gw_wellington_iterations.tsv)
+* [gw_wellington_results.tsv](sources/2019/gw_wellington_results.tsv)
+

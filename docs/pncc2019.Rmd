@@ -6,10 +6,26 @@ There were two STV elections for Palmerston North City Council in 2019.
 
 ## Mayor
 
+One seat elected from six candidates in one iteration.
+
+<iframe src="https://player.vimeo.com/video/372569884" width="640" height="358" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 
 ## At Large
 
+15 seats elected from 27 candidates in 68 iterations.
+
+<iframe src="https://player.vimeo.com/video/372570035" width="640" height="896" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ## Data
+
+PDF file downloaded from council website;
+TSVs manually extracted using tabulizer.
+
+* [pncc.pdf](sources/2019/pncc.pdf)
+* [pncc_mayor_iterations.tsv](sources/2019/pncc_mayor_iterations.tsv)
+* [pncc_mayor_results.tsv](sources/2019/pncc_mayor_results.tsv)
+* [pncc_at-large_iterations.tsv](sources/2019/pncc_at-large_iterations.tsv)
+* [pncc_at-large_results.tsv](sources/2019/pncc_at-large_results.tsv)
 

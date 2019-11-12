@@ -2,12 +2,67 @@
 title: "STV @ Dunedin City Council"
 ---
 
-There were two STV elections for Dunedin City Council in 2019.
+There were six STV elections for Dunedin City Council in 2019.
 
 ## Mayor
+
+One seat elected from 14 candidates in 13 iterations.
+
+*Waiting to be uploaded*
 
 
 ## At Large
 
+14 seats elected from 37 candidates in 79 iterations.
+
+*Waiting to be uploaded*
+
+
+## Mosgiel-Taieri Community Board
+
+Six seats elected from nine candidates in 12 iterations.
+
+*Waiting to be uploaded*
+
+
+## Otago Peninsula Community Board
+
+Six seats elected from seven candidates in eight iterations.
+
+*Waiting to be uploaded.*
+
+
+## Saddle Hill Community Board
+
+Six seats elected from eight candidates in seven iterations.
+
+*Waiting to be uploaded.*
+
+
+## Waikouaiti Coast Community Board
+
+Six seats elected from eight candidates in 10 iterations.
+
+*Waiting to be uploaded.*
+
 
 ## Data
+
+PDF file downloaded from council website;
+TSVs manually extracted using tabulizer.
+
+* [dcc.pdf](sources/2019/dcc.pdf)
+* [dcc_mayor_iterations.tsv](sources/2019/dcc_mayor_iterations.tsv)
+* [dcc_mayor_results.tsv](sources/2019/dcc_mayor_results.tsv)
+* [dcc_atlarge_iterations.tsv](sources/2019/dcc_atlarge_iterations.tsv)
+* [dcc_atlarge_results.tsv](sources/2019/dcc_atlarge_results.tsv)
+* [dcc_mosgiel-taieri-community-board_iterations.tsv](sources/2019/dcc_mosgiel-taieri-community-board_iterations.tsv)
+* [dcc_mosgiel-taieri-community-board_results.tsv](sources/2019/dcc_mosgiel-taieri-community-board_results.tsv)
+* [dcc_otago-peninsula-community-board_iterations.tsv](sources/2019/dcc_otago-peninsula-community-board_iterations.tsv)
+* [dcc_otago-peninsula-community-board_results.tsv](sources/2019/dcc_otago-peninsula-community-board_results.tsv)
+* [dcc_saddle-hill-community-board_iterations.tsv](sources/2019/dcc_saddle-hill-community-board_iterations.tsv)
+* [dcc_saddle-hill-community-board_results.tsv](sources/2019/dcc_saddle-hill-community-board_results.tsv)
+* [dcc_waikouaiti-coast-community-board_iterations.tsv](sources/2019/dcc_waikouaiti-coast-community-board_iterations.tsv)
+* [dcc_waikouaiti-coast-community-board_results.tsv](sources/2019/dcc_waikouaiti-coast-community-board_results.tsv)
+
+

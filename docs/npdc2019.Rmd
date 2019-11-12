@@ -6,18 +6,46 @@ There were five STV elections for New Plymouth District Council in 2019.
 
 ## Mayor
 
+One seat elected from six candidates in one iteration.
+
+*Waiting to be uploaded.*
+
 
 ## New Plymouth Ward
+
+10 seats elected from 30 candidates in 69 iterations.
+
+*Waiting to be uploaded.*
 
 
 ## North Ward
 
+Two seats elected from four candidates in one iteration.
 
-## South West Ward
+*Waiting to be uploaded.*
+
+
+## South-West Ward
+
+Two seats elected from four candidates in three iterations.
+
+*Waiting to be uploaded.*
 
 
 ## Waitara Community Board
 
+Four seats elected from six candidates in five iterations.
+
+*Waiting to be uploaded.*
+
 
 ## Data
+
+XML supplied by Election Services on request.
+
+* [npdc_mayor.xml](sources/2019/npdc_mayor.xml)
+* [npdc_new-plymoth-ward.xml](sources/2019/npdc_new-plymoth-ward.xml)
+* [npdc_north-ward.xml](sources/2019/npdc_north-ward.xml)
+* [npdc_south-west-ward.xml](sources/2019/npdc_south-west-ward.xml)
+* [npdc_waitara-cb.xml](sources/2019/npdc_waitara-cb.xml)
 

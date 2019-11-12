@@ -6,14 +6,38 @@ There were four STV elections for Kaipara District Council in 2019.
 
 ## Mayor
 
+One seat elected from two candidates in one iteration.
+
+*Waiting to be uploaded.*
+
 
 ## Dargaville Ward
+
+Two seats elected from six candidates in five iterations.
+
+*Waiting to be uploaded.*
 
 
 ## Otamatea Ward
 
+Two seats elected from five candidates in five iterations.
+
+*Waiting to be uploaded.*
+
 
 ## West Coast Central Ward
 
+Two seats elected from three candidates in one iteration.
+
+*Waiting to be uploaded.*
+
 
 ## Data
+
+XML files supplied by Election Services on request.
+
+* [kdc_mayor.xml](sources/2019/kdc_mayor.xml)
+* [kdc_dargaville-ward.xml](sources/2019/kdc_dargaville-ward.xml)
+* [kdc_otamatea-ward.xml](sources/2019/kdc_otamatea-ward.xml)
+* [kdc_west-coast-central-ward.xml](sources/2019/kdc_west-coast-central-ward.xml)
+

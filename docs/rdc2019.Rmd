@@ -6,17 +6,45 @@ There were four STV elections for Ruapehu District Council in 2019.
 
 ## Mayor
 
+One seat elected from two candidates in one iteration.
+
+*Waiting to be uploaded.*
 
 
 ## National Park Ward
 
+One seat elected from three candidates in two iterations.
+
+*Waiting to be uploaded.*
+
 
 ## Taumarunui Ward
+
+Five seats elected from seven candidates in four iterations.
+
+*Waiting to be uploaded.*
 
 
 ## Waimarino-Waiouru Ward
 
+Four seats elected from eight candidates in 11 iterations.
+
+*Waiting to be uploaded.*
+
 
 
 ## Data
+
+PDF file downloaded from council website;
+TSVs manually extracted using tabulizer.
+
+* [rdc.pdf](sources/2019/rdc.pdf)
+* [rdc_mayor_iterations.tsv](sources/2019/rdc_mayor_iterations.tsv)
+* [rdc_mayor_results.tsv](sources/2019/rdc_mayor_results.tsv)
+* [rdc_national-park-ward_iterations.tsv](sources/2019/rdc_national-park-ward_iterations.tsv)
+* [rdc_national-park-ward_results.tsv](sources/2019/rdc_national-park-ward_results.tsv)
+* [rdc_taumarunui-ward_iterations.tsv](sources/2019/rdc_taumarunui-ward_iterations.tsv)
+* [rdc_taumarunui-ward_results.tsv](sources/2019/rdc_taumarunui-ward_results.tsv)
+* [rdc_waimarino-waiouru-ward_iterations.tsv](sources/2019/rdc_waimarino-waiouru-ward_iterations.tsv)
+* [rdc_waimarino-waiouru-ward_results.tsv](sources/2019/rdc_waimarino-waiouru-ward_results.tsv)
 
