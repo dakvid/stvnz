@@ -6,6 +6,9 @@ navbar:
     - text: "Home"
       icon: fa-home
       href: index.html
+    - text: "What is STV"
+      icon: fa-question
+      href: stv.html
     - text: "About"
       icon: fa-question-circle
       menu:

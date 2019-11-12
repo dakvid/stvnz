@@ -1,0 +1,11 @@
+---
+title: "What is STV?"
+---
+
+That's a very good question!
+
+Until I expand this "stub" page,
+[my blog post](https://david.frigge.nz/posts/2016-11-simple-to-vote/)
+will explain what STV is and how we count votes.
+(In other words, what all these animations mean.)
+
