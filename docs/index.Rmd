@@ -21,7 +21,7 @@ district health board.
 * [Palmerston North City Council](pncc2019.html)
 * [Porirua City Council](pcc2019.html) --- *to upload*
 * [Ruapehu District Council](rdc2019.html) --- *to upload*
-* [Tauranga City Council](tcc2019.html) --- *to upload*
+* [Tauranga City Council](tcc2019.html)
 * [Wellington City Council](wcc2019.html)
 * [District Health Boards](dhbs2019.html) --- *some to upload, others waiting for data from Electionz*
 
