@@ -26,5 +26,5 @@ output:
     self_contained: false
     includes:
       after_body: _footer.html
-    theme: yeti
+    theme: sandstone
     mathjax: null
