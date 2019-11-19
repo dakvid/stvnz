@@ -8,14 +8,14 @@ There were nine STV elections for Kāpiti Coast District Council in 2019.
 
 One seat elected from four candidates in three iterations.
 
-<iframe src="https://player.vimeo.com/video/374047055" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/374047055" width="640" height="307" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ## Districtwide
 
 Five seats elected from 14 candidates in 17 iterations.
 
-<iframe src="https://player.vimeo.com/video/374047024" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/374047024" width="640" height="563" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ## Ōtaki Ward
@@ -29,7 +29,7 @@ One seat elected from three candidates in one iteration.
 
 One seat elected from three candidates in one iteration.
 
-<iframe src="https://player.vimeo.com/video/374047141" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/374047141" width="640" height="282" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ## Paraparaumu Ward
@@ -50,21 +50,21 @@ One seat elected from three candidates in two iterations.
 
 Four seats elected from six candidates in four iterations.
 
-<iframe src="https://player.vimeo.com/video/374047094" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/374047094" width="640" height="361" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ## Paekākāriki Community Board
 
 Four seats elected from five candidates in three iterations.
 
-<iframe src="https://player.vimeo.com/video/374047123" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/374047123" width="640" height="334" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ## Waikanae Community Board
 
 Four seats elected from six candidates in five iterations.
 
-<iframe src="https://player.vimeo.com/video/374047197" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/374047197" width="640" height="384" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 

@@ -22,14 +22,14 @@ One seat elected from three candidates in two iterations.
 
 Five seats elected from seven candidates in four iterations.
 
-<iframe src="https://player.vimeo.com/video/374048887" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/374048887" width="640" height="384" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ## Waimarino-Waiouru Ward
 
 Four seats elected from eight candidates in 11 iterations.
 
-<iframe src="https://player.vimeo.com/video/374048907" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/374048907" width="640" height="409" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 
