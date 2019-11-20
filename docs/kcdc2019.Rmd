@@ -22,7 +22,7 @@ Five seats elected from 14 candidates in 17 iterations.
 
 One seat elected from three candidates in one iteration.
 
-<iframe src="https://player.vimeo.com/video/374047078" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/374047078" width="640" height="282" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ## Paekākāriki-Raumati Ward
@@ -36,14 +36,14 @@ One seat elected from three candidates in one iteration.
 
 Two seats elected from four candidates in three iterations.
 
-<iframe src="https://player.vimeo.com/video/374047157" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/374047157" width="640" height="308" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ## Waikanae Ward
 
 One seat elected from three candidates in two iterations.
 
-<iframe src="https://player.vimeo.com/video/374047173" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/374047173" width="640" height="282" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ## Ōtaki Community Board

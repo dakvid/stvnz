@@ -13,7 +13,7 @@ In 2019, single transferable voting (STV) was used for local elections by
 district health board.
 
 * [Dunedin City Council](dcc2019.html)
-* [Greater Wellington Regional Council](gwrc2019.html) --- *to upload*
+* [Greater Wellington Regional Council](gwrc2019.html)
 * [Kaipara District Council](kdc2019.html) --- *to upload*
 * [Kāpiti Coast District Council](kcdc2019.html)
 * [Marlborough District Council](mdc2019.html)

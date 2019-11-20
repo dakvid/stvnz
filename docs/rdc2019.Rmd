@@ -8,14 +8,14 @@ There were four STV elections for Ruapehu District Council in 2019.
 
 One seat elected from two candidates in one iteration.
 
-<iframe src="https://player.vimeo.com/video/374048850" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/374048850" width="640" height="256" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ## National Park Ward
 
 One seat elected from three candidates in two iterations.
 
-<iframe src="https://player.vimeo.com/video/374048874" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/374048874" width="640" height="282" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ## Taumarunui Ward
