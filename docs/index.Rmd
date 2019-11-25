@@ -23,5 +23,5 @@ district health board.
 * [Ruapehu District Council](rdc2019.html)
 * [Tauranga City Council](tcc2019.html)
 * [Wellington City Council](wcc2019.html)
-* [District Health Boards](dhbs2019.html) --- *some to upload, others waiting for data from Electionz*
+* [District Health Boards](dhbs2019.html) --- *some waiting for data from Electionz*
 

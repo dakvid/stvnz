@@ -10,14 +10,14 @@ all except Waikato.
 
 Seven seats elected from 27 candidates in 35 iterations.
 
-*To be uploaded*
+<iframe src="https://player.vimeo.com/video/375324697" width="640" height="896" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ## Bay of Plenty District Health Board
 
 Seven seats elected from 21 candidates in 21 iterations.
 
-*To be uploaded*
+<iframe src="https://player.vimeo.com/video/375324859" width="640" height="743" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ## Canterbury District Health Board
@@ -31,7 +31,7 @@ Seven seats elected from 23 candidates.
 
 Seven seats elected from 23 candidates in 27 iterations.
 
-*To be uploaded*
+<iframe src="https://player.vimeo.com/video/375325019" width="640" height="768" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 
@@ -39,7 +39,7 @@ Seven seats elected from 23 candidates in 27 iterations.
 
 Seven seats elected from 33 candidates in 49 iterations.
 
-*To be uploaded*
+<iframe src="https://player.vimeo.com/video/375325038" width="640" height="1049" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ## Hawkes Bay District Health Board
@@ -81,7 +81,7 @@ Seven seats elected from 14 candidates.
 
 Seven seats elected from 20 candidates in 26 iterations.
 
-*To be uploaded*
+<iframe src="https://player.vimeo.com/video/375361550" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ## South Canterbury District Health Board
@@ -106,18 +106,18 @@ Three seats elected from 11 candidates.
 
 
 
-## Tairawhiti District Health Board
+## Tairāwhiti District Health Board
 
 Seven seats elected from 20 candidates in 28 iterations.
 
-*To be uploaded*
+<iframe src="https://player.vimeo.com/video/375361237" width="640" height="716" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ## Taranaki District Health Board
 
 Seven seats elected from 17 candidates in 18 iterations.
 
-*To be uploaded*
+<iframe src="https://player.vimeo.com/video/375361295" width="640" height="640" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ## Wairarapa District Health Board
@@ -131,7 +131,7 @@ Seven seats elected from 10 candidates.
 
 Seven seats elected from 23 candidates in 40 iterations.
 
-*To be uploaded*
+<iframe src="https://player.vimeo.com/video/375361041" width="640" height="795" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ## West Coast District Health Board
@@ -145,7 +145,7 @@ Seven seats elected from 15 candidates.
 
 Seven seats elected from 17 candidates in 29 iterations.
 
-*To be uploaded*
+<iframe src="https://player.vimeo.com/video/375360883" width="640" height="640" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 
@@ -156,26 +156,26 @@ DOCX and XLSX supplied by local council on request;
 PDF from board website;
 TSVs manually extracted from DOCX/PDF.
 
-* [adhb.xml][sources/2019/adhb.xml)
-* [bopdhb.xml][sources/2019/bopdhb.xml)
+* [adhb.xml](sources/2019/adhb.xml)
+* [bopdhb.xml](sources/2019/bopdhb.xml)
 * [ccdhb.pdf](sources/2019/ccdhb.pdf)
 * [ccdhb_results.tsv](sources/2019/ccdhb_results.tsv)
 * [ccdhb_iterations.tsv](sources/2019/ccdhb_iterations.tsv)
-* [cmdhb.xml][sources/2019/cmdhb.xml)
-* [hvdhb.docx][sources/2019/hvdhb.docx)
-* [hvdhb_iterations.tsv][sources/2019/hvdhb_iterations.tsv)
-* [hvdhb_results.tsv][sources/2019/hvdhb_results.tsv)
+* [cmdhb.xml](sources/2019/cmdhb.xml)
+* [hvdhb.docx](sources/2019/hvdhb.docx)
+* [hvdhb_iterations.tsv](sources/2019/hvdhb_iterations.tsv)
+* [hvdhb_results.tsv](sources/2019/hvdhb_results.tsv)
 * [mcdhb.pdf](sources/2019/mcdhb.pdf)
 * [mcdhb_results.tsv](sources/2019/mcdhb_results.tsv)
 * [mcdhb_iterations.tsv](sources/2019/mcdhb_iterations.tsv)
-* [ndhb.xml][sources/2019/ndhb.xml)
-* [scdhb.pdf][sources/2019/scdhb.pdf)
-* [scdhb_iterations.tsv][sources/2019/scdhb_iterations.tsv)
-* [scdhb_results.tsv][sources/2019/scdhb_results.tsv)
-* [taidhb.xml][sources/2019/taidhb.xml)
-* [tardhb.xml][sources/2019/tardhb.xml)
-* [wait-dhb.xml][sources/2019/wait-dhb.xml)
-* [whan-dhb.xlsx][sources/2019/whan-dhb.xlsx)
+* [ndhb.xml](sources/2019/ndhb.xml)
+* [scdhb.pdf](sources/2019/scdhb.pdf)
+* [scdhb_iterations.tsv](sources/2019/scdhb_iterations.tsv)
+* [scdhb_results.tsv](sources/2019/scdhb_results.tsv)
+* [taidhb.xml](sources/2019/taidhb.xml)
+* [tardhb.xml](sources/2019/tardhb.xml)
+* [wait-dhb.xml](sources/2019/wait-dhb.xml)
+* [whan-dhb.xlsx](sources/2019/whan-dhb.xlsx)
 
 
 
