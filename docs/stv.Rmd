@@ -2,10 +2,21 @@
 title: "What is STV?"
 ---
 
-That's a very good question!
+Single Transferable Vote (STV) is a voting system where voters rank candidates,
+and generally results in fairer outcomes than traditional First Past the Post (FPP).
+If you like cartoon animal videos, there's one that provides a nice
+overview:
 
-Until I expand this "stub" page,
-[my blog post](https://david.frigge.nz/posts/2016-11-simple-to-vote/)
-will explain what STV is and how we count votes.
-(In other words, what all these animations mean.)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l8XOZJkozfI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+There are a number of ways of counting STV ballots.
+In New Zealand we use a system devised by
+[Meek in 1969](http://www.votingmatters.org.uk/ISSUE1/P1.HTM)
+and enshrined in the 
+[Local Electoral Act 2001](http://www.legislation.govt.nz/act/public/2001/0035/latest/DLM93435.html).
+For more detail, have a read of
+[the Wikipedia article](https://en.wikipedia.org/wiki/Counting_single_transferable_votes)
+or [a blogpost I wrote](https://david.frigge.nz/posts/2016-11-simple-to-vote/)
+a couple of years ago.
+
 
