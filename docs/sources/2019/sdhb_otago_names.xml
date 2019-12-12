@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<!-- STV Election Input Southern District Health Board - Otago Constituency -->
+<!-- Election Number: Southern District Health Board - Otago Constituency -->
+<!-- Election Name: Southern District Health Board - Otago Constituency -->
+<!-- Election Guid: 21E39EEB-4434-4BCC-BD2C-E2E0CD5C828F-->
+<!-- No of Candidates: 17 -->
+<!-- No of Vacancies: 4 -->
+<!-- No of Voters: 133511 -->
+<!-- File Created: 18-OCT-2019 -->
+<input-container xmlns="http://schemas.dia.govt.nz/stv-calculator/input-container/1/20030106" xmlns:cand="http://schemas.dia.govt.nz/stv-calculator/list-of-candidates/1/20030106" xmlns:cpar="http://schemas.dia.govt.nz/stv-calculator/calculator-parameters/1/20030106" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:epar="http://schemas.dia.govt.nz/stv-calculator/election-parameters/1/20030106" xmlns:opt="http://schemas.dia.govt.nz/stv-calculator/list-of-options/1/20030106" xmlns:type="http://schemas.dia.govt.nz/stv-calculator/types/20030106" xmlns:vote="http://schemas.dia.govt.nz/stv-calculator/votes/1/20030106" xmlns:xNL="http://schemas.dia.govt.nz/stv-calculator/xNL-2.0-reduced/20030106" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.dia.govt.nz/stv-calculator/input-container/1/20030106 input-container.xsd" container-id="12705291-44A6-4F9F-A396-3DC6F1F6E4D9" created="2003-06-27T00:13:55">
+	<cpar:calculator-parameters>
+		<cpar:security>
+			<cpar:primary-key-location>KEY_LOCATION_NOT_USED_BY_THIS_VERSION.</cpar:primary-key-location>
+			<cpar:public-key-location>KEY_LOCATION_NOT_USED_BY_THIS_VERSION.</cpar:public-key-location>
+		</cpar:security>
+		<cpar:election-id>21E39EEB-4434-4BCC-BD2C-E2E0CD5C828F</cpar:election-id>
+		<cpar:result-type>final</cpar:result-type>
+	</cpar:calculator-parameters>
+	<epar:election-parameters>
+		<epar:election-id>21E39EEB-4434-4BCC-BD2C-E2E0CD5C828F</epar:election-id> 
+		<epar:election-name>Southern District Health Board - Otago Constituency</epar:election-name>
+		<epar:election-date>2003-06-27</epar:election-date>
+		<epar:number-of-vacancies>4</epar:number-of-vacancies>
+	</epar:election-parameters>
+	<cand:election-candidates>
+		<xNL:PersonName candidate-id="A64AEBCF-1ABF-4F9C-BA24-4441B9337A54" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Ross</xNL:FirstName>
+			<xNL:LastName>ANDREWS</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="18741155-FE84-4633-A092-E801BF5247D5" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Shanon</xNL:FirstName>
+			<xNL:LastName>ARNOLD</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="A1D48E67-5187-453A-B0AC-03BCF4F5B4B8" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Craig</xNL:FirstName>
+			<xNL:LastName>ASHTON</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="E36C408F-A75C-46EA-BD24-E21FA2693F9D" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Bob</xNL:FirstName>
+			<xNL:LastName>BARLIN</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="0BD58EC9-F744-4ABD-8454-3E83DB67966F" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Jason</xNL:FirstName>
+			<xNL:LastName>BAUCHOP</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="E395CFC4-52D1-4901-8F22-BA9136995810" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Ilka</xNL:FirstName>
+			<xNL:LastName>BEEKHUIS</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="E2433DC7-B892-4133-BB47-08AE38DEB2C3" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>John</xNL:FirstName>
+			<xNL:LastName>CHAMBERS</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="A15EA842-B008-4A98-997E-C745E067FBE0" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Graham</xNL:FirstName>
+			<xNL:LastName>CLARKE</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="40BA7224-B2E9-42B2-8AFA-27AC880B4E6B" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Dave</xNL:FirstName>
+			<xNL:LastName>CULL</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="DB347589-B862-413C-9641-ABB546456422" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Gordon</xNL:FirstName>
+			<xNL:LastName>DICKSON</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="48439966-B43A-45A6-BDE4-4F383B503758" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Lyndell</xNL:FirstName>
+			<xNL:LastName>KELLY</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="74DF67D7-B20F-405E-90D2-79655FCDE6E1" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Malcolm</xNL:FirstName>
+			<xNL:LastName>MACPHERSON</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="43759288-0FAF-4660-BE31-6A1BBED610E8" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Lyndsay (Crackley)</xNL:FirstName>
+			<xNL:LastName>RACKLEY</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="A6C1253C-60FF-4C59-A9AF-50EA05BE71C3" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Peter</xNL:FirstName>
+			<xNL:LastName>RODWELL</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="74F78CB1-CF23-4104-82CC-E86F04783978" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Jeanette</xNL:FirstName>
+			<xNL:LastName>SAXBY</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="0E7347F9-DB11-4BA8-9662-43A3D12A9A36" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Andrew</xNL:FirstName>
+			<xNL:LastName>VELMAN</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="5490C7ED-C4B4-4918-B3F6-114F1F9509D8" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Rob</xNL:FirstName>
+			<xNL:LastName>WOODHOUSE</xNL:LastName>
+		</xNL:PersonName>
+	</cand:election-candidates>
+	<votes>
+		<external-voting-data resource-id="LGUID111-WERE-WHAT-O999-QWERTY123456" name="Election Voter Data: 21-southern-district-health-board-otago-constituency-votes-0.xml" location="21-southern-district-health-board-otago-constituency-votes-0.xml"></external-voting-data>
+		<external-voting-data resource-id="546D7060-6E4F-4762-992D-7920EDCA108C" name="Election Voter Data: FINAL_821_Southern_District_Health_Board_-_Otago_Constituency_D68_Waitaki_District_Council.XML" location="FINAL_821_Southern_District_Health_Board_-_Otago_Constituency_D68_Waitaki_District_Council.XML"></external-voting-data>
+		<external-voting-data resource-id="8522A1DE-A67E-4BBF-A10D-ED8A9B813D8C" name="Election Voter Data: FINAL_821_Southern_District_Health_Board_-_Otago_Constituency_D69_Central_Otago_District_Council.XML" location="FINAL_821_Southern_District_Health_Board_-_Otago_Constituency_D69_Central_Otago_District_Council.XML"></external-voting-data>
+		<external-voting-data resource-id="3CAE40C0-134B-4E88-87E7-02D13EDD1018" name="Election Voter Data: FINAL_821_Southern_District_Health_Board_-_Otago_Constituency_D70_Queenstown_Lakes_District_Council.XML" location="FINAL_821_Southern_District_Health_Board_-_Otago_Constituency_D70_Queenstown_Lakes_District_Council.XML"></external-voting-data>
+		<external-voting-data resource-id="F75FE1CC-C61E-4BDF-8DB7-D884BEE490CE" name="Election Voter Data: FINAL_821_Southern_District_Health_Board_-_Otago_Constituency_D71_Dunedin_City_Council.XML" location="FINAL_821_Southern_District_Health_Board_-_Otago_Constituency_D71_Dunedin_City_Council.XML"></external-voting-data>
+	</votes>
+</input-container>

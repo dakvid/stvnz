@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<!-- STV Election Input MidCentral District Health Board -->
+<!-- Election Number: MidCentral District Health Board -->
+<!-- Election Name: MidCentral District Health Board -->
+<!-- Election Guid: E6BD6982-A17A-4B91-905F-718CE563862A-->
+<!-- No of Candidates: 15 -->
+<!-- No of Vacancies: 7 -->
+<!-- No of Voters: 112423 -->
+<!-- File Created: 17-OCT-2019 -->
+<input-container xmlns="http://schemas.dia.govt.nz/stv-calculator/input-container/1/20030106" xmlns:cand="http://schemas.dia.govt.nz/stv-calculator/list-of-candidates/1/20030106" xmlns:cpar="http://schemas.dia.govt.nz/stv-calculator/calculator-parameters/1/20030106" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:epar="http://schemas.dia.govt.nz/stv-calculator/election-parameters/1/20030106" xmlns:opt="http://schemas.dia.govt.nz/stv-calculator/list-of-options/1/20030106" xmlns:type="http://schemas.dia.govt.nz/stv-calculator/types/20030106" xmlns:vote="http://schemas.dia.govt.nz/stv-calculator/votes/1/20030106" xmlns:xNL="http://schemas.dia.govt.nz/stv-calculator/xNL-2.0-reduced/20030106" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.dia.govt.nz/stv-calculator/input-container/1/20030106 input-container.xsd" container-id="12705291-44A6-4F9F-A396-3DC6F1F6E4D9" created="2003-06-27T00:13:55">
+	<cpar:calculator-parameters>
+		<cpar:security>
+			<cpar:primary-key-location>KEY_LOCATION_NOT_USED_BY_THIS_VERSION.</cpar:primary-key-location>
+			<cpar:public-key-location>KEY_LOCATION_NOT_USED_BY_THIS_VERSION.</cpar:public-key-location>
+		</cpar:security>
+		<cpar:election-id>E6BD6982-A17A-4B91-905F-718CE563862A</cpar:election-id>
+		<cpar:result-type>final</cpar:result-type>
+	</cpar:calculator-parameters>
+	<epar:election-parameters>
+		<epar:election-id>E6BD6982-A17A-4B91-905F-718CE563862A</epar:election-id> 
+		<epar:election-name>MidCentral District Health Board</epar:election-name>
+		<epar:election-date>2003-06-27</epar:election-date>
+		<epar:number-of-vacancies>7</epar:number-of-vacancies>
+	</epar:election-parameters>
+	<cand:election-candidates>
+		<xNL:PersonName candidate-id="E9E8BE47-B6A2-42D6-A64C-A9A7BEEA9648" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName></xNL:FirstName>
+			<xNL:LastName>ASTARTE</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="B0645E63-AB66-43E6-804A-EAA7AB9E1AA5" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Heather</xNL:FirstName>
+			<xNL:LastName>BROWNING</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="BCA1A28C-D51C-4095-8F64-58A68CDBE82E" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Vaughan</xNL:FirstName>
+			<xNL:LastName>DENNISON</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="AD9D2160-2E7D-48E2-89E2-D7B2B2A66132" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Michael</xNL:FirstName>
+			<xNL:LastName>FEYEN</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="F2986894-E3A0-4C61-8714-6E0AFAC424CC" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Lew</xNL:FirstName>
+			<xNL:LastName>FINDLAY</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="894A3AD6-7125-486A-B2C0-0C1951E72B27" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Adrian</xNL:FirstName>
+			<xNL:LastName>GREGORY</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="E55881C0-BD1E-408E-AC59-6C264C6EC33A" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Muriel</xNL:FirstName>
+			<xNL:LastName>HANCOCK</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="DDBFBD15-3158-414F-8C25-DAD34A7A2DE4" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Dorothy</xNL:FirstName>
+			<xNL:LastName>LOCK</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="08CF6996-94F2-4CF1-AB50-FEA90CEB358A" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Karen</xNL:FirstName>
+			<xNL:LastName>NAYLOR</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="0E753EF1-676B-4F60-BAAF-17B760F8CC81" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Cat</xNL:FirstName>
+			<xNL:LastName>PAUSE</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="9007537E-2032-4DED-95F6-F46AB1531BFD" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Leslie</xNL:FirstName>
+			<xNL:LastName>PILLOW</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="4DE9B7EA-5139-4682-B493-D38C34A445E7" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Rebecca</xNL:FirstName>
+			<xNL:LastName>TAYLER</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="E623AF25-E3C1-4FA5-93B3-52219DE9145C" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>John</xNL:FirstName>
+			<xNL:LastName>WALDON</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="B3D95D80-6F1B-47B1-BD15-5627AA6955C5" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Jenny</xNL:FirstName>
+			<xNL:LastName>WARREN</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="911DDF0D-659A-454B-AA24-5E8DCE136508" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Shelly</xNL:FirstName>
+			<xNL:LastName>WARWICK</xNL:LastName>
+		</xNL:PersonName>
+	</cand:election-candidates>
+	<votes>
+		<external-voting-data resource-id="F0A62FB0-EBC3-416B-873B-69A8734D48E2" name="Election Voter Data: FINAL_812_MidCentral_District_Health_Board_D39_Manawatu_District_Council.XML" location="FINAL_812_MidCentral_District_Health_Board_D39_Manawatu_District_Council.XML"></external-voting-data>
+		<external-voting-data resource-id="1FA5877E-9954-49D6-A562-FBC43B21F267" name="Election Voter Data: FINAL_812_MidCentral_District_Health_Board_D40_Palmerston_North_City_Council.XML" location="FINAL_812_MidCentral_District_Health_Board_D40_Palmerston_North_City_Council.XML"></external-voting-data>
+		<external-voting-data resource-id="2D866C9A-2CBC-49BE-8013-11B0870384B4" name="Election Voter Data: FINAL_812_MidCentral_District_Health_Board_D41_Tararua_District_Council.XML" location="FINAL_812_MidCentral_District_Health_Board_D41_Tararua_District_Council.XML"></external-voting-data>
+		<external-voting-data resource-id="C16CD9D5-41A4-4C46-BDE2-9C844FDF56A0" name="Election Voter Data: FINAL_812_MidCentral_District_Health_Board_D42_Horowhenua_District_Council.XML" location="FINAL_812_MidCentral_District_Health_Board_D42_Horowhenua_District_Council.XML"></external-voting-data>
+		<external-voting-data resource-id="NGUID111-WERE-WHAT-O999-QWERTY123456" name="Election Voter Data: STV_InVote_Election_KapitiCoastDistrictCouncil_Issue_MidCentralDistrictH....xml" location="STV_InVote_Election_KapitiCoastDistrictCouncil_Issue_MidCentralDistrictH....xml"></external-voting-data>
+	</votes>
+</input-container>

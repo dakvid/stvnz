@@ -1,0 +1,158 @@
+<?xml version="1.0" ?>
+<!-- STV Election Input Hawke's Bay District Health Board -->
+<!-- Election Number: Hawke's Bay District Health Board -->
+<!-- Election Name: Hawke's Bay District Health Board -->
+<!-- Election Guid: 8B8193CD-DD42-45EE-8D85-1463F0B2C7BD-->
+<!-- No of Candidates: 25 -->
+<!-- No of Vacancies: 7 -->
+<!-- No of Voters: 109004 -->
+<!-- File Created: 18-OCT-2019 -->
+<input-container xmlns="http://schemas.dia.govt.nz/stv-calculator/input-container/1/20030106" xmlns:cand="http://schemas.dia.govt.nz/stv-calculator/list-of-candidates/1/20030106" xmlns:cpar="http://schemas.dia.govt.nz/stv-calculator/calculator-parameters/1/20030106" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:epar="http://schemas.dia.govt.nz/stv-calculator/election-parameters/1/20030106" xmlns:opt="http://schemas.dia.govt.nz/stv-calculator/list-of-options/1/20030106" xmlns:type="http://schemas.dia.govt.nz/stv-calculator/types/20030106" xmlns:vote="http://schemas.dia.govt.nz/stv-calculator/votes/1/20030106" xmlns:xNL="http://schemas.dia.govt.nz/stv-calculator/xNL-2.0-reduced/20030106" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.dia.govt.nz/stv-calculator/input-container/1/20030106 input-container.xsd" container-id="12705291-44A6-4F9F-A396-3DC6F1F6E4D9" created="2003-06-27T00:13:55">
+	<cpar:calculator-parameters>
+		<cpar:security>
+			<cpar:primary-key-location>KEY_LOCATION_NOT_USED_BY_THIS_VERSION.</cpar:primary-key-location>
+			<cpar:public-key-location>KEY_LOCATION_NOT_USED_BY_THIS_VERSION.</cpar:public-key-location>
+		</cpar:security>
+		<cpar:election-id>8B8193CD-DD42-45EE-8D85-1463F0B2C7BD</cpar:election-id>
+		<cpar:result-type>final</cpar:result-type>
+	</cpar:calculator-parameters>
+	<epar:election-parameters>
+		<epar:election-id>8B8193CD-DD42-45EE-8D85-1463F0B2C7BD</epar:election-id> 
+		<epar:election-name>Hawke's Bay District Health Board</epar:election-name>
+		<epar:election-date>2003-06-27</epar:election-date>
+		<epar:number-of-vacancies>7</epar:number-of-vacancies>
+	</epar:election-parameters>
+	<cand:election-candidates>
+		<xNL:PersonName candidate-id="F24DA880-5144-4A64-8B25-77BB35B58937" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Hayley</xNL:FirstName>
+			<xNL:LastName>ANDERSON</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="0F422BFE-F779-416E-A735-7E215861ED13" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Ana</xNL:FirstName>
+			<xNL:LastName>APATU</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="8316AEC9-3779-4D52-B71C-8417C38D0A94" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Kevin</xNL:FirstName>
+			<xNL:LastName>ATKINSON</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="7F5DACAD-6290-41DB-A86F-59AEA3336FCB" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Paul</xNL:FirstName>
+			<xNL:LastName>BEBBINGTON</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="C6306D1A-6CC2-466E-A271-26B73A1B7E2E" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Garry</xNL:FirstName>
+			<xNL:LastName>BRIAN</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="01794C42-D945-431C-A211-2546914DE8EB" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Annette</xNL:FirstName>
+			<xNL:LastName>BROSNAN</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="4E21A41F-3477-4A8D-BB4C-8F23C154E99B" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Garth</xNL:FirstName>
+			<xNL:LastName>COWIE</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="F69F7559-DC16-403A-91A2-4659F8FC5A6B" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>James</xNL:FirstName>
+			<xNL:LastName>CROW</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="EED920AD-D516-4662-94AF-B1EA34DFED1D" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>David</xNL:FirstName>
+			<xNL:LastName>DAVIDSON</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="1A9F8D1A-E3D4-424A-AA22-CE1D980EAA50" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Peter</xNL:FirstName>
+			<xNL:LastName>DUNKERLEY</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="2D95100D-AD38-48D7-BC74-4EF464E87AFD" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Hine</xNL:FirstName>
+			<xNL:LastName>FLOOD</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="96C854BC-810C-4CA5-BC51-F4207F1B942C" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Trish</xNL:FirstName>
+			<xNL:LastName>GIDDENS</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="AE723CF3-A6F1-44F4-8D00-67D2C74D4A01" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Leona</xNL:FirstName>
+			<xNL:LastName>KARAURIA</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="0AB96121-9624-430F-93DE-54104245323F" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Rizwaana (Riz)</xNL:FirstName>
+			<xNL:LastName>LATIFF</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="5ACF026C-0C48-4119-BE78-A026EE7BFB2E" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Anna</xNL:FirstName>
+			<xNL:LastName>LORCK</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="56C7BB22-0D14-4076-9E08-51F168C165AC" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Graeme</xNL:FirstName>
+			<xNL:LastName>NORTON</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="56FC7AB0-1D7B-483F-9C7F-B613BE87D33E" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Umang</xNL:FirstName>
+			<xNL:LastName>PATEL</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="5F88472C-252D-412B-B867-7EDF1CB144A5" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Jacoby</xNL:FirstName>
+			<xNL:LastName>POULAIN</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="021BB735-4E8B-46C6-AD85-5611561EABE4" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Heather</xNL:FirstName>
+			<xNL:LastName>SKIPWORTH</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="32E77276-EB39-4DD2-9511-71763179D167" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>John</xNL:FirstName>
+			<xNL:LastName>SMITH</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="9A250866-1D55-49D5-A3E1-FA919F44BB9C" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Gerraldine Kelly</xNL:FirstName>
+			<xNL:LastName>TAHERE</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="51A0690F-E9FF-43D5-A3DB-702CCAE7CAD0" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Hinenui</xNL:FirstName>
+			<xNL:LastName>TIPOKI-LAWTON</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="D3BFB58D-9BFF-4DD9-960D-DA7C82F1B572" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Claire</xNL:FirstName>
+			<xNL:LastName>VOGTHERR</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="C15BD14F-E8DD-424D-95B9-4370A3216BAB" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Jason</xNL:FirstName>
+			<xNL:LastName>WHAITIRI</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="C1E607D9-A42C-436C-A654-C3BBC1E4568A" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Julia</xNL:FirstName>
+			<xNL:LastName>WILSON</xNL:LastName>
+		</xNL:PersonName>
+	</cand:election-candidates>
+	<votes>
+		<external-voting-data resource-id="QGUID111-WERE-WHAT-O999-QWERTY123456" name="Election Voter Data: 15-hawkes-bay-district-health-board-votes-0.xml" location="15-hawkes-bay-district-health-board-votes-0.xml"></external-voting-data>
+		<external-voting-data resource-id="5B48C3DB-F102-497F-8AD1-A07135839DCE" name="Election Voter Data: FINAL_810_Hawke's_Bay_District_Health_Board_D30_Hastings_District_Council.XML" location="FINAL_810_Hawke's_Bay_District_Health_Board_D30_Hastings_District_Council.XML"></external-voting-data>
+		<external-voting-data resource-id="5CA30F36-FED7-4180-A4CB-FA0A2ACBFABB" name="Election Voter Data: FINAL_810_Hawke's_Bay_District_Health_Board_D31_Napier_City_Council.XML" location="FINAL_810_Hawke's_Bay_District_Health_Board_D31_Napier_City_Council.XML"></external-voting-data>
+		<external-voting-data resource-id="EC044792-78DC-4AB6-9808-8DD27ED3B614" name="Election Voter Data: FINAL_810_Hawke's_Bay_District_Health_Board_D32_Central_Hawkes_Bay_District_Council.XML" location="FINAL_810_Hawke's_Bay_District_Health_Board_D32_Central_Hawkes_Bay_District_Council.XML"></external-voting-data>
+	</votes>
+</input-container>

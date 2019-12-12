@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<!-- STV Election Input West Coast District Health Board -->
+<!-- Election Number: West Coast District Health Board -->
+<!-- Election Name: West Coast District Health Board -->
+<!-- Election Guid: 04BBE797-EF01-4BE3-88DC-21C5ACE92CA3-->
+<!-- No of Candidates: 15 -->
+<!-- No of Vacancies: 7 -->
+<!-- No of Voters: 5893 -->
+<!-- File Created: 16-OCT-2019 -->
+<input-container xmlns="http://schemas.dia.govt.nz/stv-calculator/input-container/1/20030106" xmlns:cand="http://schemas.dia.govt.nz/stv-calculator/list-of-candidates/1/20030106" xmlns:cpar="http://schemas.dia.govt.nz/stv-calculator/calculator-parameters/1/20030106" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:epar="http://schemas.dia.govt.nz/stv-calculator/election-parameters/1/20030106" xmlns:opt="http://schemas.dia.govt.nz/stv-calculator/list-of-options/1/20030106" xmlns:type="http://schemas.dia.govt.nz/stv-calculator/types/20030106" xmlns:vote="http://schemas.dia.govt.nz/stv-calculator/votes/1/20030106" xmlns:xNL="http://schemas.dia.govt.nz/stv-calculator/xNL-2.0-reduced/20030106" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.dia.govt.nz/stv-calculator/input-container/1/20030106 input-container.xsd" container-id="12705291-44A6-4F9F-A396-3DC6F1F6E4D9" created="2003-06-27T00:13:55">
+	<cpar:calculator-parameters>
+		<cpar:security>
+			<cpar:primary-key-location>KEY_LOCATION_NOT_USED_BY_THIS_VERSION.</cpar:primary-key-location>
+			<cpar:public-key-location>KEY_LOCATION_NOT_USED_BY_THIS_VERSION.</cpar:public-key-location>
+		</cpar:security>
+		<cpar:election-id>04BBE797-EF01-4BE3-88DC-21C5ACE92CA3</cpar:election-id>
+		<cpar:result-type>final</cpar:result-type>
+	</cpar:calculator-parameters>
+	<epar:election-parameters>
+		<epar:election-id>04BBE797-EF01-4BE3-88DC-21C5ACE92CA3</epar:election-id> 
+		<epar:election-name>West Coast District Health Board</epar:election-name>
+		<epar:election-date>2003-06-27</epar:election-date>
+		<epar:number-of-vacancies>7</epar:number-of-vacancies>
+	</epar:election-parameters>
+	<cand:election-candidates>
+		<xNL:PersonName candidate-id="90BE88F4-CE94-4FB6-A577-9EA5339A4467" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Chris</xNL:FirstName>
+			<xNL:LastName>AUCHINVOLE</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="0CF4DB15-3323-4D47-BC7B-41B869826850" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Susan</xNL:FirstName>
+			<xNL:LastName>BARNETT</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="6EAC3A7A-2FC2-4EF5-880B-C69CD39A4120" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Sarah</xNL:FirstName>
+			<xNL:LastName>BIRCHFIELD</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="E5AD7D62-CF93-4BFF-B30A-A5C1481DE318" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Kevin Raymond</xNL:FirstName>
+			<xNL:LastName>BROWN</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="2F33B023-35DD-49C1-8F76-C6F102A1FB89" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Paula</xNL:FirstName>
+			<xNL:LastName>CUTBUSH</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="D21E7F35-FDB8-4BEA-A130-BE9F706A6689" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Michael</xNL:FirstName>
+			<xNL:LastName>DYNE</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="8A2428A5-83CB-4B72-87EB-8531D5D03C03" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Helen</xNL:FirstName>
+			<xNL:LastName>GILLESPIE</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="A46BF237-112E-498F-A61D-0FED39B8FFD2" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Anita Mary</xNL:FirstName>
+			<xNL:LastName>HALSALL-QUINLAN</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="657F9D34-C252-4D3E-A44E-B4B3CD290BAA" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Garry</xNL:FirstName>
+			<xNL:LastName>HOWARD</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="D4D2A059-2077-4D24-9720-011F42562670" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Nichola</xNL:FirstName>
+			<xNL:LastName>MEEHAN</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="BED53281-4D29-4A3B-AAA4-12F6F2B5A82A" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Peter</xNL:FirstName>
+			<xNL:LastName>NEAME</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="79BA50C8-5A60-4643-AFAA-3E999CBF1169" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Nigel</xNL:FirstName>
+			<xNL:LastName>OGILVIE</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="211249B0-DAE0-46D4-AC3F-F9086A48C21B" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Keith</xNL:FirstName>
+			<xNL:LastName>RUSHOLME</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="BA9B3E72-AC29-4A79-91E3-3AF4880E19C8" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Jodie</xNL:FirstName>
+			<xNL:LastName>TREANOR</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="3A4C3504-AAE0-40FE-87BD-C086C81228C6" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>John</xNL:FirstName>
+			<xNL:LastName>VAILE</xNL:LastName>
+		</xNL:PersonName>
+	</cand:election-candidates>
+	<votes>
+		<external-voting-data resource-id="0E8EA091-9C2D-4248-9DEA-BAF39589BD2A" name="Election Voter Data: FINAL_817_West_Coast_District_Health_Board_D57_Westland_District_Council.XML" location="FINAL_817_West_Coast_District_Health_Board_D57_Westland_District_Council.XML"></external-voting-data>
+		<external-voting-data resource-id="FGUID111-WERE-WHAT-O999-QWERTY123456" name="Election Voter Data: STV_InVote_Election_2019GreyDistrictCouncilElection_Issue_WestCoastDistrictHealthBoard15_10_201974610PM1.xml" location="STV_InVote_Election_2019GreyDistrictCouncilElection_Issue_WestCoastDistrictHealthBoard15_10_201974610PM1.xml"></external-voting-data>
+		<external-voting-data resource-id="FGUID111-WERE-WHAT-O999-QWERTY123456" name="Election Voter Data: STV_InVote_Election_BullerDistrictCouncil_Issue_WestCoastDistrictHealthBoard15_10_201980007PM1.xml" location="STV_InVote_Election_BullerDistrictCouncil_Issue_WestCoastDistrictHealthBoard15_10_201980007PM1.xml"></external-voting-data>
+	</votes>
+</input-container>

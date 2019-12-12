@@ -1,0 +1,96 @@
+<?xml version="1.0" ?>
+<!-- STV Election Input Hutt Valley District Health Board -->
+<!-- Election Number: Hutt Valley District Health Board -->
+<!-- Election Name: Hutt Valley District Health Board -->
+<!-- Election Guid: 36597FB3-9C3E-45C9-85CF-C82B7EE3D16E-->
+<!-- No of Candidates: 13 -->
+<!-- No of Vacancies: 7 -->
+<!-- No of Voters: 104288 -->
+<!-- File Created: 17-OCT-2019 -->
+<input-container xmlns="http://schemas.dia.govt.nz/stv-calculator/input-container/1/20030106" xmlns:cand="http://schemas.dia.govt.nz/stv-calculator/list-of-candidates/1/20030106" xmlns:cpar="http://schemas.dia.govt.nz/stv-calculator/calculator-parameters/1/20030106" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:epar="http://schemas.dia.govt.nz/stv-calculator/election-parameters/1/20030106" xmlns:opt="http://schemas.dia.govt.nz/stv-calculator/list-of-options/1/20030106" xmlns:type="http://schemas.dia.govt.nz/stv-calculator/types/20030106" xmlns:vote="http://schemas.dia.govt.nz/stv-calculator/votes/1/20030106" xmlns:xNL="http://schemas.dia.govt.nz/stv-calculator/xNL-2.0-reduced/20030106" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.dia.govt.nz/stv-calculator/input-container/1/20030106 input-container.xsd" container-id="12705291-44A6-4F9F-A396-3DC6F1F6E4D9" created="2003-06-27T00:13:55">
+	<cpar:calculator-parameters>
+		<cpar:security>
+			<cpar:primary-key-location>KEY_LOCATION_NOT_USED_BY_THIS_VERSION.</cpar:primary-key-location>
+			<cpar:public-key-location>KEY_LOCATION_NOT_USED_BY_THIS_VERSION.</cpar:public-key-location>
+		</cpar:security>
+		<cpar:election-id>36597FB3-9C3E-45C9-85CF-C82B7EE3D16E</cpar:election-id>
+		<cpar:result-type>final</cpar:result-type>
+	</cpar:calculator-parameters>
+	<epar:election-parameters>
+		<epar:election-id>36597FB3-9C3E-45C9-85CF-C82B7EE3D16E</epar:election-id> 
+		<epar:election-name>Hutt Valley District Health Board</epar:election-name>
+		<epar:election-date>2003-06-27</epar:election-date>
+		<epar:number-of-vacancies>7</epar:number-of-vacancies>
+	</epar:election-parameters>
+	<cand:election-candidates>
+		<xNL:PersonName candidate-id="ECE60B4B-6715-47DD-829A-401C74CA2EB7" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Josh</xNL:FirstName>
+			<xNL:LastName>BRIGGS</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="8C326958-9BC0-434B-BBF7-51F6647B7A43" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Keri</xNL:FirstName>
+			<xNL:LastName>BROWN</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="10724F03-8146-4C27-94B9-58A74FCE6B75" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Cheryl</xNL:FirstName>
+			<xNL:LastName>DAVIES</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="4E97272A-98A0-45FB-9CD8-E3FAA512B03B" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Wayne</xNL:FirstName>
+			<xNL:LastName>GUPPY</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="3AABC0EA-5831-4BDF-A753-C04FEC5AAA14" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Ken</xNL:FirstName>
+			<xNL:LastName>LABAN</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="E722D50F-C57F-4DBC-9D5B-D128B80540D2" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Prue</xNL:FirstName>
+			<xNL:LastName>LAMASON</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="8C86A329-FD3F-45C9-994E-1AE68ED6D304" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>David</xNL:FirstName>
+			<xNL:LastName>OGDEN</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="F99AD30B-99BD-468F-B3E9-990B21079B01" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Naomi</xNL:FirstName>
+			<xNL:LastName>SHAW</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="71E9DFE5-AEDB-4864-BEDE-2CB3C38CD28A" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Richard</xNL:FirstName>
+			<xNL:LastName>STEIN</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="0CBAE066-DCD7-4A5D-B492-F3F3CD763122" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Steve</xNL:FirstName>
+			<xNL:LastName>TAYLOR</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="4C998055-B64A-4E72-BCCC-0B4554473F3E" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>John</xNL:FirstName>
+			<xNL:LastName>TERRIS</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="89B0803A-77EF-4D00-B29E-67B7B9F746F9" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Kamiria Mid</xNL:FirstName>
+			<xNL:LastName>THOMAS-SAVELIO</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="94B56CF4-8FB3-4309-8B93-683CAD4BB7D3" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Gabriel</xNL:FirstName>
+			<xNL:LastName>TUPOU</xNL:LastName>
+		</xNL:PersonName>
+	</cand:election-candidates>
+	<votes>
+		<external-voting-data resource-id="3128F737-B89D-42BB-BAE7-DADA8427EBCC" name="Election Voter Data: FINAL_813_Hutt_Valley_District_Health_Board_D45_Upper_Hutt_City_Council.XML" location="FINAL_813_Hutt_Valley_District_Health_Board_D45_Upper_Hutt_City_Council.XML"></external-voting-data>
+		<external-voting-data resource-id="258FDCF0-2E40-47DC-BBB5-C16BB92F9261" name="Election Voter Data: FINAL_813_Hutt_Valley_District_Health_Board_D46_Hutt_City_Council.XML" location="FINAL_813_Hutt_Valley_District_Health_Board_D46_Hutt_City_Council.XML"></external-voting-data>
+	</votes>
+</input-container>

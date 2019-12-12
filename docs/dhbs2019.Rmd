@@ -151,30 +151,55 @@ Seven seats elected from 17 candidates in 29 iterations.
 
 ## Data
 
-XML supplied by Election Services on request;
+XML (one file) supplied by Election Services on request;
+XML (two files) supplied eventually by Electionz on request;
 DOCX and XLSX supplied by local council on request;
 PDF from board website;
 TSVs manually extracted from DOCX/PDF.
 
 * [adhb.xml](sources/2019/adhb.xml)
 * [bopdhb.xml](sources/2019/bopdhb.xml)
+* [cdhb.xml](sources/2019/cdhb.xml)
+* [cdhb_names.xm](sources/2019/cdhb_names.xml)
+* [cchb.xml](sources/2019/cchb.xml)
+* [cchb_names.xm](sources/2019/cchb_names.xml)
 * [ccdhb.pdf](sources/2019/ccdhb.pdf)
 * [ccdhb_results.tsv](sources/2019/ccdhb_results.tsv)
 * [ccdhb_iterations.tsv](sources/2019/ccdhb_iterations.tsv)
 * [cmdhb.xml](sources/2019/cmdhb.xml)
+* [hbdhb.xml](sources/2019/hbdhb.xml)
+* [hbdhb_names.xm](sources/2019/hbdhb_names.xml)
+* [hvdhb.xml](sources/2019/hvdhb.xml)
+* [hvdhb_names.xm](sources/2019/hvdhb_names.xml)
 * [hvdhb.docx](sources/2019/hvdhb.docx)
 * [hvdhb_iterations.tsv](sources/2019/hvdhb_iterations.tsv)
 * [hvdhb_results.tsv](sources/2019/hvdhb_results.tsv)
+* [ldhb.xml](sources/2019/ldhb.xml)
+* [ldhb_names.xm](sources/2019/ldhb_names.xml)
+* [mcdhb.xml](sources/2019/mcdhb.xml)
+* [mcdhb_names.xm](sources/2019/mcdhb_names.xml)
 * [mcdhb.pdf](sources/2019/mcdhb.pdf)
 * [mcdhb_results.tsv](sources/2019/mcdhb_results.tsv)
 * [mcdhb_iterations.tsv](sources/2019/mcdhb_iterations.tsv)
 * [ndhb.xml](sources/2019/ndhb.xml)
+* [nmdhb.xml](sources/2019/nmdhb.xml)
+* [nmdhb_names.xm](sources/2019/nmdhb_names.xml)
+* [sdhb_otago.xml](sources/2019/sdhb_otago.xml)
+* [sdhb_otago_names.xm](sources/2019/sdhb_otago_names.xml)
+* [sdhb_southland.xml](sources/2019/sdhb_southland.xml)
+* [sdhb_southland_names.xm](sources/2019/sdhb_southland_names.xml)
+* [scdhb.xml](sources/2019/scdhb.xml)
+* [scdhb_names.xm](sources/2019/scdhb_names.xml)
 * [scdhb.pdf](sources/2019/scdhb.pdf)
 * [scdhb_iterations.tsv](sources/2019/scdhb_iterations.tsv)
 * [scdhb_results.tsv](sources/2019/scdhb_results.tsv)
 * [taidhb.xml](sources/2019/taidhb.xml)
 * [tardhb.xml](sources/2019/tardhb.xml)
+* [wair-dhb.xml](sources/2019/wair-dhb.xml)
+* [wair-dhb_names.xm](sources/2019/wair-dhb_names.xml)
 * [wait-dhb.xml](sources/2019/wait-dhb.xml)
+* [wcdhb.xml](sources/2019/wcdhb.xml)
+* [wcdhb_names.xm](sources/2019/wcdhb_names.xml)
 * [whan-dhb.xlsx](sources/2019/whan-dhb.xlsx)
 
 

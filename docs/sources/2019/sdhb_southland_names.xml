@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<!-- STV Election Input Southern District Health Board - Southland Constituency -->
+<!-- Election Number: Southern District Health Board - Southland Constituency -->
+<!-- Election Name: Southern District Health Board - Southland Constituency -->
+<!-- Election Guid: 0B2A344F-255D-4D68-AC30-B21FFDD6FDFB-->
+<!-- No of Candidates: 11 -->
+<!-- No of Vacancies: 3 -->
+<!-- No of Voters: 61409 -->
+<!-- File Created: 18-OCT-2019 -->
+<input-container xmlns="http://schemas.dia.govt.nz/stv-calculator/input-container/1/20030106" xmlns:cand="http://schemas.dia.govt.nz/stv-calculator/list-of-candidates/1/20030106" xmlns:cpar="http://schemas.dia.govt.nz/stv-calculator/calculator-parameters/1/20030106" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:epar="http://schemas.dia.govt.nz/stv-calculator/election-parameters/1/20030106" xmlns:opt="http://schemas.dia.govt.nz/stv-calculator/list-of-options/1/20030106" xmlns:type="http://schemas.dia.govt.nz/stv-calculator/types/20030106" xmlns:vote="http://schemas.dia.govt.nz/stv-calculator/votes/1/20030106" xmlns:xNL="http://schemas.dia.govt.nz/stv-calculator/xNL-2.0-reduced/20030106" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.dia.govt.nz/stv-calculator/input-container/1/20030106 input-container.xsd" container-id="12705291-44A6-4F9F-A396-3DC6F1F6E4D9" created="2003-06-27T00:13:55">
+	<cpar:calculator-parameters>
+		<cpar:security>
+			<cpar:primary-key-location>KEY_LOCATION_NOT_USED_BY_THIS_VERSION.</cpar:primary-key-location>
+			<cpar:public-key-location>KEY_LOCATION_NOT_USED_BY_THIS_VERSION.</cpar:public-key-location>
+		</cpar:security>
+		<cpar:election-id>0B2A344F-255D-4D68-AC30-B21FFDD6FDFB</cpar:election-id>
+		<cpar:result-type>final</cpar:result-type>
+	</cpar:calculator-parameters>
+	<epar:election-parameters>
+		<epar:election-id>0B2A344F-255D-4D68-AC30-B21FFDD6FDFB</epar:election-id> 
+		<epar:election-name>Southern District Health Board - Southland Constituency</epar:election-name>
+		<epar:election-date>2003-06-27</epar:election-date>
+		<epar:number-of-vacancies>3</epar:number-of-vacancies>
+	</epar:election-parameters>
+	<cand:election-candidates>
+		<xNL:PersonName candidate-id="16811ACA-753E-4668-B68D-3BA2820A306C" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Neville</xNL:FirstName>
+			<xNL:LastName>COOK</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="82E7BD32-0819-4668-802B-AE3DB3E77B73" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Pania</xNL:FirstName>
+			<xNL:LastName>COOTE</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="7C4AA4C9-8D8A-4997-BCCD-DD7C1C16B4F4" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Kaye</xNL:FirstName>
+			<xNL:LastName>CROWTHER</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="FC7DAA4B-28BD-4A6D-944C-78E4B4F1337A" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Terry</xNL:FirstName>
+			<xNL:LastName>KING</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="EA6D9B3D-F840-4A08-A06B-2D8E26BD36D3" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>John</xNL:FirstName>
+			<xNL:LastName>MACDONALD</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="0AB1A34E-1280-4C55-87E1-E388C68BB05E" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Roland</xNL:FirstName>
+			<xNL:LastName>MEYER</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="08DE4987-04D2-49E3-A818-764DFB90970B" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Ben</xNL:FirstName>
+			<xNL:LastName>NETTLETON</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="BFFE63EC-3875-473C-9AD4-A7478015E660" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Benje</xNL:FirstName>
+			<xNL:LastName>PATTERSON</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="38198D55-5209-4585-8DCD-83A6FAFFC0C0" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Marion</xNL:FirstName>
+			<xNL:LastName>POORE</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="DFEBC3F7-3902-4201-B600-F74E61476FA3" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Leanne</xNL:FirstName>
+			<xNL:LastName>SAMUEL</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="CFD2D8AE-A989-4BAF-AC01-88070BC2212A" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Lesley</xNL:FirstName>
+			<xNL:LastName>SOPER</xNL:LastName>
+		</xNL:PersonName>
+	</cand:election-candidates>
+	<votes>
+		<external-voting-data resource-id="HGUID111-WERE-WHAT-O999-QWERTY123456" name="Election Voter Data: 20-southern-district-health-board-southland-constituency-votes-0.xml" location="20-southern-district-health-board-southland-constituency-votes-0.xml"></external-voting-data>
+		<external-voting-data resource-id="8D6DB57C-ACD5-41C9-A5A3-570275EA9E19" name="Election Voter Data: FINAL_822_Southern_District_Health_Board_-_Southland_Constituency_D70_Queenstown_Lakes_District_Council.XML" location="FINAL_822_Southern_District_Health_Board_-_Southland_Constituency_D70_Queenstown_Lakes_District_Council.XML"></external-voting-data>
+		<external-voting-data resource-id="B4289104-2ABE-4248-B578-AF36FAA26126" name="Election Voter Data: FINAL_822_Southern_District_Health_Board_-_Southland_Constituency_D74_Gore_District_Council.XML" location="FINAL_822_Southern_District_Health_Board_-_Southland_Constituency_D74_Gore_District_Council.XML"></external-voting-data>
+		<external-voting-data resource-id="06D02C1B-DFC7-4092-A329-34EFFC200D0F" name="Election Voter Data: FINAL_822_Southern_District_Health_Board_-_Southland_Constituency_D75_Invercargill_City_Council.XML" location="FINAL_822_Southern_District_Health_Board_-_Southland_Constituency_D75_Invercargill_City_Council.XML"></external-voting-data>
+	</votes>
+</input-container>

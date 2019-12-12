@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<!-- STV Election Input Capital &amp; Coast District Health Board -->
+<!-- Election Number: Capital &amp; Coast District Health Board -->
+<!-- Election Name: Capital &amp; Coast District Health Board -->
+<!-- Election Guid: A158C4CE-E583-484C-8789-1F76ED7FBFE4-->
+<!-- No of Candidates: 23 -->
+<!-- No of Vacancies: 7 -->
+<!-- No of Voters: 147972 -->
+<!-- File Created: 18-OCT-2019 -->
+<input-container xmlns="http://schemas.dia.govt.nz/stv-calculator/input-container/1/20030106" xmlns:cand="http://schemas.dia.govt.nz/stv-calculator/list-of-candidates/1/20030106" xmlns:cpar="http://schemas.dia.govt.nz/stv-calculator/calculator-parameters/1/20030106" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:epar="http://schemas.dia.govt.nz/stv-calculator/election-parameters/1/20030106" xmlns:opt="http://schemas.dia.govt.nz/stv-calculator/list-of-options/1/20030106" xmlns:type="http://schemas.dia.govt.nz/stv-calculator/types/20030106" xmlns:vote="http://schemas.dia.govt.nz/stv-calculator/votes/1/20030106" xmlns:xNL="http://schemas.dia.govt.nz/stv-calculator/xNL-2.0-reduced/20030106" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.dia.govt.nz/stv-calculator/input-container/1/20030106 input-container.xsd" container-id="12705291-44A6-4F9F-A396-3DC6F1F6E4D9" created="2003-06-27T00:13:55">
+	<cpar:calculator-parameters>
+		<cpar:security>
+			<cpar:primary-key-location>KEY_LOCATION_NOT_USED_BY_THIS_VERSION.</cpar:primary-key-location>
+			<cpar:public-key-location>KEY_LOCATION_NOT_USED_BY_THIS_VERSION.</cpar:public-key-location>
+		</cpar:security>
+		<cpar:election-id>A158C4CE-E583-484C-8789-1F76ED7FBFE4</cpar:election-id>
+		<cpar:result-type>final</cpar:result-type>
+	</cpar:calculator-parameters>
+	<epar:election-parameters>
+		<epar:election-id>A158C4CE-E583-484C-8789-1F76ED7FBFE4</epar:election-id> 
+		<epar:election-name>Capital &amp; Coast District Health Board</epar:election-name>
+		<epar:election-date>2003-06-27</epar:election-date>
+		<epar:number-of-vacancies>7</epar:number-of-vacancies>
+	</epar:election-parameters>
+	<cand:election-candidates>
+		<xNL:PersonName candidate-id="5087B904-FD4F-4FA6-BF68-2970FCCA699B" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Kathryn</xNL:FirstName>
+			<xNL:LastName>ADAMS</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="901EBAF8-0F02-4091-9CA0-A3CD225B4BB6" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>John</xNL:FirstName>
+			<xNL:LastName>APANOWICZ</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="3EA457D3-1582-45B8-A087-0AAE5937F330" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Roger</xNL:FirstName>
+			<xNL:LastName>BLAKELEY</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="52A03A85-E5FD-4E1C-B373-FABA9E3CB44D" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Eileen</xNL:FirstName>
+			<xNL:LastName>BROWN</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="C3E62511-6AAC-4488-83B8-9A279DAB346F" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Marion</xNL:FirstName>
+			<xNL:LastName>CLARK</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="E3F9A5EA-F024-41FC-9179-EA46A79A98FC" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Nathan</xNL:FirstName>
+			<xNL:LastName>CLARK</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="AE998FC1-0E7A-4A7F-9C21-CE51A615CFF4" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>'Ana</xNL:FirstName>
+			<xNL:LastName>COFFEY</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="F4FF7E29-279D-478D-8370-D186E23F3215" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>John</xNL:FirstName>
+			<xNL:LastName>FISO</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="0D596658-C51D-468A-B2F9-422108C3F9C3" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Stephen</xNL:FirstName>
+			<xNL:LastName>GRICE</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="1A4C0071-1616-4645-AF69-A1AF2625FAA5" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Janet</xNL:FirstName>
+			<xNL:LastName>HOLBOROW</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="6E2D3795-ADF2-4910-8364-98575B149247" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Glenda</xNL:FirstName>
+			<xNL:LastName>HUGHES</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="382CFDAA-3966-4742-A33D-25F537E8EBC7" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Letitia</xNL:FirstName>
+			<xNL:LastName>ISA</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="D65A2950-70E7-4C7D-8429-BDF4E2EB3927" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Chris</xNL:FirstName>
+			<xNL:LastName>KALDERIMIS</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="46864C59-9FC5-4BC1-9584-755992DDF665" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Sue</xNL:FirstName>
+			<xNL:LastName>KEDGLEY</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="E171E02C-725E-4B7B-BBD9-0E99B4A7D9F7" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Simon (Swampy)</xNL:FirstName>
+			<xNL:LastName>MARSH</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="D17F0F0D-A1E8-489F-A27F-05B6161E92E2" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Alvin</xNL:FirstName>
+			<xNL:LastName>MITIKULENA</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="2BDBE763-AE6C-4793-83B5-4652A578FFB0" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Shan</xNL:FirstName>
+			<xNL:LastName>NG</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="6AD5C824-4568-4B6B-9447-1603CA81F15C" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Letitia</xNL:FirstName>
+			<xNL:LastName>O'DWYER</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="4C3EFEF4-69B3-4065-9393-D6BFF66A6B82" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>John</xNL:FirstName>
+			<xNL:LastName>PETERS</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="5E29D185-18A7-4ABA-96C0-D7598D2887E5" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>David</xNL:FirstName>
+			<xNL:LastName>SHAND</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="BC6D8D03-AEEB-4A31-9BE2-36102926973A" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Vanessa</xNL:FirstName>
+			<xNL:LastName>SIMPSON</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="15BC0914-9F23-42A4-8F2E-BE5A6EC43B67" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Susan</xNL:FirstName>
+			<xNL:LastName>TURNER</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="13D517A4-99FF-4AF6-A843-99466DBA1622" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Ayesha</xNL:FirstName>
+			<xNL:LastName>VERRALL</xNL:LastName>
+		</xNL:PersonName>
+	</cand:election-candidates>
+	<votes>
+		<external-voting-data resource-id="QGUID111-WERE-WHAT-O999-QWERTY123456" name="Election Voter Data: 19-capital-and-coast-district-health-board-votes-0.xml" location="19-capital-and-coast-district-health-board-votes-0.xml"></external-voting-data>
+		<external-voting-data resource-id="PGUID111-WERE-WHAT-O999-QWERTY123456" name="Election Voter Data: 19-capital-and-coast-district-health-board-votes-1.xml" location="19-capital-and-coast-district-health-board-votes-1.xml"></external-voting-data>
+		<external-voting-data resource-id="B1782B9B-ECC2-491A-A7D4-9CA3F870ACB2" name="Election Voter Data: FINAL_814_Capital_&amp;_Coast_District_Health_Board_D47_Wellington_City_Council.XML" location="FINAL_814_Capital_&amp;_Coast_District_Health_Board_D47_Wellington_City_Council.XML"></external-voting-data>
+		<external-voting-data resource-id="IGUID111-WERE-WHAT-O999-QWERTY123456" name="Election Voter Data: STV_InVote_Election_KapitiCoastDistrictCouncil_Issue_CapitalandCoastDist....xml" location="STV_InVote_Election_KapitiCoastDistrictCouncil_Issue_CapitalandCoastDist....xml"></external-voting-data>
+	</votes>
+</input-container>

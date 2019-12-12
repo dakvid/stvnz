@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<!-- STV Election Input Lakes District Health Board -->
+<!-- Election Number: Lakes District Health Board -->
+<!-- Election Name: Lakes District Health Board -->
+<!-- Election Guid: 8BAED026-9CA7-41AB-ACB9-C6B48E1C78C2-->
+<!-- No of Candidates: 17 -->
+<!-- No of Vacancies: 7 -->
+<!-- No of Voters: 71291 -->
+<!-- File Created: 17-OCT-2019 -->
+<input-container xmlns="http://schemas.dia.govt.nz/stv-calculator/input-container/1/20030106" xmlns:cand="http://schemas.dia.govt.nz/stv-calculator/list-of-candidates/1/20030106" xmlns:cpar="http://schemas.dia.govt.nz/stv-calculator/calculator-parameters/1/20030106" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:epar="http://schemas.dia.govt.nz/stv-calculator/election-parameters/1/20030106" xmlns:opt="http://schemas.dia.govt.nz/stv-calculator/list-of-options/1/20030106" xmlns:type="http://schemas.dia.govt.nz/stv-calculator/types/20030106" xmlns:vote="http://schemas.dia.govt.nz/stv-calculator/votes/1/20030106" xmlns:xNL="http://schemas.dia.govt.nz/stv-calculator/xNL-2.0-reduced/20030106" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.dia.govt.nz/stv-calculator/input-container/1/20030106 input-container.xsd" container-id="12705291-44A6-4F9F-A396-3DC6F1F6E4D9" created="2003-06-27T00:13:55">
+	<cpar:calculator-parameters>
+		<cpar:security>
+			<cpar:primary-key-location>KEY_LOCATION_NOT_USED_BY_THIS_VERSION.</cpar:primary-key-location>
+			<cpar:public-key-location>KEY_LOCATION_NOT_USED_BY_THIS_VERSION.</cpar:public-key-location>
+		</cpar:security>
+		<cpar:election-id>8BAED026-9CA7-41AB-ACB9-C6B48E1C78C2</cpar:election-id>
+		<cpar:result-type>final</cpar:result-type>
+	</cpar:calculator-parameters>
+	<epar:election-parameters>
+		<epar:election-id>8BAED026-9CA7-41AB-ACB9-C6B48E1C78C2</epar:election-id> 
+		<epar:election-name>Lakes District Health Board</epar:election-name>
+		<epar:election-date>2003-06-27</epar:election-date>
+		<epar:number-of-vacancies>7</epar:number-of-vacancies>
+	</epar:election-parameters>
+	<cand:election-candidates>
+		<xNL:PersonName candidate-id="C0281653-C3E0-4E7E-9E0C-7DAC3ACB5AF6" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Jean</xNL:FirstName>
+			<xNL:LastName>BATT</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="17179931-3D82-471A-8472-F35513B35E87" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Ngahihi-o-te-ra</xNL:FirstName>
+			<xNL:LastName>BIDOIS</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="1D78FA83-D2D0-4C03-9C98-AFFCD3115DEE" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Aroha</xNL:FirstName>
+			<xNL:LastName>BRAY</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="585DE501-1A20-457E-BD8B-E9C077BDA01E" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Stuart</xNL:FirstName>
+			<xNL:LastName>BURNS</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="463023EE-3FD2-4840-8FAB-8337E2F3FBA5" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Olive</xNL:FirstName>
+			<xNL:LastName>GALLAGHER</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="979C3FE7-6A4F-409F-B3C7-3C847B5B09BE" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Suzanne Elizabeth</xNL:FirstName>
+			<xNL:LastName>GOWER</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="44EE9982-1046-4D99-90AE-BEB3CCC74A76" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Janine</xNL:FirstName>
+			<xNL:LastName>HORTON</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="85682F18-2E2C-4998-B099-8DC97CFC3409" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Kylie</xNL:FirstName>
+			<xNL:LastName>LEONARD</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="241A5035-2BCC-420D-95EA-7E5B4995098F" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Tangihaere</xNL:FirstName>
+			<xNL:LastName>MACFARLANE</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="7F8144AB-983C-466B-9828-9265DC2502F1" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Claire</xNL:FirstName>
+			<xNL:LastName>MAHON</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="C8202460-F425-4CB4-972F-2033CB63EA17" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Liz</xNL:FirstName>
+			<xNL:LastName>MCGRATH</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="C3B5293A-6EFE-41CC-B354-53FF6CCF5E99" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Johan</xNL:FirstName>
+			<xNL:LastName>MORREAU</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="133191EE-341F-4BF8-9A60-F5FB2ED0597D" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Christine</xNL:FirstName>
+			<xNL:LastName>RANKIN</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="C669AFE0-003D-4252-9269-7FBD5FA5F055" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Merepeka</xNL:FirstName>
+			<xNL:LastName>RAUKAWA-TAIT</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="0887EE4C-9D56-4383-845C-B93C892AD95E" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Andrew</xNL:FirstName>
+			<xNL:LastName>TATTLE</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="FF3F471D-A58F-4930-B4C0-6B4E376BB7CD" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Lyall</xNL:FirstName>
+			<xNL:LastName>THURSTON</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="F0FD13CC-D195-4CF2-997D-FB92ABC69380" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Rob</xNL:FirstName>
+			<xNL:LastName>VIGOR-BROWN</xNL:LastName>
+		</xNL:PersonName>
+	</cand:election-candidates>
+	<votes>
+		<external-voting-data resource-id="A5433D2E-4D41-4E6E-9B55-45553AC92FB5" name="Election Voter Data: FINAL_806_Lakes_District_Health_Board_D21_Taupo_District_Council.XML" location="FINAL_806_Lakes_District_Health_Board_D21_Taupo_District_Council.XML"></external-voting-data>
+		<external-voting-data resource-id="443A08D5-E31C-47E1-8C52-61D605A787B8" name="Election Voter Data: FINAL_806_Lakes_District_Health_Board_D24_Rotorua_Lakes_Council.XML" location="FINAL_806_Lakes_District_Health_Board_D24_Rotorua_Lakes_Council.XML"></external-voting-data>
+	</votes>
+</input-container>

@@ -1,0 +1,151 @@
+<?xml version="1.0" ?>
+<!-- STV Election Input Canterbury District Health Board -->
+<!-- Election Number: Canterbury District Health Board -->
+<!-- Election Name: Canterbury District Health Board -->
+<!-- Election Guid: 6B2858B3-4058-4D7F-86E5-8A84CC03152A-->
+<!-- No of Candidates: 23 -->
+<!-- No of Vacancies: 7 -->
+<!-- No of Voters: 364337 -->
+<!-- File Created: 17-OCT-2019 -->
+<input-container xmlns="http://schemas.dia.govt.nz/stv-calculator/input-container/1/20030106" xmlns:cand="http://schemas.dia.govt.nz/stv-calculator/list-of-candidates/1/20030106" xmlns:cpar="http://schemas.dia.govt.nz/stv-calculator/calculator-parameters/1/20030106" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:epar="http://schemas.dia.govt.nz/stv-calculator/election-parameters/1/20030106" xmlns:opt="http://schemas.dia.govt.nz/stv-calculator/list-of-options/1/20030106" xmlns:type="http://schemas.dia.govt.nz/stv-calculator/types/20030106" xmlns:vote="http://schemas.dia.govt.nz/stv-calculator/votes/1/20030106" xmlns:xNL="http://schemas.dia.govt.nz/stv-calculator/xNL-2.0-reduced/20030106" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.dia.govt.nz/stv-calculator/input-container/1/20030106 input-container.xsd" container-id="12705291-44A6-4F9F-A396-3DC6F1F6E4D9" created="2003-06-27T00:13:55">
+	<cpar:calculator-parameters>
+		<cpar:security>
+			<cpar:primary-key-location>KEY_LOCATION_NOT_USED_BY_THIS_VERSION.</cpar:primary-key-location>
+			<cpar:public-key-location>KEY_LOCATION_NOT_USED_BY_THIS_VERSION.</cpar:public-key-location>
+		</cpar:security>
+		<cpar:election-id>6B2858B3-4058-4D7F-86E5-8A84CC03152A</cpar:election-id>
+		<cpar:result-type>final</cpar:result-type>
+	</cpar:calculator-parameters>
+	<epar:election-parameters>
+		<epar:election-id>6B2858B3-4058-4D7F-86E5-8A84CC03152A</epar:election-id> 
+		<epar:election-name>Canterbury District Health Board</epar:election-name>
+		<epar:election-date>2003-06-27</epar:election-date>
+		<epar:number-of-vacancies>7</epar:number-of-vacancies>
+	</epar:election-parameters>
+	<cand:election-candidates>
+		<xNL:PersonName candidate-id="C08F8FD3-B291-4FCC-A242-81A7B3159878" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Blair</xNL:FirstName>
+			<xNL:LastName>ANDERSON</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="95642DC5-25FC-43B3-B4EB-D8BCDEF3A643" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Peter</xNL:FirstName>
+			<xNL:LastName>BALLANTYNE</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="154DEA59-B761-46DB-BEAA-4C4CB53D27B9" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Geoff</xNL:FirstName>
+			<xNL:LastName>BOOTH</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="8FEBD1DD-8FD7-411E-9B9A-201A5EAB8E9E" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Sally</xNL:FirstName>
+			<xNL:LastName>BUCK</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="7D986829-5206-4010-9226-4DB0A265EFC8" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Catherine</xNL:FirstName>
+			<xNL:LastName>CHU</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="C6DD6D59-D32E-40FA-A659-F17DB964C65A" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Gray</xNL:FirstName>
+			<xNL:LastName>CRAWFORD</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="D144CE9C-9E42-4E24-8D5E-B767CB0CA968" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Anna</xNL:FirstName>
+			<xNL:LastName>CRIGHTON</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="134212D0-7FC6-4A3B-AE3C-F660E25150C8" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Alexandra</xNL:FirstName>
+			<xNL:LastName>DAVIDS</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="42C60475-8DA1-4142-A628-5FC1424D170D" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Andrew</xNL:FirstName>
+			<xNL:LastName>DICKERSON</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="C4E1D63A-4702-4031-A783-4AC27DA67F97" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>John</xNL:FirstName>
+			<xNL:LastName>EDIE</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="80CBCA68-1D5D-4FBF-9A08-616B10CBFFC8" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>James</xNL:FirstName>
+			<xNL:LastName>GOUGH</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="DADBFE3F-50A0-4ED9-AB2A-6E75F32EE650" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Tubby</xNL:FirstName>
+			<xNL:LastName>HANSEN</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="12087E12-237D-4550-829F-AE5D7BA69CE6" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Jo</xNL:FirstName>
+			<xNL:LastName>KANE</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="29C0F1DC-5395-43E9-AB9D-98838C69A367" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Aaron</xNL:FirstName>
+			<xNL:LastName>KEOWN</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="F5400D0C-91AB-4647-9571-7C20EEE5E8CB" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Malcolm</xNL:FirstName>
+			<xNL:LastName>LYALL</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="CB6C8BFC-E51F-4F31-BEFA-D301B948FA36" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Naomi</xNL:FirstName>
+			<xNL:LastName>MARSHALL</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="DF13F6C4-74E3-4D8E-A313-6D12B8463A76" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Debbie</xNL:FirstName>
+			<xNL:LastName>MORA</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="E0C3E330-99EA-4557-998B-4DA9CB956331" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Vicki Tahau</xNL:FirstName>
+			<xNL:LastName>PATON</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="BB9F2C6F-87B6-42BC-A2E7-11E535485E9D" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Rochelle</xNL:FirstName>
+			<xNL:LastName>PHIPPS</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="B8FD4F0A-06A6-44DA-B574-26E485C7238B" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Robert</xNL:FirstName>
+			<xNL:LastName>READ</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="47B4BF66-1EEA-4283-AE31-936708C8A8AF" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Brian</xNL:FirstName>
+			<xNL:LastName>SALISBURY</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="617A2F94-A3C2-4A6B-8A71-47A2A0E4BE77" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Steve</xNL:FirstName>
+			<xNL:LastName>WAKEFIELD</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="61BC9A82-6657-4EF1-941B-F9C718F0B54F" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Peter</xNL:FirstName>
+			<xNL:LastName>WAKEMAN</xNL:LastName>
+		</xNL:PersonName>
+	</cand:election-candidates>
+	<votes>
+		<external-voting-data resource-id="96068511-29BA-4CCB-B738-3EAA0E925B0D" name="Election Voter Data: FINAL_818_Canterbury_District_Health_Board_D54_Kaikoura_District_Council.XML" location="FINAL_818_Canterbury_District_Health_Board_D54_Kaikoura_District_Council.XML"></external-voting-data>
+		<external-voting-data resource-id="6F3DF5A5-31FA-4F78-BB7B-32D1E2136641" name="Election Voter Data: FINAL_818_Canterbury_District_Health_Board_D58_Hurunui_District_Council.XML" location="FINAL_818_Canterbury_District_Health_Board_D58_Hurunui_District_Council.XML"></external-voting-data>
+		<external-voting-data resource-id="CC34D46D-D037-4BEA-B794-BF1C6574B17F" name="Election Voter Data: FINAL_818_Canterbury_District_Health_Board_D59_Waimakariri_District_Council.XML" location="FINAL_818_Canterbury_District_Health_Board_D59_Waimakariri_District_Council.XML"></external-voting-data>
+		<external-voting-data resource-id="6FC9DE40-84B8-48FC-B707-52C47E73843E" name="Election Voter Data: FINAL_818_Canterbury_District_Health_Board_D60_Christchurch_City_Council.XML" location="FINAL_818_Canterbury_District_Health_Board_D60_Christchurch_City_Council.XML"></external-voting-data>
+		<external-voting-data resource-id="8704073A-E978-4527-A32B-5457B9235445" name="Election Voter Data: FINAL_818_Canterbury_District_Health_Board_D62_Selwyn_District_Council.XML" location="FINAL_818_Canterbury_District_Health_Board_D62_Selwyn_District_Council.XML"></external-voting-data>
+		<external-voting-data resource-id="57B59BE5-97BF-4439-AC2D-34778E34061F" name="Election Voter Data: FINAL_818_Canterbury_District_Health_Board_D63_Ashburton_District_Council.XML" location="FINAL_818_Canterbury_District_Health_Board_D63_Ashburton_District_Council.XML"></external-voting-data>
+		<external-voting-data resource-id="1B754905-B595-467D-AB5A-8542D1CCB851" name="Election Voter Data: FINAL_818_Canterbury_District_Health_Board_D67_Chatham_Islands_Council.XML" location="FINAL_818_Canterbury_District_Health_Board_D67_Chatham_Islands_Council.XML"></external-voting-data>
+	</votes>
+</input-container>

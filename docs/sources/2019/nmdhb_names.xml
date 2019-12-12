@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<!-- STV Election Input Nelson Marlborough District Health Board -->
+<!-- Election Number: Nelson Marlborough District Health Board -->
+<!-- Election Name: Nelson Marlborough District Health Board -->
+<!-- Election Guid: D828990A-3AB7-47F6-B0AD-B6E5234055F1-->
+<!-- No of Candidates: 14 -->
+<!-- No of Vacancies: 7 -->
+<!-- No of Voters: 109686 -->
+<!-- File Created: 17-OCT-2019 -->
+<input-container xmlns="http://schemas.dia.govt.nz/stv-calculator/input-container/1/20030106" xmlns:cand="http://schemas.dia.govt.nz/stv-calculator/list-of-candidates/1/20030106" xmlns:cpar="http://schemas.dia.govt.nz/stv-calculator/calculator-parameters/1/20030106" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:epar="http://schemas.dia.govt.nz/stv-calculator/election-parameters/1/20030106" xmlns:opt="http://schemas.dia.govt.nz/stv-calculator/list-of-options/1/20030106" xmlns:type="http://schemas.dia.govt.nz/stv-calculator/types/20030106" xmlns:vote="http://schemas.dia.govt.nz/stv-calculator/votes/1/20030106" xmlns:xNL="http://schemas.dia.govt.nz/stv-calculator/xNL-2.0-reduced/20030106" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.dia.govt.nz/stv-calculator/input-container/1/20030106 input-container.xsd" container-id="12705291-44A6-4F9F-A396-3DC6F1F6E4D9" created="2003-06-27T00:13:55">
+	<cpar:calculator-parameters>
+		<cpar:security>
+			<cpar:primary-key-location>KEY_LOCATION_NOT_USED_BY_THIS_VERSION.</cpar:primary-key-location>
+			<cpar:public-key-location>KEY_LOCATION_NOT_USED_BY_THIS_VERSION.</cpar:public-key-location>
+		</cpar:security>
+		<cpar:election-id>D828990A-3AB7-47F6-B0AD-B6E5234055F1</cpar:election-id>
+		<cpar:result-type>final</cpar:result-type>
+	</cpar:calculator-parameters>
+	<epar:election-parameters>
+		<epar:election-id>D828990A-3AB7-47F6-B0AD-B6E5234055F1</epar:election-id> 
+		<epar:election-name>Nelson Marlborough District Health Board</epar:election-name>
+		<epar:election-date>2003-06-27</epar:election-date>
+		<epar:number-of-vacancies>7</epar:number-of-vacancies>
+	</epar:election-parameters>
+	<cand:election-candidates>
+		<xNL:PersonName candidate-id="C7747D31-0B86-4748-8190-D6BEE0E8A9E7" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Aaryn</xNL:FirstName>
+			<xNL:LastName>BARLOW</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="B58B91CB-8C0D-4BEC-AD36-ECC13EB66A15" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Jenny</xNL:FirstName>
+			<xNL:LastName>BLACK</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="72A6BA00-F685-4174-8F1C-05C8AF2E2A9B" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Brigid</xNL:FirstName>
+			<xNL:LastName>FORREST</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="CA5E95F8-A097-4589-9540-E85E21D262B9" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Bernie</xNL:FirstName>
+			<xNL:LastName>GOLDSMITH</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="A0F5E60F-8DB0-4BA6-915F-F4C88F5AC40F" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Deleece</xNL:FirstName>
+			<xNL:LastName>HALL</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="B77EE25B-5B35-4B95-BAD5-9D71CB0C191B" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Gerald</xNL:FirstName>
+			<xNL:LastName>HOPE</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="F92DBD92-EEE9-4111-96DC-FDF76B5979AE" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>John</xNL:FirstName>
+			<xNL:LastName>HUTTON</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="34D03916-132D-4B09-B980-204B9A4FC557" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Leigh</xNL:FirstName>
+			<xNL:LastName>MANSON</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="39D406F6-4CDE-451E-90FC-CF9197C2D6CD" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Paul</xNL:FirstName>
+			<xNL:LastName>MATHESON</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="9FE7B234-4AEA-425A-B81B-DCD6A84F9168" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Garth</xNL:FirstName>
+			<xNL:LastName>MUNRO</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="834ED2CA-0F13-46AC-A9BE-D869D390B838" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Jacinta</xNL:FirstName>
+			<xNL:LastName>NEWPORT</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="AC3B6E6E-72F9-45E2-B5F1-3C7E6A553A13" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Allan</xNL:FirstName>
+			<xNL:LastName>PANTING</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="22B73EA3-E40D-417A-B5DC-D80DF39F7FBC" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Ian</xNL:FirstName>
+			<xNL:LastName>PIRIE</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="601D1DF5-131E-4362-8AFF-0C302764E0FD" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Stephen</xNL:FirstName>
+			<xNL:LastName>VALLANCE</xNL:LastName>
+		</xNL:PersonName>
+	</cand:election-candidates>
+	<votes>
+		<external-voting-data resource-id="F2333FB7-CD8E-4D5F-AE9D-C53B40E8A404" name="Election Voter Data: FINAL_816_Nelson_Marlborough_District_Health_Board_D51_Tasman_District_Council.XML" location="FINAL_816_Nelson_Marlborough_District_Health_Board_D51_Tasman_District_Council.XML"></external-voting-data>
+		<external-voting-data resource-id="3BB18977-367A-45C8-B330-9AEF2BDB6C95" name="Election Voter Data: FINAL_816_Nelson_Marlborough_District_Health_Board_D52_Nelson_City_Council.XML" location="FINAL_816_Nelson_Marlborough_District_Health_Board_D52_Nelson_City_Council.XML"></external-voting-data>
+		<external-voting-data resource-id="E506B9A4-2473-4B5D-B5D2-E3A174EAC5FF" name="Election Voter Data: FINAL_816_Nelson_Marlborough_District_Health_Board_D53_Marlborough_District_Council.XML" location="FINAL_816_Nelson_Marlborough_District_Health_Board_D53_Marlborough_District_Council.XML"></external-voting-data>
+	</votes>
+</input-container>

@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<!-- STV Election Input Wairarapa District Health Board -->
+<!-- Election Number: Wairarapa District Health Board -->
+<!-- Election Name: Wairarapa District Health Board -->
+<!-- Election Guid: 62B05BBC-E40C-4068-90C0-CD4E409AD6F0-->
+<!-- No of Candidates: 10 -->
+<!-- No of Vacancies: 7 -->
+<!-- No of Voters: 33669 -->
+<!-- File Created: 17-OCT-2019 -->
+<input-container xmlns="http://schemas.dia.govt.nz/stv-calculator/input-container/1/20030106" xmlns:cand="http://schemas.dia.govt.nz/stv-calculator/list-of-candidates/1/20030106" xmlns:cpar="http://schemas.dia.govt.nz/stv-calculator/calculator-parameters/1/20030106" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:epar="http://schemas.dia.govt.nz/stv-calculator/election-parameters/1/20030106" xmlns:opt="http://schemas.dia.govt.nz/stv-calculator/list-of-options/1/20030106" xmlns:type="http://schemas.dia.govt.nz/stv-calculator/types/20030106" xmlns:vote="http://schemas.dia.govt.nz/stv-calculator/votes/1/20030106" xmlns:xNL="http://schemas.dia.govt.nz/stv-calculator/xNL-2.0-reduced/20030106" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.dia.govt.nz/stv-calculator/input-container/1/20030106 input-container.xsd" container-id="12705291-44A6-4F9F-A396-3DC6F1F6E4D9" created="2003-06-27T00:13:55">
+	<cpar:calculator-parameters>
+		<cpar:security>
+			<cpar:primary-key-location>KEY_LOCATION_NOT_USED_BY_THIS_VERSION.</cpar:primary-key-location>
+			<cpar:public-key-location>KEY_LOCATION_NOT_USED_BY_THIS_VERSION.</cpar:public-key-location>
+		</cpar:security>
+		<cpar:election-id>62B05BBC-E40C-4068-90C0-CD4E409AD6F0</cpar:election-id>
+		<cpar:result-type>final</cpar:result-type>
+	</cpar:calculator-parameters>
+	<epar:election-parameters>
+		<epar:election-id>62B05BBC-E40C-4068-90C0-CD4E409AD6F0</epar:election-id> 
+		<epar:election-name>Wairarapa District Health Board</epar:election-name>
+		<epar:election-date>2003-06-27</epar:election-date>
+		<epar:number-of-vacancies>7</epar:number-of-vacancies>
+	</epar:election-parameters>
+	<cand:election-candidates>
+		<xNL:PersonName candidate-id="0C70D7FA-7A6C-40CE-AB83-0B62CFF25F9B" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Don</xNL:FirstName>
+			<xNL:LastName>BASKERVILLE</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="422E7C69-DF88-4182-BA8A-0BA7BDECDCCD" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Tony</xNL:FirstName>
+			<xNL:LastName>BECKER</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="4C96B3D8-319B-4FD5-A2C2-ACA8C7F39454" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Stephen</xNL:FirstName>
+			<xNL:LastName>BUTCHER</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="22BDB12A-693B-4DE5-86ED-DE44E241E2AC" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Joy</xNL:FirstName>
+			<xNL:LastName>COOPER</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="0C5818BC-5879-4635-BDC9-DA580FA29DC2" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Norman</xNL:FirstName>
+			<xNL:LastName>GRAY</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="4E76BC7D-12DA-4BD0-A42F-EA4580F99493" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Peter</xNL:FirstName>
+			<xNL:LastName>MCCARDLE</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="147DBC70-0AC9-4F9A-AC42-AF3129B401BD" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Helen</xNL:FirstName>
+			<xNL:LastName>POCKNALL</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="3AB57C3A-7ABE-48DC-AD82-7666259A426D" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Ryan</xNL:FirstName>
+			<xNL:LastName>SORIANO</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="497C3488-0196-4712-9790-9F504B96638C" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Leanne</xNL:FirstName>
+			<xNL:LastName>SOUTHEY</xNL:LastName>
+		</xNL:PersonName>
+		<xNL:PersonName candidate-id="42AAA470-2A02-45AD-B272-CCE9A5B1D6A4" election-status="active">
+			<xNL:Title></xNL:Title>
+			<xNL:FirstName>Jill</xNL:FirstName>
+			<xNL:LastName>STRINGER</xNL:LastName>
+		</xNL:PersonName>
+	</cand:election-candidates>
+	<votes>
+		<external-voting-data resource-id="7B621345-8118-4C2E-ADF7-CE27059B1B64" name="Election Voter Data: FINAL_815_Wairarapa_District_Health_Board_D48_Masterton_District_Council.XML" location="FINAL_815_Wairarapa_District_Health_Board_D48_Masterton_District_Council.XML"></external-voting-data>
+		<external-voting-data resource-id="F5EB2662-E2FE-45BE-9B78-4DC5FFF0101C" name="Election Voter Data: FINAL_815_Wairarapa_District_Health_Board_D49_Carterton_District_Council.XML" location="FINAL_815_Wairarapa_District_Health_Board_D49_Carterton_District_Council.XML"></external-voting-data>
+		<external-voting-data resource-id="821AB3E5-4866-4126-959D-3614D49D1F41" name="Election Voter Data: FINAL_815_Wairarapa_District_Health_Board_D50_South_Wairarapa_District_Council.XML" location="FINAL_815_Wairarapa_District_Health_Board_D50_South_Wairarapa_District_Council.XML"></external-voting-data>
+	</votes>
+</input-container>
