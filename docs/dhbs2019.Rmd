@@ -22,9 +22,9 @@ Seven seats elected from 21 candidates in 21 iterations.
 
 ## Canterbury District Health Board
 
-Seven seats elected from 23 candidates.
+Seven seats elected from 23 candidates in 32 iterations.
 
-*Waiting on data from Electionz*
+<iframe src="https://player.vimeo.com/video/378978654" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ## Capital and Coast District Health Board
@@ -42,11 +42,11 @@ Seven seats elected from 33 candidates in 49 iterations.
 <iframe src="https://player.vimeo.com/video/375325038" width="640" height="1049" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
-## Hawkes Bay District Health Board
+## Hawke's Bay District Health Board
 
-Seven seats elected from 25 candidates.
+Seven seats elected from 25 candidates in 30 iterations.
 
-*Waiting on data from Electionz*
+<iframe src="https://player.vimeo.com/video/378982813" width="640" height="846" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ## Hutt Valley District Health Board
@@ -58,9 +58,9 @@ Seven seats elected from 13 candidates in 28 iterations.
 
 ## Lakes District Health Board
 
-Seven seats elected from 17 candidates.
+Seven seats elected from 17 candidates in 25 iterations.
 
-*Waiting on data from Electionz*
+<iframe src="https://player.vimeo.com/video/378980810" width="640" height="640" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ## MidCentral District Health Board
@@ -72,9 +72,9 @@ Seven seats elected from 15 candidates in 12 iterations.
 
 ## Nelson-Marlborough District Health Board
 
-Seven seats elected from 14 candidates.
+Seven seats elected from 14 candidates in 30 iterations.
 
-*Waiting on data from Electionz*
+<iframe src="https://player.vimeo.com/video/378980749" width="640" height="563" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ## Northland District Health Board
@@ -93,16 +93,16 @@ Seven seats elected from 13 candidates in 22 iterations.
 
 ## Southern District Health Board, Otago Constituency
 
-Four seats elected from 17 candidates.
+Four seats elected from 17 candidates in 19 iterations.
 
-*Waiting on data from Electionz*
+<iframe src="https://player.vimeo.com/video/378978710" width="640" height="640" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ## Southern District Health Board, Southland Constituency
 
-Three seats elected from 11 candidates.
+Three seats elected from 11 candidates in nine iterations.
 
-*Waiting on data from Electionz*
+<iframe src="https://player.vimeo.com/video/378978730" width="640" height="486" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 
@@ -122,9 +122,9 @@ Seven seats elected from 17 candidates in 18 iterations.
 
 ## Wairarapa District Health Board
 
-Seven seats elected from 10 candidates.
+Seven seats elected from 10 candidates in 17 iterations.
 
-*Waiting on data from Electionz*
+<iframe src="https://player.vimeo.com/video/378980721" width="640" height="461" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ## Waitemata District Health Board
@@ -136,9 +136,9 @@ Seven seats elected from 23 candidates in 40 iterations.
 
 ## West Coast District Health Board
 
-Seven seats elected from 15 candidates.
+Seven seats elected from 15 candidates in 20 iterations.
 
-*Waiting on data from Electionz*
+<iframe src="https://player.vimeo.com/video/378980678" width="640" height="588" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ## Whanganui District Health Board
